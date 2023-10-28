@@ -1,0 +1,3 @@
+-- @block
+CREATE TABLE Words(
+    id INT PRIMARY KEY AUTO_INCREMENT,
