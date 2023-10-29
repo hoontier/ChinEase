@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
   {
     "Lesson 18 Dialogue 2": [
       {
@@ -118,3 +119,211 @@
     ]
   }
 ]
+=======
+    {
+        "Lesson 18 Dialogue 1": [
+            {
+              "hanzi": "当然",
+              "pinyin": "dāng rán",
+              "noTones": "dang ran",
+              "english": "of course"
+            },
+            {
+              "hanzi": "胖",
+              "pinyin": "pàng",
+              "noTones": "pang",
+              "english": "fat"
+            },
+            {
+              "hanzi": "怕",
+              "pinyin": "pà",
+              "noTones": "pa",
+              "english": "to fear; to be afraid of"
+            },
+            {
+              "hanzi": "简单",
+              "pinyin": "jiǎn dān",
+              "noTones": "jian dan",
+              "english": "simple; not complicated"
+            },
+            {
+              "hanzi": "跑步",
+              "pinyin": "pǎo bù",
+              "noTones": "pao bu",
+              "english": "running, to jog"
+            },
+            {
+              "hanzi": "跑",
+              "pinyin": "pǎo",
+              "noTones": "pao",
+              "english": "to run"
+            },
+            {
+              "hanzi": "难受",
+              "pinyin": "nán shòu",
+              "noTones": "nan shou",
+              "english": "uncomfortable, feel bad"
+            },
+            {
+              "hanzi": "网球",
+              "pinyin": "wǎng qiú",
+              "noTones": "wang qiu",
+              "english": "tennis"
+            },
+            {
+              "hanzi": "拍",
+              "pinyin": "pāi",
+              "noTones": "pai",
+              "english": "racket"
+            },
+            {
+              "hanzi": "篮球",
+              "pinyin": "lán qiú",
+              "noTones": "lan qiu",
+              "english": "basketball"
+            },
+            {
+              "hanzi": "游泳",
+              "pinyin": "yóu yǒng",
+              "noTones": "you yong",
+              "english": "to swim"
+            },
+            {
+              "hanzi": "危险",
+              "pinyin": "wēi xiǎn",
+              "noTones": "wei xian",
+              "english": "danger; dangerous"
+            },
+            {
+              "hanzi": "淹死",
+              "pinyin": "yān sǐ",
+              "noTones": "yan si",
+              "english": "to drown"
+            },
+            {
+              "hanzi": "愿意",
+              "pinyin": "yuàn yì",
+              "noTones": "yuan yi",
+              "english": "to be willing"
+            }
+        ], 
+        "Lesson 18 Dialogue 2": [
+            {
+            "hanzi": "上大学",
+            "pinyin": "shàng dà xué",
+            "noTones": "shang da xue",
+            "english": "to attend college/university"
+            },
+            {
+            "hanzi": "为了",
+            "pinyin": "wèi le",
+            "noTones": "wei le",
+            "english": "in order to, for the sake of"
+            },
+            {
+            "hanzi": "提高",
+            "pinyin": "tí gāo",
+            "noTones": "ti gao",
+            "english": "improve, increase, raise the level of"
+            },
+            {
+            "hanzi": "水平",
+            "pinyin": "shuǐ píng",
+            "noTones": "shui ping",
+            "english": "level, standard"
+            },
+            {
+            "hanzi": "足球",
+            "pinyin": "zú qiú",
+            "noTones": "zu qiu",
+            "english": "soccer"
+            },
+            {
+            "hanzi": "比赛",
+            "pinyin": "bǐ sài",
+            "noTones": "bi sai",
+            "english": "competition, contest, match"
+            },
+            {
+            "hanzi": "国际",
+            "pinyin": "guó jì",
+            "noTones": "guo ji",
+            "english": "international"
+            },
+            {
+            "hanzi": "美式",
+            "pinyin": "měi shì",
+            "noTones": "mei shi",
+            "english": "American style"
+            },
+            {
+            "hanzi": "应该",
+            "pinyin": "yīng gāi",
+            "noTones": "ying gai",
+            "english": "should"
+            },
+            {
+            "hanzi": "脚",
+            "pinyin": "jiǎo",
+            "noTones": "jiao",
+            "english": "foot"
+            },
+            {
+            "hanzi": "踢",
+            "pinyin": "tī",
+            "noTones": "ti",
+            "english": "to kick"
+            },
+            {
+            "hanzi": "手",
+            "pinyin": "shǒu",
+            "noTones": "shou",
+            "english": "hand"
+            },
+            {
+            "hanzi": "抱",
+            "pinyin": "bào",
+            "noTones": "bao",
+            "english": "to hold or carry in the arms"
+            },
+            {
+            "hanzi": "压",
+            "pinyin": "yā",
+            "noTones": "ya",
+            "english": "to press; to hold down; to weigh down"
+            },
+            {
+            "hanzi": "被",
+            "pinyin": "bèi",
+            "noTones": "bei",
+            "english": "by (structural word)"
+            },
+            {
+            "hanzi": "担心",
+            "pinyin": "dān xīn",
+            "noTones": "dan xin",
+            "english": "worried, to worry"
+            },
+            {
+            "hanzi": "棒",
+            "pinyin": "bàng",
+            "noTones": "bang",
+            "english": "fantastic; super"
+            },
+            {
+            "hanzi": "运动服",
+            "pinyin": "yùn dòng fú",
+            "noTones": "yun dong fu",
+            "english": "sportswear, athletic clothing"
+            },
+            {
+            "hanzi": "半天",
+            "pinyin": "bàn tiān",
+            "noTones": "ban tian",
+            "english": "half a day; a long time"
+            }
+      ]
+    }
+  ]
+  
+>>>>>>> master
