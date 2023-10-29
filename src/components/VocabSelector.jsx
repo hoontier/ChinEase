@@ -1,14 +1,14 @@
 // VocabSelector.jsx
 import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { setWords, selectVocabListNames, setVocabListPart, setSelectedVocabLists } from '../features/vocabSlice';
+import { setWords, selectVocabList, setVocabListPart, setSelectedVocabLists } from '../features/vocabSlice';
 import Select from 'react-select';
 
 function VocabSelector() {
     const dispatch = useDispatch();
     const vocabListPart = useSelector(state => state.vocab.vocabListPart);
     const selectedVocabLists = useSelector(state => state.vocab.selectedVocabLists);
-    const vocabListNames = useSelector(selectVocabListNames);
+    const vocabListNames = useSelector(selectVocabList);
 
     const customStyles = {
         control: (base, state) => ({
@@ -20,6 +20,8 @@ function VocabSelector() {
             }
         })
     };
+
+    
 
     const handleSelectChange = (selectedOptions) => {
         if (selectedOptions && selectedOptions.length > 0) {
