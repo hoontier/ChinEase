@@ -8,14 +8,16 @@ import Flashcards from './components/Flashcards';
 
 function Content() {
     const [isFlashcardsView, setIsFlashcardsView] = useState(false);
-    const [selectedColumns, setSelectedColumns] = useState(['Hanzi', 'Pinyin', 'English']); // Default columns
+    const [selectedColumns, setSelectedColumns] = useState(['Number', 'Hanzi', 'Pinyin', 'English']); // Default columns
 
     const columnOptions = [
+        { value: 'Number', label: 'Number' },
         { value: 'Hanzi', label: 'Hanzi' },
         { value: 'Pinyin', label: 'Pinyin' },
         { value: 'No Tones', label: 'No Tones' },
         { value: 'English', label: 'English' }
     ];
+    
 
     const handleColumnChange = (selectedOptions) => {
         setSelectedColumns(selectedOptions.map(option => option.value));
