@@ -1,7 +1,8 @@
 //Flashcards.jsx
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { selectWords, selectCurrentCard, selectIsFlipped, selectIsRandom, setCurrentCard, setFlipped, toggleRandom, removeActiveCard, setWords, resetVocabWords, randomizeActiveCards } from '../features/vocabSlice';
+import Select from 'react-select';
 function Flashcards() {
     const dispatch = useDispatch();
 
@@ -20,6 +21,26 @@ function Flashcards() {
         }
         dispatch(setFlipped(false));  // Always set to front side
     };
+
+        // Add these states for the front and back properties
+        const [frontSide, setFrontSide] = useState(['noTones']);
+        const [backSide, setBackSide] = useState(['hanzi', 'pinyin', 'english']);
+    
+        // This is the options that the user can select for the flashcards
+        const cardOptions = [
+            { value: 'hanzi', label: 'Hanzi' },
+            { value: 'pinyin', label: 'Pinyin' },
+            { value: 'noTones', label: 'No Tones' },
+            { value: 'english', label: 'English' },
+        ];
+    
+        const handleFrontChange = (selectedOptions) => {
+            setFrontSide(selectedOptions.map(option => option.value));
+        };
+    
+        const handleBackChange = (selectedOptions) => {
+            setBackSide(selectedOptions.map(option => option.value));
+        };
     
 
     const handleCardFlip = () => {
@@ -106,6 +127,26 @@ function Flashcards() {
 
     return (
         <div className="flex flex-col items-center justify-start h-screen bg-gray-100">
+            <div className="flex flex-col md:flex-row justify-center mb-4">
+                <div className="mb-2 md:mb-0 md:mr-2">
+                    <label>Front:</label>
+                    <Select
+                        isMulti
+                        options={cardOptions}
+                        value={frontSide.map(prop => ({ value: prop, label: cardOptions.find(opt => opt.value === prop).label }))}
+                        onChange={handleFrontChange}
+                    />
+                </div>
+                <div className="mt-2 md:mt-0 md:ml-2">
+                    <label>Back:</label>
+                    <Select
+                        isMulti
+                        options={cardOptions}
+                        value={backSide.map(prop => ({ value: prop, label: cardOptions.find(opt => opt.value === prop).label }))}
+                        onChange={handleBackChange}
+                    />
+                </div>
+            </div>
             {activeCards.length > 0 && (
                 <div className="relative">
                     <button
@@ -119,16 +160,16 @@ function Flashcards() {
                         onClick={handleCardFlip}
                         className={`p-8 w-64 h-48 bg-white shadow-lg transform transition-transform duration-500 ${isFlipped ? 'rotate-y-180' : ''} relative`}
                     >
-                            <div 
+                        <div 
                             className={`absolute inset-0 flex items-center justify-center backface-hidden ${!isFlipped ? 'visible opacity-100' : 'invisible opacity-0'}`}
-                            >
-                            {activeCards[currentCard].noTones}
-                            </div>
-                            <div 
+                        >
+                            {frontSide.map(prop => activeCards[currentCard][prop]).join(' - ')}
+                        </div>
+                        <div 
                             className={`absolute inset-0 flex items-center justify-center backface-hidden rotate-y-180 ${isFlipped ? 'visible opacity-100' : 'invisible opacity-0'}`}
-                            >
-                            {`${activeCards[currentCard].hanzi} - ${activeCards[currentCard].pinyin} - ${activeCards[currentCard].english}`}
-                            </div>
+                        >
+                            {backSide.map(prop => activeCards[currentCard][prop]).join(' - ')}
+                        </div>
                     </div>
                     <button
                         onClick={gotThisWord}
