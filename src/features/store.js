@@ -1,9 +1,11 @@
 //store.js
 import { configureStore } from '@reduxjs/toolkit';
-import { vocabSlice } from './vocabSlice'; // Replace with your actual relative path
+import { vocabSlice } from './vocabSlice'; 
+import sqlTestSlice from './sqlTestSlice'; 
 
 export const store = configureStore({
     reducer: {
-        vocab: vocabSlice.reducer
+        vocab: vocabSlice.reducer,
+        sqlTest: sqlTestSlice.reducer,
     },
 });
