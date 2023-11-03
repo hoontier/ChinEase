@@ -1,38 +1,26 @@
 // server.js
 import express from 'express';
-import mysql from 'mysql2/promise';
+import { PrismaClient } from '@prisma/client';
 import cors from 'cors';
-import config from './config';  // Import the configuration file
 
 const app = express();
-const PORT = 5000;
+const prisma = new PrismaClient();
 
-// Use the DB config from the config file
-const dbConfig = config.db;
-let connection;
+// Enable CORS for all routes and origins
+app.use(cors({
+  origin: 'http://localhost:5173' // Specify the origin of your frontend app
+}));
 
-async function initDbConnection() {
+app.get('/api/lessons', async (req, res) => {
   try {
-    connection = await mysql.createConnection(dbConfig);
-    console.log('Connected to the MySQL server.');
+    const lessons = await prisma.lessons.findMany();
+    res.json(lessons);
   } catch (error) {
-    console.error('Error connecting to the database:', error);
-    process.exit(1);
-  }
-}
-
-initDbConnection();
-
-// Route to test the DB connection
-app.get('/api/test-db', async (req, res) => {
-  try {
-    const [rows] = await connection.execute('SELECT 1 + 1 AS result');
-    res.json({ message: `Database connection is successful! Result: ${rows[0].result}` });
-  } catch (error) {
-    res.status(500).json({ message: 'Database connection failed!', error: error.message });
+    res.status(500).json({ error: error.message });
   }
 });
 
+const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
-  console.log(`Server is running on http://localhost:${PORT}`);
+  console.log(`Server listening on port ${PORT}`);
 });
