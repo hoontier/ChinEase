@@ -4532,90 +4532,138 @@
                 "pinyin": "xī běi háng kōng gōng sī",
                 "noTones": "xi bei hang kong gong si",
                 "english": "Northwest Airlines"
-              },
-              {
-                "Lesson 20 Dialogue 1": [
-                  {
-                    "hanzi": "行李",
-                    "pinyin": "xíng li",
-                    "noTones": "xing li",
-                    "english": "luggage"
-                  },
-                  {
-                    "hanzi": "托运",
-                    "pinyin": "tuō yùn",
-                    "noTones": "tuo yun",
-                    "english": "to check (luggage)"
-                  },
-                  {
-                    "hanzi": "包",
-                    "pinyin": "bāo",
-                    "noTones": "bao",
-                    "english": "bag"
-                  },
-                  {
-                    "hanzi": "箱子",
-                    "pinyin": "xiāng zi",
-                    "noTones": "xiang zi",
-                    "english": "suitcase; box"
-                  },
-                  {
-                    "hanzi": "超重",
-                    "pinyin": "chāo zhòng",
-                    "noTones": "chao zhong",
-                    "english": "to be overweight (of luggage, freight, etc.)"
-                  },
-                  {
-                    "hanzi": "登机牌",
-                    "pinyin": "dēng jī pái",
-                    "noTones": "deng ji pai",
-                    "english": "boarding pass"
-                  },
-                  {
-                    "hanzi": "登机口",
-                    "pinyin": "dēng jī kǒu",
-                    "noTones": "deng ji kou",
-                    "english": "boarding gate"
-                  },
-                  {
-                    "hanzi": "哭",
-                    "pinyin": "kū",
-                    "noTones": "ku",
-                    "english": "to cry"
-                  },
-                  {
-                    "hanzi": "地",
-                    "pinyin": "de",
-                    "noTones": "de",
-                    "english": "particle to link adverbial and verb"
-                  },
-                  {
-                    "hanzi": "照顾",
-                    "pinyin": "zhào gu",
-                    "noTones": "zhao gu",
-                    "english": "to look after"
-                  },
-                  {
-                    "hanzi": "起飞",
-                    "pinyin": "qǐ fēi",
-                    "noTones": "qi fei",
-                    "english": "to take off (in an airplane)"
-                  },
-                  {
-                    "hanzi": "小心",
-                    "pinyin": "xiǎo xīn",
-                    "noTones": "xiao xin",
-                    "english": "to be careful; to take care"
-                  },
-                  {
-                    "hanzi": "一路平安",
-                    "pinyin": "yí lù píng ān",
-                    "noTones": "yi lu ping an",
-                    "english": "to have a pleasant journey / bon voyage"
-                  }
-                ]
-              }              
-            ]
+              }
+            ],
+              "Lesson 20 Dialogue 1": [
+                {
+                  "hanzi": "行李",
+                  "pinyin": "xíng li",
+                  "noTones": "xing li",
+                  "english": "luggage"
+                },
+                {
+                  "hanzi": "托运",
+                  "pinyin": "tuō yùn",
+                  "noTones": "tuo yun",
+                  "english": "to check (luggage)"
+                },
+                {
+                  "hanzi": "包",
+                  "pinyin": "bāo",
+                  "noTones": "bao",
+                  "english": "bag"
+                },
+                {
+                  "hanzi": "箱子",
+                  "pinyin": "xiāng zi",
+                  "noTones": "xiang zi",
+                  "english": "suitcase; box"
+                },
+                {
+                  "hanzi": "超重",
+                  "pinyin": "chāo zhòng",
+                  "noTones": "chao zhong",
+                  "english": "to be overweight (of luggage, freight, etc.)"
+                },
+                {
+                  "hanzi": "登机牌",
+                  "pinyin": "dēng jī pái",
+                  "noTones": "deng ji pai",
+                  "english": "boarding pass"
+                },
+                {
+                  "hanzi": "登机口",
+                  "pinyin": "dēng jī kǒu",
+                  "noTones": "deng ji kou",
+                  "english": "boarding gate"
+                },
+                {
+                  "hanzi": "哭",
+                  "pinyin": "kū",
+                  "noTones": "ku",
+                  "english": "to cry"
+                },
+                {
+                  "hanzi": "地",
+                  "pinyin": "de",
+                  "noTones": "de",
+                  "english": "particle to link adverbial and verb"
+                },
+                {
+                  "hanzi": "照顾",
+                  "pinyin": "zhào gu",
+                  "noTones": "zhao gu",
+                  "english": "to look after"
+                },
+                {
+                  "hanzi": "起飞",
+                  "pinyin": "qǐ fēi",
+                  "noTones": "qi fei",
+                  "english": "to take off (in an airplane)"
+                },
+                {
+                  "hanzi": "小心",
+                  "pinyin": "xiǎo xīn",
+                  "noTones": "xiao xin",
+                  "english": "to be careful; to take care"
+                },
+                {
+                  "hanzi": "一路平安",
+                  "pinyin": "yí lù píng ān",
+                  "noTones": "yi lu ping an",
+                  "english": "to have a pleasant journey / bon voyage"
+                }
+              ],
+              "Lesson 20 Dialogue 2": [
+                {
+                  "hanzi": "叔叔",
+                  "pinyin": "shū shu",
+                  "noTones": "shu shu",
+                  "english": "father's younger brother; uncle"
+                },
+                {
+                  "hanzi": "阿姨",
+                  "pinyin": "ā yí",
+                  "noTones": "a yi",
+                  "english": "aunt"
+                },
+                {
+                  "hanzi": "欢迎",
+                  "pinyin": "huān yíng",
+                  "noTones": "huan ying",
+                  "english": "welcome"
+                },
+                {
+                  "hanzi": "瘦",
+                  "pinyin": "shòu",
+                  "noTones": "shou",
+                  "english": "thin"
+                },
+                {
+                  "hanzi": "爷爷",
+                  "pinyin": "yé ye",
+                  "noTones": "ye ye",
+                  "english": "paternal grandfather"
+                },
+                {
+                  "hanzi": "奶奶",
+                  "pinyin": "nǎi nai",
+                  "noTones": "nai nai",
+                  "english": "paternal grandmother"
+                },
+                {
+                  "hanzi": "烤鸭",
+                  "pinyin": "kǎo yā",
+                  "noTones": "kao ya",
+                  "english": "roast duck"
+                },
+                {
+                  "hanzi": "首都机场",
+                  "pinyin": "shǒu dū jī chǎng",
+                  "noTones": "shou du ji chang",
+                  "english": "Capital Airport (in Beijing)"
+                }
+              ]    
           }
         ]
         
