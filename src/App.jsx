@@ -1,16 +1,19 @@
 //App.jsx
 import React, { useState } from 'react';
 import Select from 'react-select';
-import { Provider, useSelector } from 'react-redux';
+import { Provider, useSelector, useDispatch } from 'react-redux';
 import { store } from './features/store';
 import VocabSelector from './components/VocabSelector';
 import WordsTable from './components/WordsTable';
 import Flashcards from './components/Flashcards';
+import { setIsMenuHidden } from './features/vocabSlice';
 // import { PrismaCleint } from '@prisma/client';
 
 function Content() {
+    const dispatch = useDispatch();
     const isFlashcardsView = useSelector(state => state.vocab.isFlashcardsView);
     const [selectedColumns, setSelectedColumns] = useState(['Number', 'Hanzi', 'Pinyin', 'English']); // Default columns
+    const isMenuHidden = useSelector(state => state.vocab.isMenuHidden);
 
     const columnOptions = [
         { value: 'Number', label: 'Number' },
@@ -28,6 +31,8 @@ function Content() {
     return (
         <div className="min-h-screen bg-gray-100 flex flex-col justify-start sm:py-12">
             <div className="relative py-3 sm:max-w-xl sm:mx-auto">
+            { !isMenuHidden && (
+            <>
                 <VocabSelector />
                 <div className="flex mt-4 mb-4 items-center">
                     {!isFlashcardsView && (
@@ -40,6 +45,15 @@ function Content() {
                         />
                     )}
                 </div>
+            </>
+            )}
+                <button
+                    onClick={() => dispatch(setIsMenuHidden(!isMenuHidden))}
+                    className="p-2 bg-blue-300 hover:bg-blue-400 rounded focus:outline-none md:h-10 md:self-center text-sm"
+
+                >
+                    {isMenuHidden ? 'Show Menu' : 'Hide Menu'}
+                </button>
                 {isFlashcardsView ? <Flashcards /> : <WordsTable columns={selectedColumns} />}
             </div>
         </div>

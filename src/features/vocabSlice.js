@@ -12,14 +12,15 @@ function shuffleArray(array) {
 
 const initialState = {
   words: [],
-  activeCards: [],  // Add this
+  activeCards: [],
   vocabListPart: '',
   vocabList: words.flatMap(vocab => Object.keys(vocab)),
   selectedVocabLists: [],
   currentCard: 0,
   isFlipped: false,
   isRandom: false,
-  isFlashcardsView: false
+  isFlashcardsView: false,
+  isMenuHidden: false
 };
 
 
@@ -133,12 +134,15 @@ export const vocabSlice = createSlice({
         } ,
         setIsFlashcardsView: (state, action) => {
           state.isFlashcardsView = !state.isFlashcardsView;
-        }  
+        },
+        setIsMenuHidden: (state, action) => {
+          state.isMenuHidden = !state.isMenuHidden;
+        }
     }
 });
 
 
-export const { setVocabList, setWords, removeActiveCard, setVocabListPart, setSelectedVocabLists, setCurrentCard, setFlipped, toggleRandom, randomizeActiveCards, resetVocabWords, setIsFlashcardsView } = vocabSlice.actions;
+export const { setVocabList, setWords, removeActiveCard, setVocabListPart, setSelectedVocabLists, setCurrentCard, setFlipped, toggleRandom, randomizeActiveCards, resetVocabWords, setIsFlashcardsView, setIsMenuHidden } = vocabSlice.actions;
 
 export const selectWords = state => state.vocab.words;
 export const selectActiveCards = state => state.vocab.activeCards; 
@@ -150,3 +154,4 @@ export const selectIsRandom = state => state.vocab.isRandom;
 export const selectVocabListPart = state => state.vocab.vocabListPart; 
 export const selectVocabListNames = state => state.vocab.vocabList;
 export const selectIsFlashcardsView = state => state.vocab.isFlashcardsView;
+export const selectIsMenuHidden = state => state.vocab.isMenuHidden;

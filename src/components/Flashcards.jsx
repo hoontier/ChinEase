@@ -1,7 +1,7 @@
 //Flashcards.jsx
 import React, { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { selectWords, selectCurrentCard, selectIsFlipped, selectIsRandom, setCurrentCard, setFlipped, toggleRandom, removeActiveCard, setWords, resetVocabWords, randomizeActiveCards } from '../features/vocabSlice';
+import { selectWords, selectCurrentCard, selectIsFlipped, selectIsRandom, setCurrentCard, setFlipped, toggleRandom, removeActiveCard, resetVocabWords, randomizeActiveCards, setIsMenuHidden } from '../features/vocabSlice';
 import Select from 'react-select';
 import Switch from '@mui/material/Switch';
 import FormControlLabel from '@mui/material/FormControlLabel';
@@ -14,6 +14,7 @@ function Flashcards() {
     const currentCard = useSelector(selectCurrentCard);
     const isFlipped = useSelector(selectIsFlipped);
     const isRandom = useSelector(selectIsRandom);
+    const isMenuHidden = useSelector(state => state.vocab.isMenuHidden);
 
     const handleNextCard = () => {
         const nextCard = (currentCard + 1) % activeCards.length; // Reference activeCards.length here
@@ -128,7 +129,10 @@ function Flashcards() {
 
     return (
         <div className="flex flex-col items-center justify-start bg-gray-100">
+            {/* If the menu is hidden, hide this */}
             <div className="flex flex-col md:flex-row justify-center mb-4">
+            {!isMenuHidden && (
+                <>
                 <div className="mb-2 md:mb-0 md:mr-2">
                     <label>Front:</label>
                     <Select
@@ -147,6 +151,10 @@ function Flashcards() {
                         onChange={handleBackChange}
                     />
                 </div>
+                </>
+            )}
+            {/* Make the button text's font size extra small */}
+
             </div>
             {activeCards.length > 0 && (
                 <div className="relative">

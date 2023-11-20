@@ -1,7 +1,7 @@
 // VocabSelector.jsx
 import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { setWords, selectVocabList, setVocabListPart, setSelectedVocabLists, setIsFlashcardsView } from '../features/vocabSlice';
+import { setWords, selectVocabList, setVocabListPart, setSelectedVocabLists, setIsFlashcardsView, setIsMenuHidden } from '../features/vocabSlice';
 import Select from 'react-select';
 
 function VocabSelector() {
@@ -10,6 +10,7 @@ function VocabSelector() {
     const selectedVocabLists = useSelector(state => state.vocab.selectedVocabLists);
     const vocabListNames = useSelector(selectVocabList);
     const isFlashcardsView = useSelector(state => state.vocab.isFlashcardsView);
+    const isMenuHidden = useSelector(state => state.vocab.isMenuHidden);
 
     const customStyles = {
         control: (base, state) => ({
