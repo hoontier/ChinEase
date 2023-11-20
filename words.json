@@ -1,6 +1,6 @@
 [
   {
-    "Lesson 1": [
+    "Lesson 1 Dialogue 1": [
       {
         "hanzi": "你",
         "pinyin": "nǐ",
@@ -108,7 +108,9 @@
         "pinyin": "wáng",
         "noTones": "wang",
         "english": "the surname Wang"
-      },
+      }
+    ],
+    "Lesson 1 Dialogue 2": [
       {
         "hanzi": "是",
         "pinyin": "shì",
@@ -179,7 +181,7 @@
     "Lesson 2": [
       {
         "hanzi": "哥哥",
-        "pinyin": "gēge",
+        "pinyin": "gē ge",
         "noTones": "gege",
         "english": "older brother"
       },
@@ -191,7 +193,7 @@
       },
       {
         "hanzi": "妹妹",
-        "pinyin": "mèimei",
+        "pinyin": "mèi mei",
         "noTones": "meimei",
         "english": "younger sister, young woman"
       },
@@ -203,7 +205,7 @@
       },
       {
         "hanzi": "大姐",
-        "pinyin": "dàjiě",
+        "pinyin": "dà jiě",
         "noTones": "da jie",
         "english": "big sister, elder sister, older sister (also polite term of address for a girl or woman slightly older than the speaker)"
       },
@@ -215,7 +217,7 @@
       },
       {
         "hanzi": "工作",
-        "pinyin": "gōngzuò",
+        "pinyin": "gōng zuò",
         "noTones": "gong zuo",
         "english": "to work, (of a machine) to operate, job, work, task"
       },
@@ -227,7 +229,7 @@
       },
       {
         "hanzi": "英文",
-        "pinyin": "yīngwén",
+        "pinyin": "yīng wén",
         "noTones": "ying wen",
         "english": "English (language)"
       },
@@ -239,19 +241,19 @@
       },
       {
         "hanzi": "大学生",
-        "pinyin": "dàxuéshēng",
+        "pinyin": "dà xué shēng",
         "noTones": "da xue sheng",
         "english": "university student, college student"
       },
       {
         "hanzi": "大学",
-        "pinyin": "dàxué",
+        "pinyin": "dà xué",
         "noTones": "da xue",
         "english": "university, college; the Great Learning, one of the Four Books in Confucianism"
       },
       {
         "hanzi": "医生",
-        "pinyin": "yīshēng",
+        "pinyin": "yī shēng",
         "noTones": "yi sheng",
         "english": "doctor"
       },
@@ -269,7 +271,7 @@
       },
       {
         "hanzi": "照片",
-        "pinyin": "zhàopiàn",
+        "pinyin": "zhào piàn",
         "noTones": "zhao pian",
         "english": "photograph, picture"
       },
@@ -281,13 +283,13 @@
       },
       {
         "hanzi": "爸爸",
-        "pinyin": "bàba",
+        "pinyin": "bà ba",
         "noTones": "ba ba",
         "english": "(informal) father"
       },
       {
         "hanzi": "妈妈",
-        "pinyin": "māma",
+        "pinyin": "mā ma",
         "noTones": "ma ma",
         "english": "mama, mommy, mother"
       },
@@ -305,7 +307,7 @@
       },
       {
         "hanzi": "孩子",
-        "pinyin": "háizi",
+        "pinyin": "hái zi",
         "noTones": "hai zi",
         "english": "child"
       },
@@ -323,7 +325,7 @@
       },
       {
         "hanzi": "姐姐",
-        "pinyin": "jiějie",
+        "pinyin": "jiě jie",
         "noTones": "jie jie",
         "english": "older sister"
       },
@@ -335,7 +337,7 @@
       },
       {
         "hanzi": "弟弟",
-        "pinyin": "dìdi",
+        "pinyin": "dì di",
         "noTones": "di di",
         "english": "younger brother"
       },
@@ -347,7 +349,7 @@
       },
       {
         "hanzi": "大哥",
-        "pinyin": "dàgē",
+        "pinyin": "dà gē",
         "noTones": "da ge",
         "english": "eldest brother, big brother (polite address for a man of about the same age as oneself), gang leader, boss"
       },

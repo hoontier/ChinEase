@@ -3,6 +3,9 @@ import React, { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { selectWords, selectCurrentCard, selectIsFlipped, selectIsRandom, setCurrentCard, setFlipped, toggleRandom, removeActiveCard, setWords, resetVocabWords, randomizeActiveCards } from '../features/vocabSlice';
 import Select from 'react-select';
+import Switch from '@mui/material/Switch';
+import FormControlLabel from '@mui/material/FormControlLabel';
+import Typography from '@mui/material/Typography';
 function Flashcards() {
     const dispatch = useDispatch();
 
@@ -13,12 +16,8 @@ function Flashcards() {
     const isRandom = useSelector(selectIsRandom);
 
     const handleNextCard = () => {
-        if (isRandom) {
-            dispatch(setCurrentCard(Math.floor(Math.random() * activeCards.length))); 
-        } else {
-            const nextCard = (currentCard + 1) % activeCards.length; // Reference activeCards.length here
-            dispatch(setCurrentCard(nextCard));
-        }
+        const nextCard = (currentCard + 1) % activeCards.length; // Reference activeCards.length here
+        dispatch(setCurrentCard(nextCard));
         dispatch(setFlipped(false));  // Always set to front side
     };
 
@@ -56,7 +55,9 @@ function Flashcards() {
     
       const gotThisWord = () => {
         dispatch(removeActiveCard()); // Use the new reducer to remove the current card
-        handleNextCard();
+        const nextCard = (currentCard) % activeCards.length; // Reference activeCards.length here
+        dispatch(setCurrentCard(nextCard));
+        dispatch(setFlipped(false)); 
       };
     
       const handleRandomize = () => {
@@ -126,7 +127,7 @@ function Flashcards() {
 
 
     return (
-        <div className="flex flex-col items-center justify-start h-screen bg-gray-100">
+        <div className="flex flex-col items-center justify-start bg-gray-100">
             <div className="flex flex-col md:flex-row justify-center mb-4">
                 <div className="mb-2 md:mb-0 md:mr-2">
                     <label>Front:</label>
@@ -151,49 +152,75 @@ function Flashcards() {
                 <div className="relative">
                     <button
                         onClick={resetFlashcards}
-                        className="mb-4 p-2 bg-red-300 hover:bg-red-400 rounded focus:outline-none"
+                        className="p-2 bg-red-300 hover:bg-red-400 rounded focus:outline-none"
                     >
                         Reset Flashcards
                     </button>
-
-                    <div
-                        onClick={handleCardFlip}
-                        className={`p-8 w-64 h-48 bg-white shadow-lg transform transition-transform duration-500 ${isFlipped ? 'rotate-y-180' : ''} relative`}
-                    >
-                        <div 
-                            className={`absolute inset-0 flex items-center justify-center backface-hidden ${!isFlipped ? 'visible opacity-100' : 'invisible opacity-0'}`}
-                        >
-                            {frontSide.map(prop => activeCards[currentCard][prop]).join(' - ')}
+                    <div className="flex flex-col items-center">
+                        <div className="mt-4 flex items-center">
+                            <Typography color="text.primary">
+                                Cards are:&nbsp;
+                            </Typography>
+                            <Typography color={isRandom ? "text.secondary" : "text.primary"} className="ml-2">
+                                Ordered
+                            </Typography>
+                            <Switch
+                                checked={isRandom}
+                                onChange={handleRandomize}
+                                color="primary"
+                                className="mx-2"
+                            />
+                            <Typography color={isRandom ? "text.primary" : "text.secondary"}>
+                                Random
+                            </Typography>
                         </div>
-                        <div 
-                            className={`absolute inset-0 flex items-center justify-center backface-hidden rotate-y-180 ${isFlipped ? 'visible opacity-100' : 'invisible opacity-0'}`}
+                        <div
+                            onClick={handleCardFlip}
+                            className={`p-8 w-64 h-48 bg-white shadow-lg transform transition-transform duration-500 ${isFlipped ? 'rotate-y-180' : ''} relative`}
                         >
-                            {backSide.map(prop => activeCards[currentCard][prop]).join(' - ')}
+                            <div 
+                                className={`absolute inset-0 flex items-center justify-center backface-hidden ${!isFlipped ? 'visible opacity-100' : 'invisible opacity-0'}`}
+                            >
+                                {frontSide.map(prop => activeCards[currentCard][prop]).join(' - ')}
+                            </div>
+                            <div 
+                                className={`absolute inset-0 flex items-center justify-center backface-hidden rotate-y-180 ${isFlipped ? 'visible opacity-100' : 'invisible opacity-0'}`}
+                            >
+                                {backSide.map(prop => activeCards[currentCard][prop]).join(' - ')}
+                            </div>
+                        </div>
+                        <div className="flex justify-center w-64 mt-5">
+                            <button
+                                onClick={handlePrevCard}
+                                className="absolute left-0 p-2 bg-gray-300 hover:bg-gray-400 rounded-full focus:outline-none"
+                            >
+                                {'<'}
+                            </button>
+                            <button
+                                onClick={gotThisWord}
+                                className="absolute left-1/2 transform -translate-x-1/2 p-2  bg-green-300 hover:bg-green-400 rounded-full focus:outline-none"
+                            >
+                                Got it!
+                            </button>
+                            <button
+                                onClick={handleNextCard}
+                                className="absolute right-0 p-2 bg-gray-300 hover:bg-gray-400 rounded-full focus:outline-none"
+                            >
+                                {'>'}
+                            </button>
                         </div>
                     </div>
+                </div>
+            )}
+            {/* If there are no active cards, display a message and a button to reset the flashcards */}
+            {activeCards.length === 0 && (
+                <div className="flex flex-col items-center justify-top h-full">
+                    <p className="text-2xl mb-4">You've completed this set!</p>
                     <button
-                        onClick={gotThisWord}
-                        className="mt-4 p-2 bg-green-300 hover:bg-green-400 rounded focus:outline-none"
+                        onClick={resetFlashcards}
+                        className="p-2 bg-red-300 hover:bg-red-400 rounded focus:outline-none"
                     >
-                        I've got this word
-                    </button>
-                    <button
-                        onClick={handlePrevCard}
-                        className="absolute left-0 mt-20 p-2 bg-gray-300 hover:bg-gray-400 rounded-full focus:outline-none"
-                    >
-                        {'<'}
-                    </button>
-                    <button
-                        onClick={handleRandomize}
-                        className="absolute left-1/2 transform -translate-x-1/2 mt-20 p-2 bg-blue-300 hover:bg-blue-400 rounded-full focus:outline-none"
-                    >
-                        {isRandom ? 'Ordered' : 'Random'}
-                    </button>
-                    <button
-                        onClick={handleNextCard}
-                        className="absolute right-0 mt-20 p-2 bg-gray-300 hover:bg-gray-400 rounded-full focus:outline-none"
-                    >
-                        {'>'}
+                        Reset Flashcards
                     </button>
                 </div>
             )}

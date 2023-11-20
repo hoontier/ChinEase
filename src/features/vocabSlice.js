@@ -18,7 +18,8 @@ const initialState = {
   selectedVocabLists: [],
   currentCard: 0,
   isFlipped: false,
-  isRandom: false
+  isRandom: false,
+  isFlashcardsView: false
 };
 
 
@@ -129,12 +130,15 @@ export const vocabSlice = createSlice({
           state.activeCards = state.words; // Set activeCards whenever words are reset
           state.currentCard = 0; // Reset the current card index to the first position
           state.isFlipped = false; // Ensure card is not flipped
-        }      
+        } ,
+        setIsFlashcardsView: (state, action) => {
+          state.isFlashcardsView = !state.isFlashcardsView;
+        }  
     }
 });
 
 
-export const { setVocabList, setWords, removeActiveCard, setVocabListPart, setSelectedVocabLists, setCurrentCard, setFlipped, toggleRandom, randomizeActiveCards, resetVocabWords } = vocabSlice.actions;
+export const { setVocabList, setWords, removeActiveCard, setVocabListPart, setSelectedVocabLists, setCurrentCard, setFlipped, toggleRandom, randomizeActiveCards, resetVocabWords, setIsFlashcardsView } = vocabSlice.actions;
 
 export const selectWords = state => state.vocab.words;
 export const selectActiveCards = state => state.vocab.activeCards; 
@@ -145,3 +149,4 @@ export const selectIsFlipped = state => state.vocab.isFlipped;
 export const selectIsRandom = state => state.vocab.isRandom;
 export const selectVocabListPart = state => state.vocab.vocabListPart; 
 export const selectVocabListNames = state => state.vocab.vocabList;
+export const selectIsFlashcardsView = state => state.vocab.isFlashcardsView;

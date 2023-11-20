@@ -1,7 +1,7 @@
 // VocabSelector.jsx
-import React from 'react';
+import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { setWords, selectVocabList, setVocabListPart, setSelectedVocabLists } from '../features/vocabSlice';
+import { setWords, selectVocabList, setVocabListPart, setSelectedVocabLists, setIsFlashcardsView } from '../features/vocabSlice';
 import Select from 'react-select';
 
 function VocabSelector() {
@@ -9,6 +9,7 @@ function VocabSelector() {
     const vocabListPart = useSelector(state => state.vocab.vocabListPart);
     const selectedVocabLists = useSelector(state => state.vocab.selectedVocabLists);
     const vocabListNames = useSelector(selectVocabList);
+    const isFlashcardsView = useSelector(state => state.vocab.isFlashcardsView);
 
     const customStyles = {
         control: (base, state) => ({
@@ -63,6 +64,12 @@ function VocabSelector() {
                     </select>
                 </>
             ) : null }
+            <button 
+                className={`bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 focus:outline-none mr-4 ${selectedVocabLists.length !== 1 ? 'mt-5' : ''} ${selectedVocabLists.length == 1 ? 'ml-3' : ''}`}
+                onClick={() => dispatch(setIsFlashcardsView())}
+            >
+                {isFlashcardsView ? 'Show Table' : 'Show Flashcards'}
+            </button>
         </div>
     );
 }
