@@ -4,7 +4,6 @@ import { useSelector, useDispatch } from 'react-redux';
 import { selectWords, selectCurrentCard, selectIsFlipped, selectIsRandom, setCurrentCard, setFlipped, toggleRandom, removeActiveCard, resetVocabWords, randomizeActiveCards, setIsMenuHidden } from '../features/vocabSlice';
 import Select from 'react-select';
 import Switch from '@mui/material/Switch';
-import FormControlLabel from '@mui/material/FormControlLabel';
 import Typography from '@mui/material/Typography';
 function Flashcards() {
     const dispatch = useDispatch();

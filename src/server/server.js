@@ -20,6 +20,15 @@
 //   }
 // });
 
+// app.get('/api/vocabulary', async (req, res) => {
+//     try {
+//         const vocabulary = await prisma.vocabulary.findMany();
+//         res.json(vocabulary);
+//     } catch (error) {
+//         res.status(500).json({ error: error.message });
+//     }
+// });
+
 // const PORT = process.env.PORT || 3001;
 // app.listen(PORT, () => {
 //   console.log(`Server listening on port ${PORT}`);
