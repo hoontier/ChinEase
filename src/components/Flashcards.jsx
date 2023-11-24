@@ -5,6 +5,8 @@ import { selectWords, selectCurrentCard, selectIsFlipped, selectIsRandom, setCur
 import Select from 'react-select';
 import Switch from '@mui/material/Switch';
 import Typography from '@mui/material/Typography';
+import { Howl } from 'howler';
+
 function Flashcards() {
     const dispatch = useDispatch();
 
@@ -14,6 +16,27 @@ function Flashcards() {
     const isFlipped = useSelector(selectIsFlipped);
     const isRandom = useSelector(selectIsRandom);
     const isMenuHidden = useSelector(state => state.vocab.isMenuHidden);
+    
+
+    const playTextToSpeech = async (text) => {
+        try {
+            const response = await fetch('/synthesize-speech', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ text }),
+            });
+            const data = await response.json();
+
+            const audioSrc = `data:audio/wav;base64,${data.audioContent}`;
+            const sound = new Howl({ src: [audioSrc], format: ['wav'] });
+            sound.play();
+        } catch (error) {
+            console.error('Error in text to speech conversion', error);
+        }
+    };
+    
 
     const handleNextCard = () => {
         const nextCard = (currentCard + 1) % activeCards.length; // Reference activeCards.length here
@@ -123,6 +146,13 @@ function Flashcards() {
             document.removeEventListener('keydown', handleKeyPress);
         };
     }, [handleCardFlip, handlePrevCard, handleNextCard]);
+
+    useEffect(() => {
+        if (!isFlipped && frontSide.includes('hanzi')) {
+            const textToRead = activeCards[currentCard]['hanzi'];
+            playTextToSpeech(textToRead);
+        }
+    }, [isFlipped, currentCard, frontSide, activeCards]);
     
 
 

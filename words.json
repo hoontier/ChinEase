@@ -178,144 +178,66 @@
         "english": "New York"
       }
     ],
-    "Lesson 2": [
-      {
-        "hanzi": "哥哥",
-        "pinyin": "gē ge",
-        "noTones": "gege",
-        "english": "older brother"
-      },
-      {
-        "hanzi": "两",
-        "pinyin": "liǎng",
-        "noTones": "liang",
-        "english": "two, both, pair, couple; ounce"
-      },
-      {
-        "hanzi": "妹妹",
-        "pinyin": "mèi mei",
-        "noTones": "meimei",
-        "english": "younger sister, young woman"
-      },
-      {
-        "hanzi": "和",
-        "pinyin": "hé",
-        "noTones": "he",
-        "english": "and, together with; harmony, peace"
-      },
-      {
-        "hanzi": "大姐",
-        "pinyin": "dà jiě",
-        "noTones": "da jie",
-        "english": "big sister, elder sister, older sister (also polite term of address for a girl or woman slightly older than the speaker)"
-      },
-      {
-        "hanzi": "做",
-        "pinyin": "zuò",
-        "noTones": "zuo",
-        "english": "work, make; act"
-      },
-      {
-        "hanzi": "工作",
-        "pinyin": "gōng zuò",
-        "noTones": "gong zuo",
-        "english": "to work, (of a machine) to operate, job, work, task"
-      },
-      {
-        "hanzi": "律师",
-        "pinyin": "lǜshī",
-        "noTones": "lv shi",
-        "english": "lawyer"
-      },
-      {
-        "hanzi": "英文",
-        "pinyin": "yīng wén",
-        "noTones": "ying wen",
-        "english": "English (language)"
-      },
-      {
-        "hanzi": "都",
-        "pinyin": "dōu, dū",
-        "noTones": "dou, du",
-        "english": "metropolis, capital; all, the whole; elegant, refined"
-      },
-      {
-        "hanzi": "大学生",
-        "pinyin": "dà xué shēng",
-        "noTones": "da xue sheng",
-        "english": "university student, college student"
-      },
-      {
-        "hanzi": "大学",
-        "pinyin": "dà xué",
-        "noTones": "da xue",
-        "english": "university, college; the Great Learning, one of the Four Books in Confucianism"
-      },
-      {
-        "hanzi": "医生",
-        "pinyin": "yī shēng",
-        "noTones": "yi sheng",
-        "english": "doctor"
-      },
+    "Lesson 2 Dialogue 1": [
       {
         "hanzi": "那",
         "pinyin": "nà",
         "noTones": "na",
-        "english": "that, that one, those"
+        "english": "that"
       },
       {
         "hanzi": "的",
         "pinyin": "de",
         "noTones": "de",
-        "english": "possessive, adjectival suffix"
+        "english": "possessive particle; of, really and truly"
       },
       {
         "hanzi": "照片",
         "pinyin": "zhào piàn",
         "noTones": "zhao pian",
-        "english": "photograph, picture"
+        "english": "photograph, photo, picture"
       },
       {
         "hanzi": "这",
         "pinyin": "zhè",
         "noTones": "zhe",
-        "english": "this, the, here"
+        "english": "this"
       },
       {
         "hanzi": "爸爸",
         "pinyin": "bà ba",
         "noTones": "ba ba",
-        "english": "(informal) father"
+        "english": "father, dad"
       },
       {
         "hanzi": "妈妈",
         "pinyin": "mā ma",
         "noTones": "ma ma",
-        "english": "mama, mommy, mother"
+        "english": "mother, mom"
       },
       {
         "hanzi": "个",
         "pinyin": "gè",
         "noTones": "ge",
-        "english": "numerary adjunct, piece; single"
+        "english": "individual, this, that"
       },
       {
         "hanzi": "女",
         "pinyin": "nǚ",
-        "noTones": "nv",
-        "english": "woman, girl; feminine"
+        "noTones": "nü",
+        "english": "female, woman; daughter"
       },
       {
         "hanzi": "孩子",
         "pinyin": "hái zi",
         "noTones": "hai zi",
-        "english": "child"
+        "english": "child, son"
       },
       {
         "hanzi": "谁",
         "pinyin": "shéi",
         "noTones": "shei",
-        "english": "who? whom? whose? anyone?"
+        "english": "who, whom, whose"
       },
       {
         "hanzi": "她",
@@ -327,13 +249,13 @@
         "hanzi": "姐姐",
         "pinyin": "jiě jie",
         "noTones": "jie jie",
-        "english": "older sister"
+        "english": "elder sister"
       },
       {
         "hanzi": "男",
         "pinyin": "nán",
         "noTones": "nan",
-        "english": "male, man; son; baron"
+        "english": "male, man"
       },
       {
         "hanzi": "弟弟",
@@ -345,17 +267,17 @@
         "hanzi": "他",
         "pinyin": "tā",
         "noTones": "ta",
-        "english": "other, another; he, she, it"
+        "english": "he, him"
       },
       {
         "hanzi": "大哥",
         "pinyin": "dà gē",
         "noTones": "da ge",
-        "english": "eldest brother, big brother (polite address for a man of about the same age as oneself), gang leader, boss"
+        "english": "elder brother"
       },
       {
         "hanzi": "儿子",
-        "pinyin": "érzi",
+        "pinyin": "ér zi",
         "noTones": "er zi",
         "english": "son"
       },
@@ -363,46 +285,162 @@
         "hanzi": "有",
         "pinyin": "yǒu",
         "noTones": "you",
-        "english": "have, own, possess; exist"
+        "english": "have, own, possess"
       },
       {
         "hanzi": "女儿",
-        "pinyin": "nǚ'ér",
-        "noTones": "nv er",
+        "pinyin": "nǚ ér",
+        "noTones": "nü er",
         "english": "daughter"
       },
       {
         "hanzi": "没",
         "pinyin": "méi",
         "noTones": "mei",
-        "english": "not, have not, none; drown, sink"
+        "english": "not have, not"
+      },
+      {
+        "hanzi": "高文中",
+        "pinyin": "Gāo Wén zhōng",
+        "noTones": "Gao Wen zhong",
+        "english": "Gao Wenzhong (a name)"
       },
       {
         "hanzi": "高",
         "pinyin": "gāo",
         "noTones": "gao",
-        "english": "high, tall; lofty, elevated"
-      },
+        "english": "high, tall; noble, exalted"
+      }
+    ],
+    "Lesson 2 Dialogue 2": [
       {
         "hanzi": "家",
         "pinyin": "jiā",
         "noTones": "jia",
-        "english": "house, home, residence; family"
+        "english": "home, family; performer"
       },
       {
         "hanzi": "几",
         "pinyin": "jǐ",
         "noTones": "ji",
-        "english": "small table"
+        "english": "several, a few; how many"
       },
       {
         "hanzi": "口",
         "pinyin": "kǒu",
         "noTones": "kou",
-        "english": "mouth; open end; entrance, gate"
+        "english": "mouth; speech, words"
+      },
+      {
+        "hanzi": "哥哥",
+        "pinyin": "gē ge",
+        "noTones": "ge ge",
+        "english": "elder brother"
+      },
+      {
+        "hanzi": "两",
+        "pinyin": "liǎng",
+        "noTones": "liang",
+        "english": "two, both, pair, couple; ounce"
+      },
+      {
+        "hanzi": "妹妹",
+        "pinyin": "mèi mei",
+        "noTones": "mei mei",
+        "english": "younger sister"
+      },
+      {
+        "hanzi": "大姐",
+        "pinyin": "dà jiě",
+        "noTones": "da jie",
+        "english": "elder sister"
+      },
+      {
+        "hanzi": "和",
+        "pinyin": "hé",
+        "noTones": "he",
+        "english": "and; together with; with"
+      },
+      {
+        "hanzi": "二姐",
+        "pinyin": "èr jiě",
+        "noTones": "er jie",
+        "english": "second elder sister"
+      },
+      {
+        "hanzi": "做",
+        "pinyin": "zuò",
+        "noTones": "zuo",
+        "english": "work, make, produce"
+      },
+      {
+        "hanzi": "工作",
+        "pinyin": "gōng zuò",
+        "noTones": "gong zuo",
+        "english": "work, labor, job"
+      },
+      {
+        "hanzi": "律师",
+        "pinyin": "lǜ shī",
+        "noTones": "lü shi",
+        "english": "lawyer"
+      },
+      {
+        "hanzi": "英文",
+        "pinyin": "Yīng wén",
+        "noTones": "Ying wen",
+        "english": "English language"
+      },
+      {
+        "hanzi": "都",
+        "pinyin": "dōu",
+        "noTones": "dou",
+        "english": "all, both; entirely, completely"
+      },
+      {
+        "hanzi": "大学生",
+        "pinyin": "dà xué shēng",
+        "noTones": "da xue sheng",
+        "english": "university student"
+      },
+      {
+        "hanzi": "大学",
+        "pinyin": "dà xué",
+        "noTones": "da xue",
+        "english": "university, college"
+      },
+      {
+        "hanzi": "医生",
+        "pinyin": "yī shēng",
+        "noTones": "yi sheng",
+        "english": "doctor, physician"
+      },
+      {
+        "hanzi": "白英爱",
+        "pinyin": "Bái Yīng ài",
+        "noTones": "Bai Ying ai",
+        "english": "Bai Yingai (a name)"
+      },
+      {
+        "hanzi": "中学",
+        "pinyin": "zhōng xué",
+        "noTones": "zhong xue",
+        "english": "middle school, secondary school"
+      },
+      {
+        "hanzi": "小学",
+        "pinyin": "xiǎo xué",
+        "noTones": "xiao xue",
+        "english": "elementary school, primary school"
+      },
+      {
+        "hanzi": "张",
+        "pinyin": "zhāng",
+        "noTones": "zhang",
+        "english": "surname Zhang; open up, unfold"
       }
     ],
-    "Lesson 3": [
+    "Lesson 3 Dialogue 1": [
       {
         "hanzi": "九月",
         "pinyin": "jiǔ yuè",
@@ -594,7 +632,9 @@
         "pinyin": "yīng guó",
         "noTones": "ying guo",
         "english": "United Kingdom"
-      },
+      }
+    ],
+    "Lesson 3 Dialogue 2": [
       {
         "hanzi": "现在",
         "pinyin": "xiàn zài",
@@ -645,7 +685,7 @@
       },
       {
         "hanzi": "为什么",
-        "pinyin": "wèi shénme",
+        "pinyin": "wèi shén me",
         "noTones": "wei shen me",
         "english": "why?, for what reason?"
       },
@@ -686,37 +726,7 @@
         "english": "friend"
       }
     ],
-    "Lesson 4": [
-      {
-        "hanzi": "觉",
-        "pinyin": "jué",
-        "noTones": "jue",
-        "english": "to wake up from sleep; conscious"
-      },
-      {
-        "hanzi": "算了",
-        "pinyin": "suàn le",
-        "noTones": "suan le",
-        "english": "let it be, let it pass, forget about it"
-      },
-      {
-        "hanzi": "找",
-        "pinyin": "zhǎo",
-        "noTones": "zhao",
-        "english": "search, seek, look for; find"
-      },
-      {
-        "hanzi": "别人",
-        "pinyin": "bié rén",
-        "noTones": "bie ren",
-        "english": "other people, others, other person"
-      },
-      {
-        "hanzi": "别",
-        "pinyin": "bié",
-        "noTones": "bie",
-        "english": "separate, other; do not"
-      },
+    "Lesson 4 Dialogue 1": [
       {
         "hanzi": "周末",
         "pinyin": "zhōu mò",
@@ -727,25 +737,13 @@
         "hanzi": "打球",
         "pinyin": "dǎ qiú",
         "noTones": "da qiu",
-        "english": "to play ball, to play with a ball"
-      },
-      {
-        "hanzi": "打",
-        "pinyin": "dǎ",
-        "noTones": "da",
-        "english": "strike, hit, beat; fight; attack"
-      },
-      {
-        "hanzi": "球",
-        "pinyin": "qiú",
-        "noTones": "qiu",
-        "english": "ball, sphere, globe; round"
+        "english": "to play ball, sports"
       },
       {
         "hanzi": "看",
         "pinyin": "kàn",
         "noTones": "kan",
-        "english": "look, see; examine, scrutinize"
+        "english": "to see, to look at; to read"
       },
       {
         "hanzi": "电视",
@@ -754,34 +752,10 @@
         "english": "television, TV"
       },
       {
-        "hanzi": "电",
-        "pinyin": "diàn",
-        "noTones": "dian",
-        "english": "electricity; electric; lightning"
-      },
-      {
-        "hanzi": "视",
-        "pinyin": "shì",
-        "noTones": "shi",
-        "english": "look at, inspect, observe, see"
-      },
-      {
-        "hanzi": "唱歌",
-        "pinyin": "chàng gē",
-        "noTones": "chang ge",
+        "hanzi": "唱歌(儿)",
+        "pinyin": "chàng gē(r)",
+        "noTones": "chang ge(r)",
         "english": "to sing a song"
-      },
-      {
-        "hanzi": "唱",
-        "pinyin": "chàng",
-        "noTones": "chang",
-        "english": "sing, chant, call; ditty, song"
-      },
-      {
-        "hanzi": "歌",
-        "pinyin": "gē",
-        "noTones": "ge",
-        "english": "song, lyrics; sing, chant; praise"
       },
       {
         "hanzi": "跳舞",
@@ -790,22 +764,10 @@
         "english": "to dance"
       },
       {
-        "hanzi": "跳",
-        "pinyin": "tiào",
-        "noTones": "tiao",
-        "english": "jump, leap, vault, bounce; dance"
-      },
-      {
-        "hanzi": "舞",
-        "pinyin": "wǔ",
-        "noTones": "wu",
-        "english": "dance, posture, prance; brandish"
-      },
-      {
         "hanzi": "听",
         "pinyin": "tīng",
         "noTones": "ting",
-        "english": "hear; understand; obey, comply"
+        "english": "to listen, to hear"
       },
       {
         "hanzi": "音乐",
@@ -817,25 +779,25 @@
         "hanzi": "书",
         "pinyin": "shū",
         "noTones": "shu",
-        "english": "book, letter, document; writings"
+        "english": "book"
       },
       {
         "hanzi": "对",
         "pinyin": "duì",
         "noTones": "dui",
-        "english": "correct, right; facing, opposed"
+        "english": "correct, right; facing, towards"
       },
       {
         "hanzi": "有的",
         "pinyin": "yǒu de",
         "noTones": "you de",
-        "english": "(there are) some (who are...), some (exist)"
+        "english": "some, several; to have"
       },
       {
         "hanzi": "时候",
         "pinyin": "shí hou",
         "noTones": "shi hou",
-        "english": "time, length of time, moment, period"
+        "english": "time; moment"
       },
       {
         "hanzi": "电影",
@@ -844,34 +806,34 @@
         "english": "movie, film"
       },
       {
-        "hanzi": "影",
-        "pinyin": "yǐng",
-        "noTones": "ying",
-        "english": "shadow; image, reflection; photograph"
+        "hanzi": "常常",
+        "pinyin": "cháng cháng",
+        "noTones": "chang chang",
+        "english": "often, frequently"
       },
       {
-        "hanzi": "常常",
-        "pinyin": "chángcháng",
-        "noTones": "changchang",
-        "english": "frequently, usually, often"
+        "hanzi": "那",
+        "pinyin": "nà",
+        "noTones": "na",
+        "english": "that"
       },
       {
         "hanzi": "去",
         "pinyin": "qù",
         "noTones": "qu",
-        "english": "go away, leave, depart"
+        "english": "to go, to leave"
       },
       {
         "hanzi": "外国",
-        "pinyin": "wàiguó",
-        "noTones": "waiguo",
-        "english": "foreign (country)"
+        "pinyin": "wài guó",
+        "noTones": "wai guo",
+        "english": "foreign country"
       },
       {
         "hanzi": "请客",
         "pinyin": "qǐng kè",
         "noTones": "qing ke",
-        "english": "to give a dinner party, to entertain guests, to invite to dinner"
+        "english": "to treat, to invite"
       },
       {
         "hanzi": "昨天",
@@ -883,82 +845,84 @@
         "hanzi": "所以",
         "pinyin": "suǒ yǐ",
         "noTones": "suo yi",
-        "english": "therefore, as a result, so, the reason why"
-      },
+        "english": "therefore, so, as a result"
+      }
+    ],
+    "Lesson 4 Dialogue 2": [
       {
         "hanzi": "小",
         "pinyin": "xiǎo",
         "noTones": "xiao",
-        "english": "small, tiny, insignificant"
+        "english": "small, little; few, young"
       },
       {
         "hanzi": "好久",
-        "pinyin": "hǎojiǔ",
-        "noTones": "haojiu",
-        "english": "quite a while"
-      },
-      {
-        "hanzi": "久",
-        "pinyin": "jiǔ",
-        "noTones": "jiu",
-        "english": "long time (ago); time passage, grow late"
+        "pinyin": "hǎo jiǔ",
+        "noTones": "hao jiu",
+        "english": "a long time"
       },
       {
         "hanzi": "不错",
-        "pinyin": "bù cuò",
+        "pinyin": "bú cuò",
         "noTones": "bu cuo",
-        "english": "correct, right, not bad, pretty good"
-      },
-      {
-        "hanzi": "错",
-        "pinyin": "cuò",
-        "noTones": "cuo",
-        "english": "error, blunder, mistake; wrong"
+        "english": "not bad, pretty good"
       },
       {
         "hanzi": "想",
         "pinyin": "xiǎng",
         "noTones": "xiang",
-        "english": "think, speculate, plan, consider"
+        "english": "to think, to believe; to miss"
       },
       {
         "hanzi": "觉得",
         "pinyin": "jué de",
         "noTones": "jue de",
-        "english": "to think, to feel"
+        "english": "to feel, to think"
       },
       {
         "hanzi": "有意思",
-        "pinyin": "yǒu yìsi",
-        "noTones": "you yisi",
-        "english": "interesting, meaningful, enjoyable, fun"
-      },
-      {
-        "hanzi": "意思",
-        "pinyin": "yìsi",
-        "noTones": "yisi",
-        "english": "idea, opinion, meaning, wish, desire, interest, fun, token of appreciation, affection etc., to give as a small token, to do sth as a gesture of goodwill etc."
+        "pinyin": "yǒu yì si",
+        "noTones": "you yi si",
+        "english": "interesting, enjoyable"
       },
       {
         "hanzi": "只",
         "pinyin": "zhǐ",
         "noTones": "zhi",
-        "english": "only, just, simply"
+        "english": "only, just; but"
       },
       {
         "hanzi": "睡觉",
         "pinyin": "shuì jiào",
         "noTones": "shui jiao",
-        "english": "to go to bed, to sleep"
+        "english": "to sleep"
       },
       {
-        "hanzi": "睡",
-        "pinyin": "shuì",
-        "noTones": "shui",
-        "english": "sleep, doze"
+        "hanzi": "算了",
+        "pinyin": "suàn le",
+        "noTones": "suan le",
+        "english": "forget it, never mind"
+      },
+      {
+        "hanzi": "找",
+        "pinyin": "zhǎo",
+        "noTones": "zhao",
+        "english": "to look for, to seek; to give change"
+      },
+      {
+        "hanzi": "别人",
+        "pinyin": "bié rén",
+        "noTones": "bie ren",
+        "english": "other people, others"
+      },
+      {
+        "hanzi": "别(的)",
+        "pinyin": "bié (de)",
+        "noTones": "bie (de)",
+        "english": "other, another; do not"
       }
     ],
-    "Lesson 5": [
+    "Lesson 5 Dialogue 1": [
       {
         "hanzi": "呀",
         "pinyin": "yā",
@@ -1108,7 +1072,9 @@
         "pinyin": "shuǐ",
         "noTones": "shui",
         "english": "water, liquid, lotion, juice"
-      },
+      }
+    ],
+    "Lesson 5 Dialogue 2": [
       {
         "hanzi": "玩",
         "pinyin": "wán",
@@ -1164,138 +1130,126 @@
         "english": "return, turn around; a time"
       }
     ],
-    "Lesson 6": [
+    "Lesson 6 Dialogue 1": [
       {
-        "hanzi": "打电话",
-        "pinyin": "dǎdiànhuà",
-        "noTones": "da dian hua",
-        "english": "to make a telephone call"
+        "hanzi": "给",
+        "pinyin": "gěi",
+        "noTones": "gei",
+        "english": "to give"
       },
       {
-        "hanzi": "电话",
-        "pinyin": "diànhuà",
-        "noTones": "dian hua",
-        "english": "telephone, phone call, phone number"
+        "hanzi": "打电话",
+        "pinyin": "dǎ diàn huà",
+        "noTones": "da dian hua",
+        "english": "to make a phone call"
       },
       {
         "hanzi": "喂",
-        "pinyin": "wèi",
+        "pinyin": "wèi •",
         "noTones": "wei",
-        "english": "interjection to call attention"
+        "english": "hello; hey"
+      },
+      {
+        "hanzi": "在",
+        "pinyin": "zài",
+        "noTones": "zai",
+        "english": "at, in, on"
       },
       {
         "hanzi": "就",
         "pinyin": "jiù",
         "noTones": "jiu",
-        "english": "just, simply; to come, go to; to approach, near"
+        "english": "exactly, precisely"
       },
       {
         "hanzi": "您",
         "pinyin": "nín",
         "noTones": "nin",
-        "english": "honorific for 'you'"
+        "english": "you (polite)"
       },
       {
         "hanzi": "哪",
         "pinyin": "nǎ",
         "noTones": "na",
-        "english": "which? where? how?"
+        "english": "which"
       },
       {
         "hanzi": "位",
         "pinyin": "wèi",
         "noTones": "wei",
-        "english": "throne; position, post; rank, status; seat"
+        "english": "polite measure word for people"
       },
       {
         "hanzi": "下午",
         "pinyin": "xiàwǔ",
-        "noTones": "xia wu",
-        "english": "afternoon, p.m."
+        "noTones": "xiawu",
+        "english": "afternoon"
       },
       {
         "hanzi": "时间",
         "pinyin": "shíjiān",
-        "noTones": "shi jian",
-        "english": "time, period"
+        "noTones": "shijian",
+        "english": "time"
       },
       {
         "hanzi": "问题",
-        "pinyin": "wèntí",
+        "pinyin": "wèn tí",
         "noTones": "wen ti",
-        "english": "question, problem, issue, topic"
+        "english": "question, problem"
+      },
+      {
+        "hanzi": "要",
+        "pinyin": "yào",
+        "noTones": "yao",
+        "english": "to want"
       },
       {
         "hanzi": "开会",
-        "pinyin": "kāihuì",
+        "pinyin": "kāi huì",
         "noTones": "kai hui",
-        "english": "to hold a meeting, to attend a meeting"
-      },
-      {
-        "hanzi": "开",
-        "pinyin": "kāi",
-        "noTones": "kai",
-        "english": "open; initiate, begin, start"
-      },
-      {
-        "hanzi": "会",
-        "pinyin": "huì",
-        "noTones": "hui",
-        "english": "assemble, meet together; meeting"
+        "english": "to have a meeting"
       },
       {
         "hanzi": "上午",
         "pinyin": "shàngwǔ",
-        "noTones": "shang wu",
+        "noTones": "shangwu",
         "english": "morning"
       },
       {
         "hanzi": "节",
         "pinyin": "jié",
         "noTones": "jie",
-        "english": "knot, node, joint; section"
+        "english": "measure word for class periods"
       },
       {
         "hanzi": "课",
         "pinyin": "kè",
         "noTones": "ke",
-        "english": "lesson; course; classwork"
+        "english": "class, lesson"
       },
       {
         "hanzi": "年级",
         "pinyin": "niánjí",
-        "noTones": "nian ji",
-        "english": "grade, year (in school, college etc)"
+        "noTones": "nianji",
+        "english": "grade"
       },
       {
         "hanzi": "考试",
-        "pinyin": "kǎoshì",
+        "pinyin": "kǎo shì",
         "noTones": "kao shi",
-        "english": "to take an exam, exam"
-      },
-      {
-        "hanzi": "考",
-        "pinyin": "kǎo",
-        "noTones": "kao",
-        "english": "examine, test; investigate"
-      },
-      {
-        "hanzi": "试",
-        "pinyin": "shì",
-        "noTones": "shi",
-        "english": "test, try, experiment"
+        "english": "exam"
       },
       {
         "hanzi": "以后",
-        "pinyin": "yǐhòu",
+        "pinyin": "yǐ hòu",
         "noTones": "yi hou",
-        "english": "after, later, afterwards, following, later on, in the future"
+        "english": "after"
       },
       {
-        "hanzi": "空",
-        "pinyin": "kōng",
-        "noTones": "kong",
-        "english": "empty, hollow, bare, deserted"
+        "hanzi": "空儿",
+        "pinyin": "kòng(r)",
+        "noTones": "kong(r)",
+        "english": "free time"
       },
       {
         "hanzi": "要是",
@@ -1306,125 +1260,121 @@
       {
         "hanzi": "方便",
         "pinyin": "fāngbiàn",
-        "noTones": "fang bian",
-        "english": "convenient, suitable, to facilitate, to make things easy, having money to spare, (euphemism) to relieve oneself"
+        "noTones": "fangbian",
+        "english": "convenient"
       },
       {
         "hanzi": "到",
         "pinyin": "dào",
         "noTones": "dao",
-        "english": "go to, arrive, been to"
+        "english": "to go to; to arrive"
       },
       {
         "hanzi": "办公室",
-        "pinyin": "bàngōngshì",
+        "pinyin": "bàn gōng shì",
         "noTones": "ban gong shi",
-        "english": "office, business premises, bureau"
+        "english": "office"
       },
       {
         "hanzi": "行",
         "pinyin": "xíng",
         "noTones": "xing",
-        "english": "go; walk; move, travel; circulate"
+        "english": "all right, O.K."
       },
       {
         "hanzi": "等",
         "pinyin": "děng",
         "noTones": "deng",
-        "english": "rank, grade; wait; equal; 'etc.'"
+        "english": "to wait"
+      },
+      {
+        "hanzi": "别",
+        "pinyin": "bié",
+        "noTones": "bie",
+        "english": "don't"
       },
       {
         "hanzi": "客气",
         "pinyin": "kèqi",
-        "noTones": "ke qi",
-        "english": "polite, courteous, formal, modest"
-      },
+        "noTones": "keqi",
+        "english": "polite"
+      }
+    ],
+    "Lesson 6 Dialogue 2": [
       {
-        "hanzi": "下",
-        "pinyin": "xià",
-        "noTones": "xia",
-        "english": "under, underneath, below; down; inferior; bring down"
+        "hanzi": "下个",
+        "pinyin": "xià ge",
+        "noTones": "xia ge",
+        "english": "next one"
       },
       {
         "hanzi": "中文",
-        "pinyin": "zhōngwén",
-        "noTones": "zhong wen",
+        "pinyin": "Zhōngwén",
+        "noTones": "Zhongwen",
         "english": "Chinese language"
-      },
-      {
-        "hanzi": "文",
-        "pinyin": "wén",
-        "noTones": "wen",
-        "english": "literature, culture, writing"
       },
       {
         "hanzi": "帮",
         "pinyin": "bāng",
         "noTones": "bang",
-        "english": "help, assist; defend; shoe upper"
+        "english": "to help"
       },
       {
         "hanzi": "准备",
-        "pinyin": "zhǔnbèi",
+        "pinyin": "zhǔn bèi",
         "noTones": "zhun bei",
-        "english": "preparation, to prepare, to intend, to be about to, reserve (fund)"
+        "english": "preparation, to prepare"
       },
       {
         "hanzi": "练习",
-        "pinyin": "liànxí",
+        "pinyin": "liàn xí",
         "noTones": "lian xi",
-        "english": "to practice, exercise, drill, practice"
+        "english": "practice, to practice"
       },
       {
         "hanzi": "说",
         "pinyin": "shuō",
         "noTones": "shuo",
-        "english": "speak, say, talk; scold, upbraid"
+        "english": "to speak, to say"
       },
       {
         "hanzi": "啊",
-        "pinyin": "a",
+        "pinyin": "(a sentence-final particle of exclamation, interrogation, etc.)",
         "noTones": "a",
-        "english": "exclamatory particle"
+        "english": "ah, oh"
       },
       {
         "hanzi": "但是",
-        "pinyin": "dànshì",
+        "pinyin": "dàn shì",
         "noTones": "dan shi",
         "english": "but, however"
       },
       {
         "hanzi": "得",
-        "pinyin": "dé",
-        "noTones": "de",
-        "english": "obtain, get, gain, acquire"
+        "pinyin": "děi",
+        "noTones": "dei",
+        "english": "must; to have to"
       },
       {
         "hanzi": "跟",
         "pinyin": "gēn",
         "noTones": "gen",
-        "english": "heel; to follow, accompany; with"
+        "english": "with"
       },
       {
         "hanzi": "见面",
-        "pinyin": "jiànmiàn",
+        "pinyin": "jiàn miàn",
         "noTones": "jian mian",
-        "english": "to meet, to see each other"
-      },
-      {
-        "hanzi": "面",
-        "pinyin": "miàn",
-        "noTones": "mian",
-        "english": "face; surface; plane; side, dimension"
+        "english": "to meet, see"
       },
       {
         "hanzi": "回来",
-        "pinyin": "huílai",
+        "pinyin": "huí lai",
         "noTones": "hui lai",
-        "english": "to return, to come back"
+        "english": "to come back"
       }
     ],
-    "Lesson 7": [
+    "Lesson 7 Dialogue 1": [
       {
         "hanzi": "说话",
         "pinyin": "shuōhuà",
@@ -1517,7 +1467,7 @@
       },
       {
         "hanzi": "哪里",
-        "pinyin": "nǎlǐ",
+        "pinyin": "nǎ lǐ",
         "noTones": "na li",
         "english": "where?, somewhere, anywhere, wherever, nowhere (negative answer to question), humble expression denying compliment"
       },
@@ -1529,7 +1479,7 @@
       },
       {
         "hanzi": "预习",
-        "pinyin": "yùxí",
+        "pinyin": "yù xí",
         "noTones": "yu xi",
         "english": "to prepare a lesson"
       },
@@ -1574,7 +1524,9 @@
         "pinyin": "nán",
         "noTones": "nan",
         "english": "difficult, arduous, hard; unable"
-      },
+      }
+    ],
+    "Lesson 7 Dialogue 2": [
       {
         "hanzi": "平常",
         "pinyin": "píngcháng",
@@ -1666,24 +1618,12 @@
         "english": "strong, stimulating; very"
       }
     ],
-    "Lesson 8": [
-      {
-        "hanzi": "这儿",
-        "pinyin": "zhèr",
-        "noTones": "zhe er",
-        "english": "here"
-      },
-      {
-        "hanzi": "刷卡",
-        "pinyin": "shuākǎ",
-        "noTones": "shua ka",
-        "english": "to use a credit card (or swipe card, smart card etc)"
-      },
+    "Lesson 8 Dialogue 1": [
       {
         "hanzi": "篇",
         "pinyin": "piān",
         "noTones": "pian",
-        "english": "chapter, section, essay, article"
+        "english": "measure word for essays, articles, etc."
       },
       {
         "hanzi": "日记",
@@ -1695,25 +1635,19 @@
         "hanzi": "累",
         "pinyin": "lèi",
         "noTones": "lei",
-        "english": "tired; implicate, involve; bother"
+        "english": "tired"
       },
       {
         "hanzi": "起床",
         "pinyin": "qǐchuáng",
         "noTones": "qi chuang",
-        "english": "to get out of bed, to get up"
-      },
-      {
-        "hanzi": "床",
-        "pinyin": "chuáng",
-        "noTones": "chuang",
-        "english": "bed, couch; framework, chassis"
+        "english": "to get up"
       },
       {
         "hanzi": "洗澡",
-        "pinyin": "xǐzǎo",
+        "pinyin": "xǐ zǎo",
         "noTones": "xi zao",
-        "english": "to bathe, to take a shower"
+        "english": "to take a bath/shower"
       },
       {
         "hanzi": "早饭",
@@ -1723,9 +1657,9 @@
       },
       {
         "hanzi": "一边",
-        "pinyin": "yībiān",
+        "pinyin": "yìbiān",
         "noTones": "yi bian",
-        "english": "one side, either side, on the one hand, on the other hand, doing while"
+        "english": "simultaneously; at the same time"
       },
       {
         "hanzi": "教室",
@@ -1737,13 +1671,13 @@
         "hanzi": "发音",
         "pinyin": "fāyīn",
         "noTones": "fa yin",
-        "english": "to pronounce, pronunciation, to emit sound"
+        "english": "pronunciation"
       },
       {
         "hanzi": "新",
         "pinyin": "xīn",
         "noTones": "xin",
-        "english": "new, recent, fresh, modern"
+        "english": "new"
       },
       {
         "hanzi": "电脑",
@@ -1752,22 +1686,16 @@
         "english": "computer"
       },
       {
-        "hanzi": "脑",
-        "pinyin": "nǎo",
-        "noTones": "nao",
-        "english": "brain"
-      },
-      {
         "hanzi": "中午",
         "pinyin": "zhōngwǔ",
         "noTones": "zhong wu",
-        "english": "noon, midday"
+        "english": "noon"
       },
       {
         "hanzi": "餐厅",
         "pinyin": "cāntīng",
         "noTones": "can ting",
-        "english": "dining hall, dining room, restaurant"
+        "english": "dining room, cafeteria"
       },
       {
         "hanzi": "午饭",
@@ -1779,13 +1707,13 @@
         "hanzi": "上网",
         "pinyin": "shàngwǎng",
         "noTones": "shang wang",
-        "english": "to go online, to connect to the Internet, (of a document etc) to be uploaded to the Internet, (tennis, volleyball etc) to move in close to the net"
+        "english": "to go online; to surf the internet"
       },
       {
         "hanzi": "宿舍",
         "pinyin": "sùshè",
         "noTones": "su she",
-        "english": "dormitory, dorm room, living quarters, hostel"
+        "english": "dormitory"
       },
       {
         "hanzi": "那儿",
@@ -1797,19 +1725,19 @@
         "hanzi": "正在",
         "pinyin": "zhèngzài",
         "noTones": "zheng zai",
-        "english": "just at (that time), right in (that place), right in the middle of (doing sth)"
+        "english": "in the middle of (doing something)"
       },
       {
         "hanzi": "以前",
         "pinyin": "yǐqián",
         "noTones": "yi qian",
-        "english": "before, formerly, previous, ago"
+        "english": "before"
       },
       {
         "hanzi": "告诉",
-        "pinyin": "gàosu, gàosù",
+        "pinyin": "gàosu",
         "noTones": "gao su",
-        "english": "to tell, to inform, to let know; to press charges, to file a complaint"
+        "english": "to tell"
       },
       {
         "hanzi": "已经",
@@ -1819,57 +1747,59 @@
       },
       {
         "hanzi": "知道",
-        "pinyin": "zhīdào",
+        "pinyin": "zhīdao",
         "noTones": "zhi dao",
-        "english": "to know, to become aware of, undefined"
-      },
+        "english": "to know"
+      }
+    ],
+    "Lesson 8 Dialogue 2": [
       {
         "hanzi": "封",
         "pinyin": "fēng",
         "noTones": "feng",
-        "english": "letter, envelope; feudal"
+        "english": "measure word for letters"
       },
       {
         "hanzi": "信",
         "pinyin": "xìn",
         "noTones": "xin",
-        "english": "trust, believe; letter"
+        "english": "letter (correspondence)"
       },
       {
         "hanzi": "最近",
         "pinyin": "zuìjìn",
         "noTones": "zui jin",
-        "english": "recent, recently, these days, latest, soon, nearest (of locations), shortest (of routes)"
-      },
-      {
-        "hanzi": "最",
-        "pinyin": "zuì",
-        "noTones": "zui",
-        "english": "most, extremely, exceedingly"
-      },
-      {
-        "hanzi": "近",
-        "pinyin": "jìn",
-        "noTones": "jin",
-        "english": "near, close; approach; intimate"
+        "english": "recently"
       },
       {
         "hanzi": "学期",
         "pinyin": "xuéqī",
         "noTones": "xue qi",
-        "english": "term, semester"
+        "english": "school term; semester/quarter"
+      },
+      {
+        "hanzi": "除了...以外",
+        "pinyin": "chúle...yǐwài",
+        "noTones": "chu le...yi wai",
+        "english": "in addition to; besides"
       },
       {
         "hanzi": "专业",
         "pinyin": "zhuānyè",
         "noTones": "zhuan ye",
-        "english": "specialty, specialized field, main field of study (at university), major, professional"
+        "english": "major (in college); specialty"
+      },
+      {
+        "hanzi": "会",
+        "pinyin": "huì",
+        "noTones": "hui",
+        "english": "can; know how to"
       },
       {
         "hanzi": "后来",
         "pinyin": "hòulái",
         "noTones": "hou lai",
-        "english": "afterwards, later"
+        "english": "later"
       },
       {
         "hanzi": "音乐会",
@@ -1881,76 +1811,34 @@
         "hanzi": "希望",
         "pinyin": "xīwàng",
         "noTones": "xi wang",
-        "english": "to wish for, to desire, hope"
+        "english": "to hope; hope"
       },
       {
         "hanzi": "能",
         "pinyin": "néng",
         "noTones": "neng",
-        "english": "to be able; can, permitted to; ability"
+        "english": "can; to be able to"
       },
       {
         "hanzi": "用",
         "pinyin": "yòng",
         "noTones": "yong",
-        "english": "use, employ, apply, operate; use"
+        "english": "to use"
       },
       {
         "hanzi": "笑",
         "pinyin": "xiào",
         "noTones": "xiao",
-        "english": "smile, laugh, giggle; snicker"
+        "english": "to laugh at; to laugh; to smile"
       },
       {
         "hanzi": "祝",
         "pinyin": "zhù",
         "noTones": "zhu",
-        "english": "pray for happiness or blessings"
+        "english": "to wish (well)"
       }
     ],
-    "Lesson 9": [
-      {
-        "hanzi": "刷",
-        "pinyin": "shuā",
-        "noTones": "shua",
-        "english": "brush; clean with a brush, scrub"
-      },
-      {
-        "hanzi": "卡",
-        "pinyin": "kǎ",
-        "noTones": "ka",
-        "english": "card, punch card; calorie"
-      },
-      {
-        "hanzi": "收",
-        "pinyin": "shōu",
-        "noTones": "shou",
-        "english": "gather together, collect; harvest"
-      },
-      {
-        "hanzi": "信用卡",
-        "pinyin": "xìnyòngkǎ",
-        "noTones": "xin yong ka",
-        "english": "credit card"
-      },
-      {
-        "hanzi": "不过",
-        "pinyin": "bùguò",
-        "noTones": "bu guo",
-        "english": "only, merely, no more than, but, however, anyway (to get back to a previous topic), cannot be more (after adjectival)"
-      },
-      {
-        "hanzi": "付钱",
-        "pinyin": "fùqián",
-        "noTones": "fu qian",
-        "english": "to pay money"
-      },
-      {
-        "hanzi": "付",
-        "pinyin": "fù",
-        "noTones": "fu",
-        "english": "give, deliver, pay, hand over; entrust"
-      },
+    "Lesson 9 Dialogue 1": [
       {
         "hanzi": "商店",
         "pinyin": "shāngdiàn",
@@ -1961,13 +1849,13 @@
         "hanzi": "买",
         "pinyin": "mǎi",
         "noTones": "mai",
-        "english": "buy, purchase; bribe, persuade"
+        "english": "to buy"
       },
       {
         "hanzi": "东西",
-        "pinyin": "dōngxi, dōngxī",
+        "pinyin": "dōngxi",
         "noTones": "dong xi",
-        "english": "thing, stuff, person; east and west"
+        "english": "thing, item"
       },
       {
         "hanzi": "售货员",
@@ -1979,205 +1867,303 @@
         "hanzi": "衣服",
         "pinyin": "yīfu",
         "noTones": "yi fu",
-        "english": "clothes"
+        "english": "clothing"
       },
       {
         "hanzi": "件",
         "pinyin": "jiàn",
         "noTones": "jian",
-        "english": "numerary adjunct for article; matter"
+        "english": "measure word for clothing items"
       },
       {
         "hanzi": "衬衫",
         "pinyin": "chènshān",
         "noTones": "chen shan",
-        "english": "shirt, blouse"
+        "english": "shirt"
       },
       {
         "hanzi": "颜色",
         "pinyin": "yánsè",
         "noTones": "yan se",
-        "english": "color, countenance, appearance, facial expression, pigment, dyestuff"
+        "english": "color"
       },
       {
         "hanzi": "黄",
         "pinyin": "huáng",
         "noTones": "huang",
-        "english": "yellow; surname"
+        "english": "yellow"
       },
       {
         "hanzi": "红",
         "pinyin": "hóng",
         "noTones": "hong",
-        "english": "red, vermillion; blush, flush"
+        "english": "red"
       },
       {
         "hanzi": "穿",
         "pinyin": "chuān",
         "noTones": "chuan",
-        "english": "penetrate, pierce, drill; wear"
-      },
-      {
-        "hanzi": "条",
-        "pinyin": "tiáo",
-        "noTones": "tiao",
-        "english": "clause, condition; string, stripe"
+        "english": "to wear"
       },
       {
         "hanzi": "裤子",
         "pinyin": "kùzi",
         "noTones": "ku zi",
-        "english": "trousers, pants"
+        "english": "pants"
+      },
+      {
+        "hanzi": "号",
+        "pinyin": "hào",
+        "noTones": "hao",
+        "english": "size"
       },
       {
         "hanzi": "中",
         "pinyin": "zhōng",
         "noTones": "zhong",
-        "english": "central; center, middle; in the midst of; hit (target); attain"
+        "english": "medium"
       },
       {
         "hanzi": "便宜",
-        "pinyin": "piányi, biànyí",
+        "pinyin": "piányi",
         "noTones": "pian yi",
-        "english": "cheap, inexpensive, small advantages, to let sb off lightly; convenient"
+        "english": "cheap, inexpensive"
+      },
+      {
+        "hanzi": "如果",
+        "pinyin": "rúguǒ",
+        "noTones": "ru guo",
+        "english": "if"
+      },
+      {
+        "hanzi": "的话",
+        "pinyin": "dehuà",
+        "noTones": "de hua",
+        "english": "if"
       },
       {
         "hanzi": "长短",
         "pinyin": "chángduǎn",
         "noTones": "chang duan",
-        "english": "length, duration, accident, right and wrong, good and bad, long and short"
+        "english": "length"
       },
       {
         "hanzi": "长",
-        "pinyin": "zhǎng",
-        "noTones": "zhang",
-        "english": "long; length; excel in; leader"
+        "pinyin": "cháng",
+        "noTones": "chang",
+        "english": "long"
       },
       {
         "hanzi": "短",
         "pinyin": "duǎn",
         "noTones": "duan",
-        "english": "short; brief; deficient, lacking"
+        "english": "short"
       },
       {
         "hanzi": "合适",
         "pinyin": "héshì",
         "noTones": "he shi",
-        "english": "suitable, fitting, appropriate"
+        "english": "suitable, fit"
+      },
+      {
+        "hanzi": "试",
+        "pinyin": "shì",
+        "noTones": "shi",
+        "english": "to try"
       },
       {
         "hanzi": "不用",
-        "pinyin": "bùyòng",
+        "pinyin": "búyòng",
         "noTones": "bu yong",
-        "english": "need not"
+        "english": "don't need to"
       },
       {
         "hanzi": "一共",
-        "pinyin": "yīgòng",
+        "pinyin": "yígòng",
         "noTones": "yi gong",
         "english": "altogether"
       },
       {
         "hanzi": "多少",
-        "pinyin": "duōshao, duōshǎo",
+        "pinyin": "duōshao",
         "noTones": "duo shao",
-        "english": "how much, how many, which (number), as much as; number, amount, somewhat"
+        "english": "how many, how much"
       },
       {
         "hanzi": "钱",
         "pinyin": "qián",
         "noTones": "qian",
-        "english": "money, currency, coins"
+        "english": "money"
       },
       {
         "hanzi": "块",
         "pinyin": "kuài",
         "noTones": "kuai",
-        "english": "piece, lump; dollar"
+        "english": "Chinese yuan (currency)"
       },
       {
         "hanzi": "毛",
         "pinyin": "máo",
         "noTones": "mao",
-        "english": "hair, fur, feathers; coarse"
+        "english": "10 cents (a fraction of a Chinese yuan)"
       },
       {
         "hanzi": "分",
         "pinyin": "fēn",
         "noTones": "fen",
-        "english": "divide; small unit of time etc."
+        "english": "cent (a unit of currency)"
       },
       {
         "hanzi": "百",
         "pinyin": "bǎi",
         "noTones": "bai",
-        "english": "one hundred; numerous, many"
+        "english": "hundred"
+      }
+    ],
+    "Lesson 9 Dialogue 2": [
+      {
+        "hanzi": "找（钱）",
+        "pinyin": "zhǎo(qián)",
+        "noTones": "zhao(qian)",
+        "english": "to give change"
       },
       {
         "hanzi": "双",
         "pinyin": "shuāng",
         "noTones": "shuang",
-        "english": "set of two, pair, couple; both"
+        "english": "pair, a measure word for shoes"
       },
       {
         "hanzi": "鞋",
         "pinyin": "xié",
         "noTones": "xie",
-        "english": "shoes, footwear in general"
+        "english": "shoes"
       },
       {
         "hanzi": "换",
         "pinyin": "huàn",
         "noTones": "huan",
-        "english": "change"
+        "english": "to exchange, to change"
       },
       {
         "hanzi": "一样",
-        "pinyin": "yīyàng",
+        "pinyin": "yíyàng",
         "noTones": "yi yang",
-        "english": "same, like, equal to, the same as, just like"
+        "english": "the same, alike"
       },
       {
         "hanzi": "虽然",
         "pinyin": "suīrán",
         "noTones": "sui ran",
-        "english": "although, even though, even if"
+        "english": "although"
       },
       {
         "hanzi": "大小",
         "pinyin": "dàxiǎo",
         "noTones": "da xiao",
-        "english": "dimension, magnitude, size, measurement, large and small, at any rate, adults and children, consideration of seniority"
+        "english": "size"
       },
       {
         "hanzi": "咖啡色",
         "pinyin": "kāfēisè",
         "noTones": "ka fei se",
-        "english": "coffee color, brown"
+        "english": "brown"
       },
       {
         "hanzi": "种",
         "pinyin": "zhǒng",
         "noTones": "zhong",
-        "english": "seed; race, breed; to plant"
+        "english": "kind, type"
       },
       {
         "hanzi": "黑",
         "pinyin": "hēi",
         "noTones": "hei",
-        "english": "black; dark; evil, sinister"
+        "english": "black"
       },
       {
         "hanzi": "样子",
         "pinyin": "yàngzi",
         "noTones": "yang zi",
-        "english": "appearance, manner, pattern, model"
+        "english": "style, appearance"
       },
       {
         "hanzi": "挺",
         "pinyin": "tǐng",
         "noTones": "ting",
-        "english": "to stand upright, straighten; rigid"
+        "english": "quite, very"
+      },
+      {
+        "hanzi": "它",
+        "pinyin": "tā",
+        "noTones": "ta",
+        "english": "it"
+      },
+      {
+        "hanzi": "这儿",
+        "pinyin": "zhèr",
+        "noTones": "zhe er",
+        "english": "here"
+      },
+      {
+        "hanzi": "刷卡",
+        "pinyin": "shuākǎ",
+        "noTones": "shua ka",
+        "english": "to swipe a card"
+      },
+      {
+        "hanzi": "刷",
+        "pinyin": "shuā",
+        "noTones": "shua",
+        "english": "to swipe"
+      },
+      {
+        "hanzi": "卡",
+        "pinyin": "kǎ",
+        "noTones": "ka",
+        "english": "card"
+      },
+      {
+        "hanzi": "收",
+        "pinyin": "shōu",
+        "noTones": "shou",
+        "english": "to receive, to accept, to collect"
+      },
+      {
+        "hanzi": "信用卡",
+        "pinyin": "xìnyòngkǎ",
+        "noTones": "xin yong ka",
+        "english": "credit card"
+      },
+      {
+        "hanzi": "不过",
+        "pinyin": "búguò",
+        "noTones": "bu guo",
+        "english": "however, but"
+      },
+      {
+        "hanzi": "再",
+        "pinyin": "zài",
+        "noTones": "zai",
+        "english": "again"
+      },
+      {
+        "hanzi": "付钱",
+        "pinyin": "fùqián",
+        "noTones": "fu qian",
+        "english": "to pay money"
+      },
+      {
+        "hanzi": "付",
+        "pinyin": "fù",
+        "noTones": "fu",
+        "english": "to pay"
+      },
+      {
+        "hanzi": "条",
+        "pinyin": "tiáo",
+        "noTones": "tiao",
+        "english": "measure word for long, narrow objects; item"
       }
     ],
     "Lesson 10 Dialogue 1": [
