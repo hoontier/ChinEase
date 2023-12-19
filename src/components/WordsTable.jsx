@@ -11,7 +11,8 @@ function WordsTable({ columns }) {
                 <thead className="bg-gray-200">
                     <tr>
                         {columns.includes('Number') && <th className="px-4 py-2">Number</th>}
-                        {columns.includes('Hanzi') && <th className="px-4 py-2">Hanzi</th>}
+                        {columns.includes('Hanzi') && <th className="px-4 py-2">Simplified</th>}
+                        {columns.includes('Traditional') && <th className="px-4 py-2">Traditional</th>}
                         {columns.includes('Pinyin') && <th className="px-4 py-2">Pinyin</th>}
                         {columns.includes('No Tones') && <th className="px-4 py-2">No Tones</th>}
                         {columns.includes('English') && <th className="px-4 py-2">English</th>}
@@ -22,6 +23,7 @@ function WordsTable({ columns }) {
                         <tr key={index} className={index % 2 === 0 ? 'bg-gray-100' : ''}>
                             {columns.includes('Number') && <td className="px-4 py-2">{index + 1}</td>}
                             {columns.includes('Hanzi') && <td className="px-4 py-2">{word.hanzi}</td>}
+                            {columns.includes('Traditional') && <td className="px-4 py-2">{word.traditional}</td>}
                             {columns.includes('Pinyin') && <td className="px-4 py-2">{word.pinyin}</td>}
                             {columns.includes('No Tones') && <td className="px-4 py-2">{word.noTones}</td>}
                             {columns.includes('English') && <td className="px-4 py-2">{word.english}</td>}

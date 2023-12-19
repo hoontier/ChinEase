@@ -50,10 +50,11 @@ function Flashcards() {
     
         // This is the options that the user can select for the flashcards
         const cardOptions = [
-            { value: 'hanzi', label: 'Hanzi' },
+            { value: 'hanzi', label: 'Simplified' },
             { value: 'pinyin', label: 'Pinyin' },
             { value: 'noTones', label: 'No Tones' },
             { value: 'english', label: 'English' },
+            { value: 'traditional', label: 'Traditional'}
         ];
     
         const handleFrontChange = (selectedOptions) => {
@@ -93,12 +94,8 @@ function Flashcards() {
     };
     
     const handlePrevCard = () => {
-        if (isRandom) {
-            dispatch(setCurrentCard(Math.floor(Math.random() * activeCards.length)));
-        } else {
-            const prevCard = (currentCard - 1 + activeCards.length) % activeCards.length;
-            dispatch(setCurrentCard(prevCard));
-        }
+        const prevCard = (currentCard - 1 + activeCards.length) % activeCards.length;
+        dispatch(setCurrentCard(prevCard));
         dispatch(setFlipped(false));
     };
     
