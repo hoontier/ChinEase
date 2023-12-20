@@ -12,12 +12,12 @@ import { setIsMenuHidden } from './features/vocabSlice';
 function Content() {
     const dispatch = useDispatch();
     const isFlashcardsView = useSelector(state => state.vocab.isFlashcardsView);
-    const [selectedColumns, setSelectedColumns] = useState(['Number', 'Hanzi', 'Traditional', 'Pinyin', 'English']); // Default columns
+    const [selectedColumns, setSelectedColumns] = useState(['Number', 'Simplified', 'Traditional', 'Pinyin', 'English']); // Default columns
     const isMenuHidden = useSelector(state => state.vocab.isMenuHidden);
 
     const columnOptions = [
         { value: 'Number', label: 'Number' },
-        { value: 'Hanzi', label: 'Simplified' },
+        { value: 'Simplified', label: 'Simplified' },
         { value: 'Pinyin', label: 'Pinyin' },
         { value: 'No Tones', label: 'No Tones' },
         { value: 'English', label: 'English' },

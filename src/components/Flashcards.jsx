@@ -46,11 +46,11 @@ function Flashcards() {
 
         // Add these states for the front and back properties
         const [frontSide, setFrontSide] = useState(['noTones']);
-        const [backSide, setBackSide] = useState(['hanzi', 'pinyin', 'english']);
+        const [backSide, setBackSide] = useState(['simplified', 'pinyin', 'english']);
     
         // This is the options that the user can select for the flashcards
         const cardOptions = [
-            { value: 'hanzi', label: 'Simplified' },
+            { value: 'simplified', label: 'Simplified' },
             { value: 'pinyin', label: 'Pinyin' },
             { value: 'noTones', label: 'No Tones' },
             { value: 'english', label: 'English' },
@@ -145,8 +145,8 @@ function Flashcards() {
     }, [handleCardFlip, handlePrevCard, handleNextCard]);
 
     useEffect(() => {
-        if (!isFlipped && frontSide.includes('hanzi')) {
-            const textToRead = activeCards[currentCard]['hanzi'];
+        if (!isFlipped && frontSide.includes('simplified')) {
+            const textToRead = activeCards[currentCard]['simplified'];
             playTextToSpeech(textToRead);
         }
     }, [isFlipped, currentCard, frontSide, activeCards]);
