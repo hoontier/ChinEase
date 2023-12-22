@@ -9,6 +9,14 @@ function shuffleArray(array) {
   }
 }
 
+function createWordGroups(words, groupSize = 7) {
+  let groups = [];
+  for (let i = 0; i < words.length; i += groupSize) {
+    groups.push(words.slice(i, i + groupSize));
+  }
+  return groups;
+}
+
 
 const initialState = {
   words: [],
@@ -20,7 +28,8 @@ const initialState = {
   isFlipped: false,
   isRandom: false,
   isFlashcardsView: false,
-  isMenuHidden: false
+  isMenuHidden: false,
+  isShowingTraditionalDifferences: false
 };
 
 
@@ -47,35 +56,41 @@ export const vocabSlice = createSlice({
             }
           });
         
-          if (mergedWords.length > 0) {
-            const totalWords = mergedWords.length;
-            const splitIndex = Math.floor(totalWords / 2);
+          // Update state.words with all merged words
+          state.words = mergedWords;
         
-            switch(state.vocabListPart) {
+          // Update activeCards based on vocabListPart
+          if (state.vocabListPart.startsWith('group')) {
+            const groupIndex = parseInt(state.vocabListPart.replace('group', ''), 10) - 1;
+            const wordGroups = createWordGroups(mergedWords);
+            state.activeCards = wordGroups[groupIndex] || [];
+          } else {
+            // Calculate splitIndex for 'firstHalf' and 'secondHalf'
+            const splitIndex = Math.floor(mergedWords.length / 2);
+        
+            switch (state.vocabListPart) {
               case 'firstHalf':
-                state.words = mergedWords.slice(0, splitIndex);
+                state.activeCards = mergedWords.slice(0, splitIndex);
                 break;
               case 'secondHalf':
-                state.words = mergedWords.slice(splitIndex);
+                state.activeCards = mergedWords.slice(splitIndex);
                 break;
               case 'all':
               default:
-                state.words = mergedWords; // Keep the whole list
+                state.activeCards = mergedWords; // Default to showing all words
                 break;
             }
-          } else {
-            state.words = [];
           }
-          state.activeCards = state.words; // Set activeCards whenever words are set
-        },
+        },               
         removeActiveCard: (state, action) => {
           if (state.currentCard >= 0 && state.currentCard < state.activeCards.length) {
-              state.activeCards.splice(state.currentCard, 1);
-              if (state.currentCard >= state.activeCards.length && state.activeCards.length > 0) {
-                  state.currentCard = state.activeCards.length - 1;
-              }
+            state.activeCards.splice(state.currentCard, 1);
+            // Reset currentCard to 0 if it exceeds the length of the modified activeCards
+            if (state.currentCard >= state.activeCards.length) {
+              state.currentCard = 0;
+            }
           }
-        },      
+        },            
         setVocabListPart: (state, action) => { // Add this reducer
           state.vocabListPart = action.payload;
         },  
@@ -137,12 +152,24 @@ export const vocabSlice = createSlice({
         },
         setIsMenuHidden: (state, action) => {
           state.isMenuHidden = !state.isMenuHidden;
-        }
+        },
+        setIsShowingTraditionalDifferences: (state, action) => {
+          state.isShowingTraditionalDifferences = !state.isShowingTraditionalDifferences;
+        },
+        filterTraditionalDifferences: (state) => {
+          if (state.isShowingTraditionalDifferences) {
+              state.activeCards = state.activeCards.filter((card) => {
+                  return card.simplified !== card.traditional;
+              });
+          } else {
+              state.activeCards = state.words;
+          }
+      },
     }
 });
 
 
-export const { setVocabList, setWords, removeActiveCard, setVocabListPart, setSelectedVocabLists, setCurrentCard, setFlipped, toggleRandom, randomizeActiveCards, resetVocabWords, setIsFlashcardsView, setIsMenuHidden } = vocabSlice.actions;
+export const { setVocabList, setWords, removeActiveCard, setVocabListPart, setSelectedVocabLists, setCurrentCard, setFlipped, toggleRandom, randomizeActiveCards, resetVocabWords, setIsFlashcardsView, setIsMenuHidden, filterTraditionalDifferences, setIsShowingTraditionalDifferences } = vocabSlice.actions;
 
 export const selectWords = state => state.vocab.words;
 export const selectActiveCards = state => state.vocab.activeCards; 
@@ -155,3 +182,4 @@ export const selectVocabListPart = state => state.vocab.vocabListPart;
 export const selectVocabListNames = state => state.vocab.vocabList;
 export const selectIsFlashcardsView = state => state.vocab.isFlashcardsView;
 export const selectIsMenuHidden = state => state.vocab.isMenuHidden;
+export const selectIsShowingTraditionalDifferences = state => state.vocab.isShowingTraditionalDifferences;

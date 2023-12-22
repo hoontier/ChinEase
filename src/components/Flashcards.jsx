@@ -51,6 +51,7 @@ function Flashcards() {
         // This is the options that the user can select for the flashcards
         const cardOptions = [
             { value: 'simplified', label: 'Simplified' },
+            { value: 'zhuyin', label: 'Zhuyin' },
             { value: 'pinyin', label: 'Pinyin' },
             { value: 'noTones', label: 'No Tones' },
             { value: 'english', label: 'English' },
@@ -78,11 +79,11 @@ function Flashcards() {
       };
     
       const gotThisWord = () => {
-        dispatch(removeActiveCard()); // Use the new reducer to remove the current card
-        const nextCard = (currentCard) % activeCards.length; // Reference activeCards.length here
+        dispatch(removeActiveCard());
+        const nextCard = (currentCard >= activeCards.length - 1) ? 0 : currentCard;
         dispatch(setCurrentCard(nextCard));
         dispatch(setFlipped(false)); 
-      };
+      };      
     
       const handleRandomize = () => {
         dispatch(toggleRandom(!isRandom));

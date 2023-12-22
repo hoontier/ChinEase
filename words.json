@@ -4455,964 +4455,2003 @@
     ],
     "Lesson 17 Dialogue 1": [
       {
-        "pinyin": "chǎo",
-        "noTones": "chao",
-        "english": "noisy",
-        "traditional": "吵",
-        "simplified": "吵"
+          "pinyin": "chǎo",
+          "noTones": "chao",
+          "zhuyin": "ㄔㄠˇ",
+          "english": "noisy",
+          "traditional": "吵",
+          "simplified": "吵"
       },
       {
-        "pinyin": "lián",
-        "noTones": "lian",
-        "english": "even",
-        "traditional": "連",
-        "simplified": "连"
+          "pinyin": "lián",
+          "noTones": "lian",
+          "zhuyin": "ㄌㄧㄢˊ",
+          "english": "even",
+          "traditional": "連",
+          "simplified": "连"
       },
       {
-        "pinyin": "zuò fàn",
-        "noTones": "zuo fan",
-        "english": "to cook; to prepare a meal",
-        "traditional": "做飯",
-        "simplified": "做饭"
+          "pinyin": "zuò fàn",
+          "noTones": "zuo fan",
+          "zhuyin": "ㄗㄨㄛˋ ㄈㄢˋ",
+          "english": "to cook; to prepare a meal",
+          "traditional": "做飯",
+          "simplified": "做饭"
       },
       {
-        "pinyin": "bào zhǐ",
-        "noTones": "bao zhi",
-        "english": "newspaper",
-        "traditional": "報紙",
-        "simplified": "报纸"
+          "pinyin": "bào zhǐ",
+          "noTones": "bao zhi",
+          "zhuyin": "ㄅㄠˋ ㄓˇ",
+          "english": "newspaper",
+          "traditional": "報紙",
+          "simplified": "报纸"
       },
       {
-        "pinyin": "guǎng gào",
-        "noTones": "guang gao",
-        "english": "advertisement",
-        "traditional": "廣告",
-        "simplified": "广告"
+          "pinyin": "guǎng gào",
+          "noTones": "guang gao",
+          "zhuyin": "ㄍㄨㄤˇ ㄍㄠˋ",
+          "english": "advertisement",
+          "traditional": "廣告",
+          "simplified": "广告"
       },
       {
-        "pinyin": "fù jìn",
-        "noTones": "fu jin",
-        "english": "nearby, in the vicinity",
-        "traditional": "附近",
-        "simplified": "附近"
+          "pinyin": "fù jìn",
+          "noTones": "fu jin",
+          "zhuyin": "ㄈㄨˋ ㄐㄧㄣˋ",
+          "english": "nearby, in the vicinity",
+          "traditional": "附近",
+          "simplified": "附近"
       },
       {
-        "pinyin": "tào",
-        "noTones": "tao",
-        "english": "(measure word for suite or set)",
-        "traditional": "套",
-        "simplified": "套"
+          "pinyin": "tào",
+          "noTones": "tao",
+          "zhuyin": "ㄊㄠˋ",
+          "english": "(measure word for suite or set)",
+          "traditional": "套",
+          "simplified": "套"
       },
       {
-        "pinyin": "gōng yù",
-        "noTones": "gong yu",
-        "english": "apartment",
-        "traditional": "公寓",
-        "simplified": "公寓"
+          "pinyin": "gōng yù",
+          "noTones": "gong yu",
+          "zhuyin": "ㄍㄨㄥ ㄩˋ",
+          "english": "apartment",
+          "traditional": "公寓",
+          "simplified": "公寓"
       },
       {
-        "pinyin": "chū zū",
-        "noTones": "chu zu",
-        "english": "to rent out",
-        "traditional": "出租",
-        "simplified": "出租"
+          "pinyin": "chū zū",
+          "noTones": "chu zu",
+          "zhuyin": "ㄔㄨ ㄗㄨ",
+          "english": "to rent out",
+          "traditional": "出租",
+          "simplified": "出租"
       },
       {
-        "pinyin": "zǒu lù",
-        "noTones": "zou lu",
-        "english": "to walk",
-        "traditional": "走路",
-        "simplified": "走路"
+          "pinyin": "zǒu lù",
+          "noTones": "zou lu",
+          "zhuyin": "ㄗㄡˇ ㄌㄨˋ",
+          "english": "to walk",
+          "traditional": "走路",
+          "simplified": "走路"
       },
       {
-        "pinyin": "fēn zhōng",
-        "noTones": "fen zhong",
-        "english": "minute",
-        "traditional": "分鐘",
-        "simplified": "分钟"
+          "pinyin": "fēn zhōng",
+          "noTones": "fen zhong",
+          "zhuyin": "ㄈㄣ ㄓㄨㄥ",
+          "english": "minute",
+          "traditional": "分鐘",
+          "simplified": "分钟"
       },
       {
-        "pinyin": "wò shì",
-        "noTones": "wo shi",
-        "english": "bedroom",
-        "traditional": "臥室",
-        "simplified": "卧室"
+          "pinyin": "wò shì",
+          "noTones": "wo shi",
+          "zhuyin": "ㄨㄛˋ ㄕˋ",
+          "english": "bedroom",
+          "traditional": "臥室",
+          "simplified": "卧室"
       },
       {
-        "pinyin": "chú fáng",
-        "noTones": "chu fang",
-        "english": "kitchen",
-        "traditional": "廚房",
-        "simplified": "厨房"
+          "pinyin": "chú fáng",
+          "noTones": "chu fang",
+          "zhuyin": "ㄔㄨˊ ㄈㄤˊ",
+          "english": "kitchen",
+          "traditional": "廚房",
+          "simplified": "厨房"
       },
       {
-        "pinyin": "wèi shēng jiān",
-        "noTones": "wei sheng jian",
-        "english": "bathroom",
-        "traditional": "衛生間",
-        "simplified": "卫生间"
+          "pinyin": "wèi shēng jiān",
+          "noTones": "wei sheng jian",
+          "zhuyin": "ㄨㄟˋ ㄕㄥ ㄐㄧㄢ",
+          "english": "bathroom",
+          "traditional": "衛生間",
+          "simplified": "卫生间"
       },
       {
-        "pinyin": "kè tīng",
-        "noTones": "ke ting",
-        "english": "living room",
-        "traditional": "客廳",
-        "simplified": "客厅"
+          "pinyin": "kè tīng",
+          "noTones": "ke ting",
+          "zhuyin": "ㄎㄜˋ ㄊㄧㄥ",
+          "english": "living room",
+          "traditional": "客廳",
+          "simplified": "客厅"
       },
       {
-        "pinyin": "jiā jù",
-        "noTones": "jia ju",
-        "english": "furniture",
-        "traditional": "家具",
-        "simplified": "家具"
+          "pinyin": "jiā jù",
+          "noTones": "jia ju",
+          "zhuyin": "ㄐㄧㄚ ㄐㄨˋ",
+          "english": "furniture",
+          "traditional": "家具",
+          "simplified": "家具"
       },
       {
-        "pinyin": "kě néng",
-        "noTones": "ke neng",
-        "english": "possible, maybe",
-        "traditional": "可能",
-        "simplified": "可能"
+          "pinyin": "kě néng",
+          "noTones": "ke neng",
+          "zhuyin": "ㄎㄜˇ ㄋㄥˊ",
+          "english": "possible, maybe",
+          "traditional": "可能",
+          "simplified": "可能"
       }
-    ],
+  ],
     "Lesson 17 Dialogue 2": [
       {
-        "pinyin": "yì fáng yì tīng",
-        "noTones": "yi fang yi ting",
-        "english": "one bedroom and one living room",
-        "traditional": "一房一廳",
-        "simplified": "一房一厅"
+          "pinyin": "yì fáng yì tīng",
+          "noTones": "yi fang yi ting",
+          "zhuyin": "ㄧ ㄈㄤˊ ㄧ ㄊㄧㄥ",
+          "english": "one bedroom and one living room",
+          "traditional": "一房一廳",
+          "simplified": "一房一厅"
       },
       {
-        "pinyin": "gān jìng",
-        "noTones": "gan jing",
-        "english": "clean",
-        "traditional": "乾淨",
-        "simplified": "干净"
+          "pinyin": "gān jìng",
+          "noTones": "gan jing",
+          "zhuyin": "ㄍㄢ ㄐㄧㄥ",
+          "english": "clean",
+          "traditional": "乾淨",
+          "simplified": "干净"
       },
       {
-        "pinyin": "shā fā",
-        "noTones": "sha fa",
-        "english": "sofa",
-        "traditional": "沙發",
-        "simplified": "沙发"
+          "pinyin": "shā fā",
+          "noTones": "sha fa",
+          "zhuyin": "ㄕㄚ ㄈㄚ",
+          "english": "sofa",
+          "traditional": "沙發",
+          "simplified": "沙发"
       },
       {
-        "pinyin": "fàn zhuō",
-        "noTones": "fan zhuo",
-        "english": "dining table",
-        "traditional": "飯桌",
-        "simplified": "饭桌"
+          "pinyin": "fàn zhuō",
+          "noTones": "fan zhuo",
+          "zhuyin": "ㄈㄢ ㄓㄨㄛ",
+          "english": "dining table",
+          "traditional": "飯桌",
+          "simplified": "饭桌"
       },
       {
-        "pinyin": "yǐ zi",
-        "noTones": "yi zi",
-        "english": "chair",
-        "traditional": "椅子",
-        "simplified": "椅子"
+          "pinyin": "yǐ zi",
+          "noTones": "yi zi",
+          "zhuyin": "ㄧ ㄗ˙",
+          "english": "chair",
+          "traditional": "椅子",
+          "simplified": "椅子"
       },
       {
-        "pinyin": "shū zhuō",
-        "noTones": "shu zhuo",
-        "english": "desk",
-        "traditional": "書桌",
-        "simplified": "书桌"
+          "pinyin": "shū zhuō",
+          "noTones": "shu zhuo",
+          "zhuyin": "ㄕㄨ ㄓㄨㄛ",
+          "english": "desk",
+          "traditional": "書桌",
+          "simplified": "书桌"
       },
       {
-        "pinyin": "shū jià",
-        "noTones": "shu jia",
-        "english": "bookshelf",
-        "traditional": "書架",
-        "simplified": "书架"
+          "pinyin": "shū jià",
+          "noTones": "shu jia",
+          "zhuyin": "ㄕㄨ ㄐㄧㄚˋ",
+          "english": "bookshelf",
+          "traditional": "書架",
+          "simplified": "书架"
       },
       {
-        "pinyin": "nà li",
-        "noTones": "na li",
-        "english": "there",
-        "traditional": "那裡",
-        "simplified": "那里"
+          "pinyin": "nà li",
+          "noTones": "na li",
+          "zhuyin": "ㄋㄚˋ ㄌㄧˇ",
+          "english": "there",
+          "traditional": "那裡",
+          "simplified": "那里"
       },
       {
-        "pinyin": "ān jìng",
-        "noTones": "an jing",
-        "english": "quiet",
-        "traditional": "安靜",
-        "simplified": "安静"
+          "pinyin": "ān jìng",
+          "noTones": "an jing",
+          "zhuyin": "ㄢ ㄐㄧㄥˋ",
+          "english": "quiet",
+          "traditional": "安靜",
+          "simplified": "安静"
       },
       {
-        "pinyin": "fáng zū",
-        "noTones": "fang zu",
-        "english": "rent",
-        "traditional": "房租",
-        "simplified": "房租"
+          "pinyin": "fáng zū",
+          "noTones": "fang zu",
+          "zhuyin": "ㄈㄤˊ ㄗㄨ",
+          "english": "rent",
+          "traditional": "房租",
+          "simplified": "房租"
       },
       {
-        "pinyin": "yuán",
-        "noTones": "yuan",
-        "english": "dollar",
-        "traditional": "元",
-        "simplified": "元"
+          "pinyin": "yuán",
+          "noTones": "yuan",
+          "zhuyin": "ㄩㄢˊ",
+          "english": "dollar",
+          "traditional": "元",
+          "simplified": "元"
       },
       {
-        "pinyin": "měi yuán",
-        "noTones": "mei yuan",
-        "english": "U.S. dollar",
-        "traditional": "美元",
-        "simplified": "美元"
+          "pinyin": "měi yuán",
+          "noTones": "mei yuan",
+          "zhuyin": "ㄇㄟˇ ㄩㄢˊ",
+          "english": "U.S. dollar",
+          "traditional": "美元",
+          "simplified": "美元"
       },
       {
-        "pinyin": "rén mín bì",
-        "noTones": "ren min bi",
-        "english": "RMB Chinese currency",
-        "traditional": "人民幣",
-        "simplified": "人民币"
+          "pinyin": "rén mín bì",
+          "noTones": "ren min bi",
+          "zhuyin": "ㄖㄣˊ ㄇㄧㄣˊ ㄅㄧˋ",
+          "english": "RMB Chinese currency",
+          "traditional": "人民幣",
+          "simplified": "人民币"
       },
       {
-        "pinyin": "chà bù duō",
-        "noTones": "cha bu duo",
-        "english": "almost, nearly, just about right",
-        "traditional": "差不多",
-        "simplified": "差不多"
+          "pinyin": "chà bù duō",
+          "noTones": "cha bu duo",
+          "zhuyin": "ㄔㄚˋ ㄅㄨˋ ㄉㄨㄛ",
+          "english": "almost, nearly, just about right",
+          "traditional": "差不多",
+          "simplified": "差不多"
       },
       {
-        "pinyin": "fèi",
-        "noTones": "fei",
-        "english": "fee; expenses",
-        "traditional": "費",
-        "simplified": "费"
+          "pinyin": "fèi",
+          "noTones": "fei",
+          "zhuyin": "ㄈㄟˋ",
+          "english": "fee; expenses",
+          "traditional": "費",
+          "simplified": "费"
       },
       {
-        "pinyin": "yā jīn",
-        "noTones": "ya jin",
-        "english": "security deposit",
-        "traditional": "押金",
-        "simplified": "押金"
+          "pinyin": "yā jīn",
+          "noTones": "ya jin",
+          "zhuyin": "ㄧㄚ ㄐㄧㄣ",
+          "english": "security deposit",
+          "traditional": "押金",
+          "simplified": "押金"
       },
       {
-        "pinyin": "dāng",
-        "noTones": "dang",
-        "english": "to serve as; to be",
-        "traditional": "當",
-        "simplified": "当"
+          "pinyin": "dāng",
+          "noTones": "dang",
+          "zhuyin": "ㄉㄤ",
+          "english": "to serve as; to be",
+          "traditional": "當",
+          "simplified": "当"
       },
       {
-        "pinyin": "huán",
-        "noTones": "huan",
-        "english": "to return (something)",
-        "traditional": "還",
-        "simplified": "还"
+          "pinyin": "huán",
+          "noTones": "huan",
+          "zhuyin": "ㄏㄨㄢˊ",
+          "english": "to return (something)",
+          "traditional": "還",
+          "simplified": "还"
       },
       {
-        "pinyin": "lìng wài",
-        "noTones": "ling wai",
-        "english": "furthermore; in addition",
-        "traditional": "另外",
-        "simplified": "另外"
+          "pinyin": "lìng wài",
+          "noTones": "ling wai",
+          "zhuyin": "ㄌㄧㄥˋ ㄨㄞˋ",
+          "english": "furthermore; in addition",
+          "traditional": "另外",
+          "simplified": "另外"
       },
       {
-        "pinyin": "zhǔn",
-        "noTones": "zhun",
-        "english": "to allow; to be allowed",
-        "traditional": "准",
-        "simplified": "准"
+          "pinyin": "zhǔn",
+          "noTones": "zhun",
+          "zhuyin": "ㄓㄨㄣˇ",
+          "english": "to allow; to be allowed",
+          "traditional": "准",
+          "simplified": "准"
       },
       {
-        "pinyin": "yǎng",
-        "noTones": "yang",
-        "english": "to raise",
-        "traditional": "養",
-        "simplified": "养"
+          "pinyin": "yǎng",
+          "noTones": "yang",
+          "zhuyin": "ㄧㄤˇ",
+          "english": "to raise",
+          "traditional": "養",
+          "simplified": "养"
       },
       {
-        "pinyin": "chǒng wù",
-        "noTones": "chong wu",
-        "english": "pet",
-        "traditional": "寵物",
-        "simplified": "宠物"
+          "pinyin": "chǒng wù",
+          "noTones": "chong wu",
+          "zhuyin": "ㄔㄨㄥˇ ㄨˋ",
+          "english": "pet",
+          "traditional": "寵物",
+          "simplified": "宠物"
       },
       {
-        "pinyin": "xìng qù",
-        "noTones": "xing qu",
-        "english": "interest",
-        "traditional": "興趣",
-        "simplified": "兴趣"
+          "pinyin": "xìng qù",
+          "noTones": "xing qu",
+          "zhuyin": "ㄒㄧㄥˋ ㄑㄩˋ",
+          "english": "interest",
+          "traditional": "興趣",
+          "simplified": "兴趣"
       }
-    ],
+  ],
     "Lesson 18 Dialogue 1": [
       {
-        "pinyin": "dāng rán",
-        "noTones": "dang ran",
-        "english": "of course",
-        "traditional": "當然",
-        "simplified": "当然"
+          "pinyin": "dāng rán",
+          "noTones": "dang ran",
+          "zhuyin": "ㄉㄤ ㄖㄢˊ",
+          "english": "of course",
+          "traditional": "當然",
+          "simplified": "当然"
       },
       {
-        "pinyin": "pàng",
-        "noTones": "pang",
-        "english": "fat",
-        "traditional": "胖",
-        "simplified": "胖"
+          "pinyin": "pàng",
+          "noTones": "pang",
+          "zhuyin": "ㄆㄤˋ",
+          "english": "fat",
+          "traditional": "胖",
+          "simplified": "胖"
       },
       {
-        "pinyin": "pà",
-        "noTones": "pa",
-        "english": "to fear; to be afraid of",
-        "traditional": "怕",
-        "simplified": "怕"
+          "pinyin": "pà",
+          "noTones": "pa",
+          "zhuyin": "ㄆㄚˋ",
+          "english": "to fear; to be afraid of",
+          "traditional": "怕",
+          "simplified": "怕"
       },
       {
-        "pinyin": "jiǎn dān",
-        "noTones": "jian dan",
-        "english": "simple; not complicated",
-        "traditional": "簡單",
-        "simplified": "简单"
+          "pinyin": "jiǎn dān",
+          "noTones": "jian dan",
+          "zhuyin": "ㄐㄧㄢˇ ㄉㄢ",
+          "english": "simple; not complicated",
+          "traditional": "簡單",
+          "simplified": "简单"
       },
       {
-        "pinyin": "pǎo bù",
-        "noTones": "pao bu",
-        "english": "running, to jog",
-        "traditional": "跑步",
-        "simplified": "跑步"
+          "pinyin": "pǎo bù",
+          "noTones": "pao bu",
+          "zhuyin": "ㄆㄠˇ ㄅㄨˋ",
+          "english": "running, to jog",
+          "traditional": "跑步",
+          "simplified": "跑步"
       },
       {
-        "pinyin": "pǎo",
-        "noTones": "pao",
-        "english": "to run",
-        "traditional": "跑",
-        "simplified": "跑"
+          "pinyin": "pǎo",
+          "noTones": "pao",
+          "zhuyin": "ㄆㄠˇ",
+          "english": "to run",
+          "traditional": "跑",
+          "simplified": "跑"
       },
       {
-        "pinyin": "nán shòu",
-        "noTones": "nan shou",
-        "english": "uncomfortable, feel bad",
-        "traditional": "難受",
-        "simplified": "难受"
+          "pinyin": "nán shòu",
+          "noTones": "nan shou",
+          "zhuyin": "ㄋㄢˊ ㄕㄡˋ",
+          "english": "uncomfortable, feel bad",
+          "traditional": "難受",
+          "simplified": "难受"
       },
       {
-        "pinyin": "wǎng qiú",
-        "noTones": "wang qiu",
-        "english": "tennis",
-        "traditional": "網球",
-        "simplified": "网球"
+          "pinyin": "wǎng qiú",
+          "noTones": "wang qiu",
+          "zhuyin": "ㄨㄤˇ ㄑㄧㄡˊ",
+          "english": "tennis",
+          "traditional": "網球",
+          "simplified": "网球"
       },
       {
-        "pinyin": "pāi",
-        "noTones": "pai",
-        "english": "racket",
-        "traditional": "拍",
-        "simplified": "拍"
+          "pinyin": "pāi",
+          "noTones": "pai",
+          "zhuyin": "ㄆㄞ",
+          "english": "racket",
+          "traditional": "拍",
+          "simplified": "拍"
       },
       {
-        "pinyin": "lán qiú",
-        "noTones": "lan qiu",
-        "english": "basketball",
-        "traditional": "籃球",
-        "simplified": "篮球"
+          "pinyin": "lán qiú",
+          "noTones": "lan qiu",
+          "zhuyin": "ㄌㄢˊ ㄑㄧㄡˊ",
+          "english": "basketball",
+          "traditional": "籃球",
+          "simplified": "篮球"
       },
       {
-        "pinyin": "yóu yǒng",
-        "noTones": "you yong",
-        "english": "to swim",
-        "traditional": "游泳",
-        "simplified": "游泳"
+          "pinyin": "yóu yǒng",
+          "noTones": "you yong",
+          "zhuyin": "ㄧㄡˊ ㄩㄥˇ",
+          "english": "to swim",
+          "traditional": "游泳",
+          "simplified": "游泳"
       },
       {
-        "pinyin": "wēi xiǎn",
-        "noTones": "wei xian",
-        "english": "danger; dangerous",
-        "traditional": "危險",
-        "simplified": "危险"
+          "pinyin": "wēi xiǎn",
+          "noTones": "wei xian",
+          "zhuyin": "ㄨㄟ ㄒㄧㄢˇ",
+          "english": "danger; dangerous",
+          "traditional": "危險",
+          "simplified": "危险"
       },
       {
-        "pinyin": "yān sǐ",
-        "noTones": "yan si",
-        "english": "to drown",
-        "traditional": "淹死",
-        "simplified": "淹死"
+          "pinyin": "yān sǐ",
+          "noTones": "yan si",
+          "zhuyin": "ㄧㄢ ㄙˇ",
+          "english": "to drown",
+          "traditional": "淹死",
+          "simplified": "淹死"
       },
       {
-        "pinyin": "yuàn yì",
-        "noTones": "yuan yi",
-        "english": "to be willing",
-        "traditional": "願意",
-        "simplified": "愿意"
+          "pinyin": "yuàn yì",
+          "noTones": "yuan yi",
+          "zhuyin": "ㄩㄢˋ ㄧˋ",
+          "english": "to be willing",
+          "traditional": "願意",
+          "simplified": "愿意"
       }
-    ],
-    "Lesson 18 Dialogue 2": [
-      {
+  ],
+  "Lesson 18 Dialogue 2": [
+    {
         "pinyin": "shàng dà xué",
         "noTones": "shang da xue",
+        "zhuyin": "ㄕㄤˋ ㄉㄚˋ ㄒㄩㄝˊ",
         "english": "to attend college/university",
         "traditional": "上大學",
         "simplified": "上大学"
-      },
-      {
+    },
+    {
         "pinyin": "wèi le",
         "noTones": "wei le",
+        "zhuyin": "ㄨㄟˋ ㄌㄜ˙",
         "english": "in order to, for the sake of",
         "traditional": "為了",
         "simplified": "为了"
-      },
-      {
+    },
+    {
         "pinyin": "tí gāo",
         "noTones": "ti gao",
+        "zhuyin": "ㄊㄧˊ ㄍㄠ",
         "english": "improve, increase, raise the level of",
         "traditional": "提高",
         "simplified": "提高"
-      },
-      {
+    },
+    {
         "pinyin": "shuǐ píng",
         "noTones": "shui ping",
+        "zhuyin": "ㄕㄨㄟˇ ㄆㄧㄥˊ",
         "english": "level, standard",
         "traditional": "水平",
         "simplified": "水平"
-      },
-      {
+    },
+    {
         "pinyin": "zú qiú",
         "noTones": "zu qiu",
+        "zhuyin": "ㄗㄨˊ ㄑㄧㄡˊ",
         "english": "soccer",
         "traditional": "足球",
         "simplified": "足球"
-      },
-      {
+    },
+    {
         "pinyin": "bǐ sài",
         "noTones": "bi sai",
+        "zhuyin": "ㄅㄧˇ ㄙㄞˋ",
         "english": "competition, contest, match",
         "traditional": "比賽",
         "simplified": "比赛"
-      },
-      {
+    },
+    {
         "pinyin": "guó jì",
         "noTones": "guo ji",
+        "zhuyin": "ㄍㄨㄛˊ ㄐㄧˋ",
         "english": "international",
         "traditional": "國際",
         "simplified": "国际"
-      },
-      {
+    },
+    {
         "pinyin": "měi shì",
         "noTones": "mei shi",
+        "zhuyin": "ㄇㄟˇ ㄕˋ",
         "english": "American style",
         "traditional": "美式",
         "simplified": "美式"
-      },
-      {
+    },
+    {
         "pinyin": "yīng gāi",
         "noTones": "ying gai",
+        "zhuyin": "ㄧㄥ ㄍㄞ",
         "english": "should",
         "traditional": "應該",
         "simplified": "应该"
-      },
-      {
+    },
+    {
         "pinyin": "jiǎo",
         "noTones": "jiao",
+        "zhuyin": "ㄐㄧㄠˇ",
         "english": "foot",
         "traditional": "腳",
         "simplified": "脚"
-      },
-      {
+    },
+    {
         "pinyin": "tī",
         "noTones": "ti",
+        "zhuyin": "ㄊㄧ",
         "english": "to kick",
         "traditional": "踢",
         "simplified": "踢"
-      },
-      {
+    },
+    {
         "pinyin": "shǒu",
         "noTones": "shou",
+        "zhuyin": "ㄕㄡˇ",
         "english": "hand",
         "traditional": "手",
         "simplified": "手"
-      },
-      {
+    },
+    {
         "pinyin": "bào",
         "noTones": "bao",
+        "zhuyin": "ㄅㄠˋ",
         "english": "to hold or carry in the arms",
         "traditional": "抱",
         "simplified": "抱"
-      },
-      {
+    },
+    {
         "pinyin": "yā",
         "noTones": "ya",
+        "zhuyin": "ㄧㄚ",
         "english": "to press; to hold down; to weigh down",
         "traditional": "壓",
         "simplified": "压"
-      },
-      {
+    },
+    {
         "pinyin": "bèi",
         "noTones": "bei",
+        "zhuyin": "ㄅㄟˋ",
         "english": "by (structural word)",
         "traditional": "被",
         "simplified": "被"
-      },
-      {
+    },
+    {
         "pinyin": "dān xīn",
         "noTones": "dan xin",
+        "zhuyin": "ㄉㄢ ㄒㄧㄣ",
         "english": "worried, to worry",
         "traditional": "擔心",
         "simplified": "担心"
-      },
-      {
+    },
+    {
         "pinyin": "bàng",
         "noTones": "bang",
+        "zhuyin": "ㄅㄤˋ",
         "english": "fantastic; super",
         "traditional": "棒",
         "simplified": "棒"
-      },
-      {
+    },
+    {
         "pinyin": "yùn dòng fú",
         "noTones": "yun dong fu",
+        "zhuyin": "ㄩㄣˋ ㄉㄨㄥˋ ㄈㄨˊ",
         "english": "sportswear, athletic clothing",
         "traditional": "運動服",
         "simplified": "运动服"
-      },
-      {
+    },
+    {
         "pinyin": "bàn tiān",
         "noTones": "ban tian",
+        "zhuyin": "ㄅㄢˋ ㄊㄧㄢ",
         "english": "half a day; a long time",
         "traditional": "半天",
         "simplified": "半天"
-      }
-    ],
+    }
+  ],
     "Lesson 19 Dialogue 1": [
       {
-        "pinyin": "mǎ shàng",
-        "noTones": "ma shang",
-        "english": "immediately",
-        "traditional": "馬上",
-        "simplified": "马上"
+          "pinyin": "mǎ shàng",
+          "noTones": "ma shang",
+          "zhuyin": "ㄇㄚˇ ㄕㄤ",
+          "english": "immediately",
+          "traditional": "馬上",
+          "simplified": "马上"
       },
       {
-        "pinyin": "fàng jià",
-        "noTones": "fang jia",
-        "english": "to have a holiday or vacation",
-        "traditional": "放假",
-        "simplified": "放假"
+          "pinyin": "fàng jià",
+          "noTones": "fang jia",
+          "zhuyin": "ㄈㄤˋ ㄐㄧㄚˋ",
+          "english": "to have a holiday or vacation",
+          "traditional": "放假",
+          "simplified": "放假"
       },
       {
-        "pinyin": "gōng sī",
-        "noTones": "gong si",
-        "english": "company",
-        "traditional": "公司",
-        "simplified": "公司"
+          "pinyin": "gōng sī",
+          "noTones": "gong si",
+          "zhuyin": "ㄍㄨㄥ ㄙ",
+          "english": "company",
+          "traditional": "公司",
+          "simplified": "公司"
       },
       {
-        "pinyin": "shí xí",
-        "noTones": "shi xi",
-        "english": "to intern",
-        "traditional": "實習",
-        "simplified": "实习"
+          "pinyin": "shí xí",
+          "noTones": "shi xi",
+          "zhuyin": "ㄕˊ ㄒㄧˊ",
+          "english": "to intern",
+          "traditional": "實習",
+          "simplified": "实习"
       },
       {
-        "pinyin": "dǎ gōng",
-        "noTones": "da gong",
-        "english": "to work at a temporary job (often part-time)",
-        "traditional": "打工",
-        "simplified": "打工"
+          "pinyin": "dǎ gōng",
+          "noTones": "da gong",
+          "zhuyin": "ㄉㄚˇ ㄍㄨㄥ",
+          "english": "to work at a temporary job (often part-time)",
+          "traditional": "打工",
+          "simplified": "打工"
       },
       {
-        "pinyin": "jì huà",
-        "noTones": "ji hua",
-        "english": "plan",
-        "traditional": "計劃",
-        "simplified": "计划"
+          "pinyin": "jì huà",
+          "noTones": "ji hua",
+          "zhuyin": "ㄐㄧˋ ㄏㄨㄚˋ",
+          "english": "plan",
+          "traditional": "計劃",
+          "simplified": "计划"
       },
       {
-        "pinyin": "shǔ jià",
-        "noTones": "shu jia",
-        "english": "summer vacation",
-        "traditional": "暑假",
-        "simplified": "暑假"
+          "pinyin": "shǔ jià",
+          "noTones": "shu jia",
+          "zhuyin": "ㄕㄨˇ ㄐㄧㄚˋ",
+          "english": "summer vacation",
+          "traditional": "暑假",
+          "simplified": "暑假"
       },
       {
-        "pinyin": "dǎ suàn",
-        "noTones": "da suan",
-        "english": "to plan",
-        "traditional": "打算",
-        "simplified": "打算"
+          "pinyin": "dǎ suàn",
+          "noTones": "da suan",
+          "zhuyin": "ㄉㄚˇ ㄙㄨㄢˋ",
+          "english": "to plan",
+          "traditional": "打算",
+          "simplified": "打算"
       },
       {
-        "pinyin": "fùmǔ",
-        "noTones": "fu mu",
-        "english": "parents",
-        "traditional": "父母",
-        "simplified": "父母"
+          "pinyin": "fùmǔ",
+          "noTones": "fu mu",
+          "zhuyin": "ㄈㄨˋ ㄇㄨˇ",
+          "english": "parents",
+          "traditional": "父母",
+          "simplified": "父母"
       },
       {
-        "pinyin": "shǒu dū",
-        "noTones": "shou du",
-        "english": "capital city",
-        "traditional": "首都",
-        "simplified": "首都"
+          "pinyin": "shǒu dū",
+          "noTones": "shou du",
+          "zhuyin": "ㄕㄡˇ ㄉㄨ",
+          "english": "capital city",
+          "traditional": "首都",
+          "simplified": "首都"
       },
       {
-        "pinyin": "zhèng zhì",
-        "noTones": "zheng zhi",
-        "english": "politics",
-        "traditional": "政治",
-        "simplified": "政治"
+          "pinyin": "zhèng zhì",
+          "noTones": "zheng zhi",
+          "zhuyin": "ㄓㄥˋ ㄓˋ",
+          "english": "politics",
+          "traditional": "政治",
+          "simplified": "政治"
       },
       {
-        "pinyin": "wén huà",
-        "noTones": "wen hua",
-        "english": "culture",
-        "traditional": "文化",
-        "simplified": "文化"
+          "pinyin": "wén huà",
+          "noTones": "wen hua",
+          "zhuyin": "ㄨㄣˊ ㄏㄨㄚˋ",
+          "english": "culture",
+          "traditional": "文化",
+          "simplified": "文化"
       },
       {
-        "pinyin": "míng shèng gǔ jì",
-        "noTones": "ming sheng gu ji",
-        "english": "famous scenic spots and historic sites",
-        "traditional": "名勝古蹟",
-        "simplified": "名胜古迹"
+          "pinyin": "míng shèng gǔ jì",
+          "noTones": "ming sheng gu ji",
+          "zhuyin": "ㄇㄧㄥˊ ㄕㄥˇ ㄍㄨˇ ㄐㄧˋ",
+          "english": "famous scenic spots and historic sites",
+          "traditional": "名勝古蹟",
+          "simplified": "名胜古迹"
       },
       {
-        "pinyin": "yǒu míng",
-        "noTones": "you ming",
-        "english": "famous",
-        "traditional": "有名",
-        "simplified": "有名"
+          "pinyin": "yǒu míng",
+          "noTones": "you ming",
+          "zhuyin": "ㄧㄡˇ ㄇㄧㄥˊ",
+          "english": "famous",
+          "traditional": "有名",
+          "simplified": "有名"
       },
       {
-        "pinyin": "dǎo yóu",
-        "noTones": "dao you",
-        "english": "tour guide",
-        "traditional": "導游",
-        "simplified": "导游"
+          "pinyin": "dǎo yóu",
+          "noTones": "dao you",
+          "zhuyin": "ㄉㄠˇ ㄧㄡˊ",
+          "english": "tour guide",
+          "traditional": "導游",
+          "simplified": "导游"
       },
       {
-        "pinyin": "hù zhào",
-        "noTones": "hu zhao",
-        "english": "passport",
-        "traditional": "護照",
-        "simplified": "护照"
+          "pinyin": "hù zhào",
+          "noTones": "hu zhao",
+          "zhuyin": "ㄏㄨˋ ㄓㄠˋ",
+          "english": "passport",
+          "traditional": "護照",
+          "simplified": "护照"
       },
       {
-        "pinyin": "qiān zhèng",
-        "noTones": "qian zheng",
-        "english": "visa",
-        "traditional": "簽證",
-        "simplified": "签证"
+          "pinyin": "qiān zhèng",
+          "noTones": "qian zheng",
+          "zhuyin": "ㄑㄧㄢ ㄓㄥˋ",
+          "english": "visa",
+          "traditional": "簽證",
+          "simplified": "签证"
       },
       {
-        "pinyin": "lǚ xíng shè",
-        "noTones": "lu xing she",
-        "english": "travel agency",
-        "traditional": "旅行社",
-        "simplified": "旅行社"
+          "pinyin": "lǚ xíng shè",
+          "noTones": "lu xing she",
+          "zhuyin": "ㄌㄩˇ ㄒㄧㄥˊ ㄕㄜˋ",
+          "english": "travel agency",
+          "traditional": "旅行社",
+          "simplified": "旅行社"
       },
       {
-        "pinyin": "dìng",
-        "noTones": "ding",
-        "english": "to reserve; to book (a ticket, a hotel room, etc.)",
-        "traditional": "訂",
-        "simplified": "订"
+          "pinyin": "dìng",
+          "noTones": "ding",
+          "zhuyin": "ㄉㄧㄥˋ",
+          "english": "to reserve; to book (a ticket, a hotel room, etc.)",
+          "traditional": "訂",
+          "simplified": "订"
       },
       {
-        "pinyin": "cháng chéng",
-        "noTones": "chang cheng",
-        "english": "the Great Wall",
-        "traditional": "長城",
-        "simplified": "长城"
+          "pinyin": "cháng chéng",
+          "noTones": "chang cheng",
+          "zhuyin": "ㄔㄤˊ ㄔㄥˊ",
+          "english": "the Great Wall",
+          "traditional": "長城",
+          "simplified": "长城"
       },
       {
-        "pinyin": "xiāng gǎng",
-        "noTones": "xiang gang",
-        "english": "Hong Kong",
-        "traditional": "香港",
-        "simplified": "香港"
+          "pinyin": "xiāng gǎng",
+          "noTones": "xiang gang",
+          "zhuyin": "ㄒㄧㄤ ㄍㄤˇ",
+          "english": "Hong Kong",
+          "traditional": "香港",
+          "simplified": "香港"
       },
       {
-        "pinyin": "tái běi",
-        "noTones": "tai bei",
-        "english": "Taipei",
-        "traditional": "台北",
-        "simplified": "台北"
+          "pinyin": "tái běi",
+          "noTones": "tai bei",
+          "zhuyin": "ㄊㄞˊ ㄅㄟˇ",
+          "english": "Taipei",
+          "traditional": "台北",
+          "simplified": "台北"
       }
-    ],
-    "Lesson 19 Dialogue 2": [
+  ],
+  "Lesson 19 Dialogue 2": [
       {
-        "pinyin": "chū",
-        "noTones": "chu",
-        "english": "beginning",
-        "traditional": "初",
-        "simplified": "初"
+          "pinyin": "chū",
+          "noTones": "chu",
+          "zhuyin": "ㄔㄨ",
+          "english": "beginning",
+          "traditional": "初",
+          "simplified": "初"
       },
       {
-        "pinyin": "dān chéng",
-        "noTones": "dan cheng",
-        "english": "one-way trip",
-        "traditional": "單程",
-        "simplified": "单程"
+          "pinyin": "dān chéng",
+          "noTones": "dan cheng",
+          "zhuyin": "ㄉㄢ ㄔㄥˊ",
+          "english": "one-way trip",
+          "traditional": "單程",
+          "simplified": "单程"
       },
       {
-        "pinyin": "wǎng fǎn",
-        "noTones": "wang fan",
-        "english": "make a round trip; go there and back",
-        "traditional": "往返",
-        "simplified": "往返"
+          "pinyin": "wǎng fǎn",
+          "noTones": "wang fan",
+          "zhuyin": "ㄨㄤˇ ㄈㄢˇ",
+          "english": "make a round trip; go there and back",
+          "traditional": "往返",
+          "simplified": "往返"
       },
       {
-        "pinyin": "háng kōng",
-        "noTones": "hang kong",
-        "english": "aviation",
-        "traditional": "航空",
-        "simplified": "航空"
+          "pinyin": "háng kōng",
+          "noTones": "hang kong",
+          "zhuyin": "ㄏㄤˊ ㄎㄨㄥ",
+          "english": "aviation",
+          "traditional": "航空",
+          "simplified": "航空"
       },
       {
-        "pinyin": "chá",
-        "noTones": "cha",
-        "english": "to check; to look up",
-        "traditional": "查",
-        "simplified": "查"
+          "pinyin": "chá",
+          "noTones": "cha",
+          "zhuyin": "ㄔㄚˊ",
+          "english": "to check; to look up",
+          "traditional": "查",
+          "simplified": "查"
       },
       {
-        "pinyin": "háng bān",
-        "noTones": "hang ban",
-        "english": "scheduled flight",
-        "traditional": "航班",
-        "simplified": "航班"
+          "pinyin": "háng bān",
+          "noTones": "hang ban",
+          "zhuyin": "ㄏㄤˊ ㄅㄢ",
+          "english": "scheduled flight",
+          "traditional": "航班",
+          "simplified": "航班"
       },
       {
-        "pinyin": "qiān",
-        "noTones": "qian",
-        "english": "thousand",
-        "traditional": "千",
-        "simplified": "千"
+          "pinyin": "qiān",
+          "noTones": "qian",
+          "zhuyin": "ㄑㄧㄢ",
+          "english": "thousand",
+          "traditional": "千",
+          "simplified": "千"
       },
       {
-        "pinyin": "zhí fēi",
-        "noTones": "zhi fei",
-        "english": "fly directly",
-        "traditional": "直飛",
-        "simplified": "直飞"
+          "pinyin": "zhí fēi",
+          "noTones": "zhi fei",
+          "zhuyin": "ㄓˊ ㄈㄟ",
+          "english": "fly directly",
+          "traditional": "直飛",
+          "simplified": "直飞"
       },
       {
-        "pinyin": "dǎ zhé",
-        "noTones": "da zhe",
-        "english": "to give a discount",
-        "traditional": "打折",
-        "simplified": "打折"
+          "pinyin": "dǎ zhé",
+          "noTones": "da zhe",
+          "zhuyin": "ㄉㄚˇ ㄓㄜˊ",
+          "english": "to give a discount",
+          "traditional": "打折",
+          "simplified": "打折"
       },
       {
-        "pinyin": "zhuǎn jī",
-        "noTones": "zhuan ji",
-        "english": "to change planes",
-        "traditional": "轉機",
-        "simplified": "转机"
+          "pinyin": "zhuǎn jī",
+          "noTones": "zhuan ji",
+          "zhuyin": "ㄓㄨㄢˇ ㄐㄧ",
+          "english": "to change planes",
+          "traditional": "轉機",
+          "simplified": "转机"
       },
       {
-        "pinyin": "kào",
-        "noTones": "kao",
-        "english": "to lean on; to lean against; to be next to",
-        "traditional": "靠",
-        "simplified": "靠"
+          "pinyin": "kào",
+          "noTones": "kao",
+          "zhuyin": "ㄎㄠˋ",
+          "english": "to lean on; to lean against; to be next to",
+          "traditional": "靠",
+          "simplified": "靠"
       },
       {
-        "pinyin": "chuāng hu",
-        "noTones": "chuang hu",
-        "english": "window",
-        "traditional": "窗戶",
-        "simplified": "窗户"
+          "pinyin": "chuāng hu",
+          "noTones": "chuang hu",
+          "zhuyin": "ㄔㄨㄤ ㄏㄨ",
+          "english": "window",
+          "traditional": "窗戶",
+          "simplified": "窗户"
       },
       {
-        "pinyin": "zǒu dào",
-        "noTones": "zou dao",
-        "english": "aisle",
-        "traditional": "走道",
-        "simplified": "走道"
+          "pinyin": "zǒu dào",
+          "noTones": "zou dao",
+          "zhuyin": "ㄗㄡˇ ㄉㄠˋ",
+          "english": "aisle",
+          "traditional": "走道",
+          "simplified": "走道"
       },
       {
-        "pinyin": "fēn",
-        "noTones": "fen",
-        "english": "minute",
-        "traditional": "分",
-        "simplified": "分"
+          "pinyin": "fēn",
+          "noTones": "fen",
+          "zhuyin": "ㄈㄣ",
+          "english": "minute",
+          "traditional": "分",
+          "simplified": "分"
       },
       {
         "pinyin": "sù cān",
         "noTones": "su can",
+        "zhuyin": "ㄙㄨˋ ㄘㄢ",
         "english": "vegetarian meal",
         "traditional": "素餐",
         "simplified": "素餐"
-      },
-      {
+    },
+    {
         "pinyin": "lǚ guǎn",
         "noTones": "lv guan",
+        "zhuyin": "ㄌㄩˇ ㄍㄨㄢˇ",
         "english": "hotel",
         "traditional": "旅館",
         "simplified": "旅馆"
-      },
-      {
+    },
+    {
         "pinyin": "zū",
         "noTones": "zu",
+        "zhuyin": "ㄗㄨ",
         "english": "to rent",
         "traditional": "租",
         "simplified": "租"
-      },
-      {
+    },
+    {
         "pinyin": "zhōng guó guó jì háng kōng gōng sī",
         "noTones": "zhong guo guo ji hang kong gong si",
+        "zhuyin": "ㄓㄨㄥ ㄍㄨㄛˊ ㄍㄨㄛˊ ㄐㄧˋ ㄏㄤˊ ㄎㄨㄥ ㄍㄨㄥ ㄙ",
         "english": "Air China",
         "traditional": "中國國際航空公司",
         "simplified": "中国国际航空公司"
-      },
-      {
+    },
+    {
         "pinyin": "xī běi háng kōng gōng sī",
         "noTones": "xi bei hang kong gong si",
+        "zhuyin": "ㄒㄧ ㄅㄟˇ ㄏㄤˊ ㄎㄨㄥ ㄍㄨㄛˊ ㄍㄨㄛˊ ㄙ",
         "english": "Northwest Airlines",
         "traditional": "西北航空公司",
         "simplified": "西北航空公司"
-      }
-    ],
+    }
+  ],
     "Lesson 20 Dialogue 1": [
       {
-        "pinyin": "xíng li",
-        "noTones": "xing li",
-        "english": "luggage",
-        "traditional": "行李",
-        "simplified": "行李"
+          "pinyin": "xíng li",
+          "noTones": "xing li",
+          "zhuyin": "ㄒㄧㄥˊ ㄌㄧˇ",
+          "english": "luggage",
+          "traditional": "行李",
+          "simplified": "行李"
       },
       {
-        "pinyin": "tuō yùn",
-        "noTones": "tuo yun",
-        "english": "to check (luggage)",
-        "traditional": "托運",
-        "simplified": "托运"
+          "pinyin": "tuō yùn",
+          "noTones": "tuo yun",
+          "zhuyin": "ㄊㄨㄛ ㄩㄣˋ",
+          "english": "to check (luggage)",
+          "traditional": "托運",
+          "simplified": "托运"
       },
       {
-        "pinyin": "bāo",
-        "noTones": "bao",
-        "english": "bag",
-        "traditional": "包",
-        "simplified": "包"
+          "pinyin": "bāo",
+          "noTones": "bao",
+          "zhuyin": "ㄅㄠ",
+          "english": "bag",
+          "traditional": "包",
+          "simplified": "包"
       },
       {
-        "pinyin": "xiāng zi",
-        "noTones": "xiang zi",
-        "english": "suitcase; box",
-        "traditional": "箱子",
-        "simplified": "箱子"
+          "pinyin": "xiāng zi",
+          "noTones": "xiang zi",
+          "zhuyin": "ㄒㄧㄤ ㄗ˙",
+          "english": "suitcase; box",
+          "traditional": "箱子",
+          "simplified": "箱子"
       },
       {
-        "pinyin": "chāo zhòng",
-        "noTones": "chao zhong",
-        "english": "to be overweight (of luggage, freight, etc.)",
-        "traditional": "超重",
-        "simplified": "超重"
+          "pinyin": "chāo zhòng",
+          "noTones": "chao zhong",
+          "zhuyin": "ㄔㄠ ㄓㄨㄥˋ",
+          "english": "to be overweight (of luggage, freight, etc.)",
+          "traditional": "超重",
+          "simplified": "超重"
       },
       {
-        "pinyin": "dēng jī pái",
-        "noTones": "deng ji pai",
-        "english": "boarding pass",
-        "traditional": "登機牌",
-        "simplified": "登机牌"
+          "pinyin": "dēng jī pái",
+          "noTones": "deng ji pai",
+          "zhuyin": "ㄉㄥ ㄐㄧ ㄆㄞˊ",
+          "english": "boarding pass",
+          "traditional": "登機牌",
+          "simplified": "登机牌"
       },
       {
-        "pinyin": "dēng jī kǒu",
-        "noTones": "deng ji kou",
-        "english": "boarding gate",
-        "traditional": "登機口",
-        "simplified": "登机口"
+          "pinyin": "dēng jī kǒu",
+          "noTones": "deng ji kou",
+          "zhuyin": "ㄉㄥ ㄐㄧ ㄎㄡˇ",
+          "english": "boarding gate",
+          "traditional": "登機口",
+          "simplified": "登机口"
       },
       {
-        "pinyin": "kū",
-        "noTones": "ku",
-        "english": "to cry",
-        "traditional": "哭",
-        "simplified": "哭"
+          "pinyin": "kū",
+          "noTones": "ku",
+          "zhuyin": "ㄎㄨ",
+          "english": "to cry",
+          "traditional": "哭",
+          "simplified": "哭"
       },
       {
-        "pinyin": "de",
-        "noTones": "de",
-        "english": "particle to link adverbial and verb",
-        "traditional": "地",
-        "simplified": "地"
+          "pinyin": "de",
+          "noTones": "de",
+          "zhuyin": "ㄉㄜ˙",
+          "english": "particle to link adverbial and verb",
+          "traditional": "地",
+          "simplified": "地"
       },
       {
-        "pinyin": "zhào gu",
-        "noTones": "zhao gu",
-        "english": "to look after",
-        "traditional": "照顧",
-        "simplified": "照顾"
+          "pinyin": "zhào gu",
+          "noTones": "zhao gu",
+          "zhuyin": "ㄓㄠˋ ㄍㄨ˙",
+          "english": "to look after",
+          "traditional": "照顧",
+          "simplified": "照顾"
       },
       {
-        "pinyin": "qǐ fēi",
-        "noTones": "qi fei",
-        "english": "to take off (in an airplane)",
-        "traditional": "起飛",
-        "simplified": "起飞"
+          "pinyin": "qǐ fēi",
+          "noTones": "qi fei",
+          "zhuyin": "ㄑㄧˇ ㄈㄟ",
+          "english": "to take off (in an airplane)",
+          "traditional": "起飛",
+          "simplified": "起飞"
       },
       {
-        "pinyin": "xiǎo xīn",
-        "noTones": "xiao xin",
-        "english": "to be careful; to take care",
-        "traditional": "小心",
-        "simplified": "小心"
+          "pinyin": "xiǎo xīn",
+          "noTones": "xiao xin",
+          "zhuyin": "ㄒㄧㄠˇ ㄒㄧㄣ",
+          "english": "to be careful; to take care",
+          "traditional": "小心",
+          "simplified": "小心"
       },
       {
-        "pinyin": "yí lù píng ān",
-        "noTones": "yi lu ping an",
-        "english": "to have a pleasant journey / bon voyage",
-        "traditional": "一路平安",
-        "simplified": "一路平安"
+          "pinyin": "yí lù píng ān",
+          "noTones": "yi lu ping an",
+          "zhuyin": "ㄧ ㄌㄨˋ ㄆㄧㄥˊ ㄢ",
+          "english": "to have a pleasant journey / bon voyage",
+          "traditional": "一路平安",
+          "simplified": "一路平安"
       }
-    ],
-    "Lesson 20 Dialogue 2": [
+  ],
+  "Lesson 20 Dialogue 2": [
       {
-        "pinyin": "shū shu",
-        "noTones": "shu shu",
-        "english": "father's younger brother; uncle",
-        "traditional": "叔叔",
-        "simplified": "叔叔"
+          "pinyin": "shū shu",
+          "noTones": "shu shu",
+          "zhuyin": "ㄕㄨ ㄕㄨ",
+          "english": "father's younger brother; uncle",
+          "traditional": "叔叔",
+          "simplified": "叔叔"
       },
       {
-        "pinyin": "ā yí",
-        "noTones": "a yi",
-        "english": "aunt",
-        "traditional": "阿姨",
-        "simplified": "阿姨"
+          "pinyin": "ā yí",
+          "noTones": "a yi",
+          "zhuyin": "ㄚ ㄧˊ",
+          "english": "aunt",
+          "traditional": "阿姨",
+          "simplified": "阿姨"
       },
       {
-        "pinyin": "huān yíng",
-        "noTones": "huan ying",
-        "english": "welcome",
-        "traditional": "歡迎",
-        "simplified": "欢迎"
+          "pinyin": "huān yíng",
+          "noTones": "huan ying",
+          "zhuyin": "ㄏㄨㄢ ㄧㄥˊ",
+          "english": "welcome",
+          "traditional": "歡迎",
+          "simplified": "欢迎"
       },
       {
-        "pinyin": "shòu",
-        "noTones": "shou",
-        "english": "thin",
-        "traditional": "瘦",
-        "simplified": "瘦"
+          "pinyin": "shòu",
+          "noTones": "shou",
+          "zhuyin": "ㄕㄡˋ",
+          "english": "thin",
+          "traditional": "瘦",
+          "simplified": "瘦"
       },
       {
-        "pinyin": "yé ye",
-        "noTones": "ye ye",
-        "english": "paternal grandfather",
-        "traditional": "爺爺",
-        "simplified": "爷爷"
+          "pinyin": "yé ye",
+          "noTones": "ye ye",
+          "zhuyin": "ㄧㄝˊ ㄧㄝˊ",
+          "english": "paternal grandfather",
+          "traditional": "爺爺",
+          "simplified": "爷爷"
       },
       {
-        "pinyin": "nǎi nai",
-        "noTones": "nai nai",
-        "english": "paternal grandmother",
-        "traditional": "奶奶",
-        "simplified": "奶奶"
+          "pinyin": "nǎi nai",
+          "noTones": "nai nai",
+          "zhuyin": "ㄋㄞˇ ㄋㄞˇ",
+          "english": "paternal grandmother",
+          "traditional": "奶奶",
+          "simplified": "奶奶"
       },
       {
-        "pinyin": "kǎo yā",
-        "noTones": "kao ya",
-        "english": "roast duck",
-        "traditional": "烤鴨",
-        "simplified": "烤鸭"
+          "pinyin": "kǎo yā",
+          "noTones": "kao ya",
+          "zhuyin": "ㄎㄠˇ ㄧㄚ",
+          "english": "roast duck",
+          "traditional": "烤鴨",
+          "simplified": "烤鸭"
       },
       {
-        "pinyin": "shǒu dū jī chǎng",
-        "noTones": "shou du ji chang",
-        "english": "Capital Airport (in Beijing)",
-        "traditional": "首都機場",
-        "simplified": "首都机场"
+          "pinyin": "shǒu dū jī chǎng",
+          "noTones": "shou du ji chang",
+          "zhuyin": "ㄕㄡˇ ㄉㄨ ㄐㄧ ㄔㄤˇ",
+          "english": "Capital Airport (in Beijing)",
+          "traditional": "首都機場",
+          "simplified": "首都机场"
       }
-    ]
+  ],
+    "Lesson 21": [
+      {
+          "simplified": "开学",
+          "traditional": "開學",
+          "pinyin": "kāi xué",
+          "zhuyin": "ㄎㄞ ㄒㄩㄝˊ",
+          "noTones": "kai xue",
+          "english": "to begin a new semester"
+      },
+      {
+          "simplified": "新生",
+          "traditional": "新生",
+          "pinyin": "xīnshēng",
+          "zhuyin": "ㄒㄧㄣ ㄕㄥ",
+          "noTones": "xin sheng",
+          "english": "new student"
+      },
+      {
+          "simplified": "辆",
+          "traditional": "輛",
+          "pinyin": "liàng",
+          "zhuyin": "ㄌㄧㄤˋ",
+          "noTones": "liang",
+          "english": "(measure word for vehicles)"
+      },
+      {
+          "simplified": "研究生",
+          "traditional": "研究生",
+          "pinyin": "yánjiūshēng",
+          "zhuyin": "ㄧㄢˊ ㄐㄧㄡ ㄕㄥ",
+          "noTones": "yan jiu sheng",
+          "english": "graduate student"
+      },
+      {
+          "simplified": "出生",
+          "traditional": "出生",
+          "pinyin": "chūshēng",
+          "zhuyin": "ㄔㄨ ㄕㄥ",
+          "noTones": "chu sheng",
+          "english": "to be born"
+      },
+      {
+          "simplified": "弓",
+          "traditional": "弓",
+          "pinyin": "gōng",
+          "zhuyin": "ㄍㄨㄥ",
+          "noTones": "gong",
+          "english": "bow (for archery)"
+      },
+      {
+          "simplified": "长",
+          "traditional": "長",
+          "pinyin": "cháng",
+          "zhuyin": "ㄔㄤˊ",
+          "noTones": "chang",
+          "english": "long"
+      },
+      {
+          "simplified": "校外",
+          "traditional": "校外",
+          "pinyin": "xiào wài",
+          "zhuyin": "ㄒㄧㄠˋ ㄨㄞˋ",
+          "noTones": "xiao wai",
+          "english": "off campus"
+      },
+      {
+          "simplified": "校内",
+          "traditional": "校內",
+          "pinyin": "xiào nèi",
+          "zhuyin": "ㄒㄧㄠˋ ㄋㄟˋ",
+          "noTones": "xiao nei",
+          "english": "on campus"
+      },
+      {
+          "simplified": "安全",
+          "traditional": "安全",
+          "pinyin": "ānquán",
+          "zhuyin": "ㄢ ㄑㄩㄢˊ",
+          "noTones": "an quan",
+          "english": "safe"
+      },
+      {
+          "simplified": "比较",
+          "traditional": "比較",
+          "pinyin": "bǐjiào",
+          "zhuyin": "ㄅㄧˇ ㄐㄧㄠˋ",
+          "noTones": "bi jiao",
+          "english": "relatively, comparatively, rather; to compare"
+      },
+      {
+          "simplified": "省钱",
+          "traditional": "省錢",
+          "pinyin": "shěng qián",
+          "zhuyin": "ㄕㄥˇ ㄑㄧㄢˊ",
+          "noTones": "sheng qian",
+          "english": "to save money, to economize"
+      },
+      {
+          "simplified": "自由",
+          "traditional": "自由",
+          "pinyin": "zìyóu",
+          "zhuyin": "ㄗˋ ㄧㄡˊ",
+          "noTones": "zi you",
+          "english": "free, unconstrained"
+      },
+      {
+          "simplified": "不见得",
+          "traditional": "不見得",
+          "pinyin": "bújiànde",
+          "zhuyin": "ㄅㄨˊ ㄐㄧㄢˋ ㄉㄜ˙",
+          "noTones": "bu jian de",
+          "english": "not necessarily"
+      },
+      {
+          "simplified": "好处",
+          "traditional": "好處",
+          "pinyin": "hǎochu",
+          "zhuyin": "ㄏㄠˇ ㄔㄨˋ",
+          "noTones": "hao chu",
+          "english": "advantage, benefit"
+      },
+      {
+          "simplified": "适应",
+          "traditional": "適應",
+          "pinyin": "shìyìng",
+          "zhuyin": "ㄕˋ ㄧㄥˋ",
+          "noTones": "shi ying",
+          "english": "to adapt, to become accustomed to"
+      },
+      {
+          "simplified": "生活",
+          "traditional": "生活",
+          "pinyin": "shēnghuó",
+          "zhuyin": "ㄕㄥ ㄏㄨㄛˊ",
+          "noTones": "sheng huo",
+          "english": "(day-to-day) life; to live"
+      },
+      {
+          "simplified": "搬家",
+          "traditional": "搬家",
+          "pinyin": "bān jiā",
+          "zhuyin": "ㄅㄢ ㄐㄧㄚ",
+          "noTones": "ban jia",
+          "english": "to move (one's residence)"
+      },
+      {
+          "simplified": "帮忙",
+          "traditional": "幫忙",
+          "pinyin": "bāng máng",
+          "zhuyin": "ㄅㄤ ㄇㄤˊ",
+          "noTones": "bang mang",
+          "english": "to help"
+      },
+      {
+          "simplified": "哎",
+          "traditional": "哎",
+          "pinyin": "āi",
+          "zhuyin": "ㄞ",
+          "noTones": "ai",
+          "english": "excl (exclamatory particle to express surprise or dissatisfaction or to remind)"
+      },
+      {
+          "simplified": "拉",
+          "traditional": "拉",
+          "pinyin": "lā",
+          "zhuyin": "ㄌㄚ",
+          "noTones": "la",
+          "english": "v to leave (something) behind inadvertently (colloq.)"
+      },
+      {
+          "simplified": "张天明",
+          "traditional": "張天明",
+          "pinyin": "Zhāng Tiānmíng",
+          "zhuyin": "ㄓㄤ ㄊㄧㄢ ㄇㄧㄥˊ",
+          "noTones": "Zhang Tianming",
+          "english": "Zhang Tianming (a personal name)"
+      },
+      {
+          "simplified": "柯林",
+          "traditional": "柯林",
+          "pinyin": "Kē Lín",
+          "zhuyin": "ㄎㄜ ㄌㄧㄣˊ",
+          "noTones": "Ke Lin",
+          "english": "Collin (a personal name)"
+      }
+  ],  
+  "Lesson 22": [
+    {
+        "simplified": "同屋",
+        "traditional": "同屋",
+        "pinyin": "tóngwū",
+        "zhuyin": "ㄊㄨㄥˊ ㄨ",
+        "noTones": "tong wu",
+        "english": "roommate"
+    },
+    {
+        "simplified": "摆",
+        "traditional": "擺",
+        "pinyin": "bǎi",
+        "zhuyin": "ㄅㄞˇ",
+        "noTones": "bai",
+        "english": "to put, to place"
+    },
+    {
+        "simplified": "被子",
+        "traditional": "被子",
+        "pinyin": "bèizi",
+        "zhuyin": "ㄅㄟˋ ㄗ˙",
+        "noTones": "bei zi",
+        "english": "comforter, quilt"
+    },
+    {
+        "simplified": "毯子",
+        "traditional": "毯子",
+        "pinyin": "tǎnzi",
+        "zhuyin": "ㄊㄢˇ ㄗ˙",
+        "noTones": "tan zi",
+        "english": "blanket"
+    },
+    {
+        "simplified": "衣柜",
+        "traditional": "衣櫃",
+        "pinyin": "yīguì",
+        "zhuyin": "ㄧ ㄍㄨㄟˋ",
+        "noTones": "yi gui",
+        "english": "wardrobe"
+    },
+    {
+        "simplified": "柜子",
+        "traditional": "櫃子",
+        "pinyin": "guìzi",
+        "zhuyin": "ㄍㄨㄟˋ ㄗ˙",
+        "noTones": "gui zi",
+        "english": "cabinet, cupboard"
+    },
+    {
+        "simplified": "挂",
+        "traditional": "掛",
+        "pinyin": "guà",
+        "zhuyin": "ㄍㄨㄚˋ",
+        "noTones": "gua",
+        "english": "to hang, to hang up"
+    },
+    {
+        "simplified": "门",
+        "traditional": "門",
+        "pinyin": "mén",
+        "zhuyin": "ㄇㄣˊ",
+        "noTones": "men",
+        "english": "door"
+    },
+    {
+        "simplified": "空",
+        "traditional": "空",
+        "pinyin": "kōng",
+        "zhuyin": "ㄎㄨㄥ",
+        "noTones": "kong",
+        "english": "empty"
+    },
+    {
+        "simplified": "空调",
+        "traditional": "空調",
+        "pinyin": "kōngtiáo",
+        "zhuyin": "ㄎㄨㄥ ㄊㄧㄠˊ",
+        "noTones": "kong tiao",
+        "english": "air conditioning"
+    },
+    {
+        "simplified": "栋",
+        "traditional": "棟",
+        "pinyin": "dòng",
+        "zhuyin": "ㄉㄨㄥˋ",
+        "noTones": "dong",
+        "english": "(measure word for buildings)"
+    },
+    {
+        "simplified": "旧",
+        "traditional": "舊",
+        "pinyin": "jiù",
+        "zhuyin": "ㄐㄧㄡˋ",
+        "noTones": "jiu",
+        "english": "old (of things)"
+    },
+    {
+        "simplified": "恐怕",
+        "traditional": "恐怕",
+        "pinyin": "kǒngpà",
+        "zhuyin": "ㄎㄨㄥˇ ㄆㄚˋ",
+        "noTones": "kong pa",
+        "english": "adv I’m afraid that, I think perhaps, probably"
+    },
+    {
+        "simplified": "日用品",
+        "traditional": "日用品",
+        "pinyin": "rìyòngpǐn",
+        "zhuyin": "ㄖˋ ㄩㄥ ㄆㄧㄣˇ",
+        "noTones": "ri yong pin",
+        "english": "daily necessities"
+    },
+    {
+        "simplified": "文具",
+        "traditional": "文具",
+        "pinyin": "wénjù",
+        "zhuyin": "ㄨㄣˊ ㄐㄩˋ",
+        "noTones": "wen ju",
+        "english": "stationery, writing supplies"
+    },
+    {
+        "simplified": "洗",
+        "traditional": "洗",
+        "pinyin": "xǐ",
+        "zhuyin": "ㄒㄧˇ",
+        "noTones": "xi",
+        "english": "to wash"
+    },
+    {
+        "simplified": "层",
+        "traditional": "層",
+        "pinyin": "céng",
+        "zhuyin": "ㄘㄥˊ",
+        "noTones": "ceng",
+        "english": "(measure word for stories of a building)"
+    },
+    {
+        "simplified": "台",
+        "traditional": "台",
+        "pinyin": "tái",
+        "zhuyin": "ㄊㄞˊ",
+        "noTones": "tai",
+        "english": "(measure word for machines)"
+    },
+    {
+        "simplified": "洗衣机",
+        "traditional": "洗衣機",
+        "pinyin": "xǐyījī",
+        "zhuyin": "ㄒㄧˇ ㄧ ㄐㄧ",
+        "noTones": "xi yi ji",
+        "english": "washing machine"
+    },
+    {
+        "simplified": "干衣机",
+        "traditional": "乾衣機",
+        "pinyin": "gānyījī",
+        "zhuyin": "ㄍㄢ ㄧ ㄐㄧ",
+        "noTones": "gan yi ji",
+        "english": "clothes dryer"
+    },
+    {
+        "simplified": "马路",
+        "traditional": "馬路",
+        "pinyin": "mǎlù",
+        "zhuyin": "ㄇㄚˇ ㄌㄨˋ",
+        "noTones": "ma lu",
+        "english": "road, street"
+    },
+    {
+        "simplified": "一般",
+        "traditional": "一般",
+        "pinyin": "yìbān",
+        "zhuyin": "ㄧˋ ㄅㄢ",
+        "noTones": "yi ban",
+        "english": "adv generally"
+    },
+    {
+        "simplified": "真的",
+        "traditional": "真的",
+        "pinyin": "zhēn de",
+        "zhuyin": "ㄓㄣ ㄉㄜ˙",
+        "noTones": "zhen de",
+        "english": "adv really, truly"
+    },
+    {
+        "simplified": "着急",
+        "traditional": "著急",
+        "pinyin": "zháojí",
+        "zhuyin": "ㄓㄨㄛˊ ㄐㄧ",
+        "noTones": "zhao ji",
+        "english": "to worry"
+    },
+    {
+        "simplified": "餐馆儿",
+        "traditional": "餐館兒",
+        "pinyin": "cānguǎnr",
+        "zhuyin": "ㄘㄢ ㄍㄨㄢˇ ㄦ˙",
+        "noTones": "can guan er",
+        "english": "restaurant"
+    },
+    {
+        "simplified": "地道",
+        "traditional": "地道",
+        "pinyin": "dì dao",
+        "zhuyin": "ㄉㄧˋ ㄉㄠˋ",
+        "noTones": "di dao",
+        "english": "authentic, genuine"
+    },
+    {
+        "simplified": "过几天",
+        "traditional": "過幾天",
+        "pinyin": "guò jǐ tiān",
+        "zhuyin": "ㄍㄨㄛˋ ㄐㄧˇ ㄊㄧㄢ",
+        "noTones": "guo ji tian",
+        "english": "in a few days"
+    }
+  ],
+  "Lesson 23": [
+    {
+        "simplified": "正好",
+        "traditional": "正好",
+        "pinyin": "zhènghǎo",
+        "zhuyin": "ㄓㄥˋ ㄏㄠˇ",
+        "noTones": "zheng hao",
+        "english": "coincidentally"
+    },
+    {
+        "simplified": "门口",
+        "traditional": "門口",
+        "pinyin": "ménkǒu",
+        "zhuyin": "ㄇㄣˊ ㄎㄡˇ",
+        "noTones": "men kou",
+        "english": "doorway, entrance"
+    },
+    {
+        "simplified": "留学生",
+        "traditional": "留學生",
+        "pinyin": "liúxuéshēng",
+        "zhuyin": "ㄌㄧㄡˊ ㄒㄩㄝˊ ㄕㄥ",
+        "noTones": "liu xue sheng",
+        "english": "study-abroad student"
+    },
+    {
+        "simplified": "菜单",
+        "traditional": "菜單",
+        "pinyin": "càidān",
+        "zhuyin": "ㄘㄞˋ ㄉㄢ",
+        "noTones": "cai dan",
+        "english": "menu"
+    },
+    {
+        "simplified": "鸡",
+        "traditional": "雞",
+        "pinyin": "jī",
+        "zhuyin": "ㄐㄧ",
+        "noTones": "ji",
+        "english": "chicken"
+    },
+    {
+        "simplified": "清蒸",
+        "traditional": "清蒸",
+        "pinyin": "qīngzhēng",
+        "zhuyin": "ㄑㄧㄥ ㄓㄥ",
+        "noTones": "qing zheng",
+        "english": "to steam (food without heavy sauce)"
+    },
+    {
+        "simplified": "味道",
+        "traditional": "味道",
+        "pinyin": "wèidao",
+        "zhuyin": "ㄨㄟˋ ㄉㄠˋ",
+        "noTones": "wei dao",
+        "english": "taste, flavor (of food)"
+    },
+    {
+        "simplified": "芥兰",
+        "traditional": "芥蘭",
+        "pinyin": "jièlán",
+        "zhuyin": "ㄐㄧㄝˋ ㄌㄢˊ",
+        "noTones": "jie lan",
+        "english": "Chinese broccoli"
+    },
+    {
+        "simplified": "嫩",
+        "traditional": "嫩",
+        "pinyin": "nèn",
+        "zhuyin": "ㄋㄣˋ",
+        "noTones": "nen",
+        "english": "tender"
+    },
+    {
+        "simplified": "香",
+        "traditional": "香",
+        "pinyin": "xiāng",
+        "zhuyin": "ㄒㄧㄤ",
+        "noTones": "xiang",
+        "english": "fragrant, pleasant-smelling"
+    },
+    {
+        "simplified": "菠菜",
+        "traditional": "菠菜",
+        "pinyin": "bōcài",
+        "zhuyin": "ㄅㄛ ㄘㄞˋ",
+        "noTones": "bo cai",
+        "english": "spinach"
+    },
+    {
+        "simplified": "叫（菜）",
+        "traditional": "叫（菜）",
+        "pinyin": "jiào (cài)",
+        "zhuyin": "ㄐㄧㄠˋ（ㄘㄞˋ）",
+        "noTones": "jiao (cai)",
+        "english": "(o) to order (food)"
+    },
+    {
+        "simplified": "新鲜",
+        "traditional": "新鮮",
+        "pinyin": "xīnxian",
+        "zhuyin": "ㄒㄧㄣ ㄒㄧㄢ",
+        "noTones": "xin xian",
+        "english": "fresh"
+    },
+    {
+        "simplified": "有机",
+        "traditional": "有機",
+        "pinyin": "yǒujī",
+        "zhuyin": "ㄧㄡˇ ㄐㄧ",
+        "noTones": "you ji",
+        "english": "organic"
+    },
+    {
+        "simplified": "清淡",
+        "traditional": "清淡",
+        "pinyin": "qīngdàn",
+        "zhuyin": "ㄑㄧㄥ ㄉㄢˋ",
+        "noTones": "qing dan",
+        "english": "light in flavor"
+    },
+    {
+        "simplified": "咸",
+        "traditional": "鹹",
+        "pinyin": "xián",
+        "zhuyin": "ㄒㄧㄢˊ",
+        "noTones": "xian",
+        "english": "salty"
+    },
+    {
+        "simplified": "油",
+        "traditional": "油",
+        "pinyin": "yóu",
+        "zhuyin": "ㄧㄡˊ",
+        "noTones": "you",
+        "english": "oil; oily"
+    },
+    {
+        "simplified": "餐巾",
+        "traditional": "餐巾",
+        "pinyin": "cānjīn",
+        "zhuyin": "ㄘㄢ ㄐㄧㄣ",
+        "noTones": "can jin",
+        "english": "napkin"
+    },
+    {
+        "simplified": "筷子",
+        "traditional": "筷子",
+        "pinyin": "kuàizi",
+        "zhuyin": "ㄎㄨㄞˋ ㄗ˙",
+        "noTones": "kuai zi",
+        "english": "chopsticks"
+    },
+    {
+        "simplified": "开玩笑",
+        "traditional": "開玩笑",
+        "pinyin": "kāi wánxiào",
+        "zhuyin": "ㄎㄞ ㄨㄢˊ ㄒㄧㄠˋ",
+        "noTones": "kai wanxiao",
+        "english": "to crack a joke, to joke"
+    },
+    {
+        "simplified": "各",
+        "traditional": "各",
+        "pinyin": "gè",
+        "zhuyin": "ㄍㄜˋ",
+        "noTones": "ge",
+        "english": "each, every"
+    },
+    {
+        "simplified": "口味",
+        "traditional": "口味",
+        "pinyin": "kǒuwèi",
+        "zhuyin": "ㄎㄡˇ ㄨㄟˋ",
+        "noTones": "kou wei",
+        "english": "(personal) taste"
+    },
+    {
+        "simplified": "比方说",
+        "traditional": "比方說",
+        "pinyin": "bǐfāng shuō",
+        "zhuyin": "ㄅㄧˇㄈㄤ ㄕㄨㄛ",
+        "noTones": "bi fang shuo",
+        "english": "for example"
+    },
+    {
+        "simplified": "辣",
+        "traditional": "辣",
+        "pinyin": "là",
+        "zhuyin": "ㄌㄚˋ",
+        "noTones": "la",
+        "english": "spicy"
+    },
+    {
+        "simplified": "考虑",
+        "traditional": "考慮",
+        "pinyin": "kǎolǜ",
+        "zhuyin": "ㄎㄠˇㄌㄩˋ",
+        "noTones": "kao lv",
+        "english": "to consider"
+    },
+    {
+        "simplified": "主意",
+        "traditional": "主意",
+        "pinyin": "zhúyi",
+        "zhuyin": "ㄓㄨˇㄧˋ",
+        "noTones": "zhu yi",
+        "english": "idea"
+    },
+    {
+        "simplified": "微信",
+        "traditional": "微信",
+        "pinyin": "Wēixìn",
+        "zhuyin": "ㄨㄟ ㄒㄧㄣˋ",
+        "noTones": "Wei Xin",
+        "english": "WeChat"
+    },
+    {
+        "simplified": "丽莎",
+        "traditional": "麗莎",
+        "pinyin": "Lìshā",
+        "zhuyin": "ㄌㄧˋ ㄕㄚ",
+        "noTones": "Li Sha",
+        "english": "(a personal name)"
+    },
+    {
+        "simplified": "林雪梅",
+        "traditional": "林雪梅",
+        "pinyin": "Lín Xuěméi",
+        "zhuyin": "ㄌㄧㄣˊ ㄒㄩㄝˇ ㄇㄟˊ",
+        "noTones": "Lin Xue Mei",
+        "english": "(a personal name)"
+    },
+    {
+        "simplified": "杭州",
+        "traditional": "杭州",
+        "pinyin": "Hángzhōu",
+        "zhuyin": "ㄏㄤˊ ㄓㄡ",
+        "noTones": "Hang Zhou",
+        "english": "Hangzhou"
+    },
+    {
+        "simplified": "四川",
+        "traditional": "四川",
+        "pinyin": "Sìchuān",
+        "zhuyin": "ㄙˋ ㄔㄨㄢ",
+        "noTones": "Si Chuan",
+        "english": "Sichuan"
+    },
+    {
+        "simplified": "湖南",
+        "traditional": "湖南",
+        "pinyin": "Húnán",
+        "zhuyin": "ㄏㄨˊ ㄋㄢˊ",
+        "noTones": "Hu Nan",
+        "english": "Hunan"
+    },
+    {
+        "simplified": "广东",
+        "traditional": "廣東",
+        "pinyin": "Guǎngdōng",
+        "zhuyin": "ㄍㄨㄤˇ ㄉㄨㄥ",
+        "noTones": "Guang Dong",
+        "english": "Guangdong"
+    }
+  ],
+  "Lesson 24": [
+    {
+        "pinyin": "xiàng",
+        "noTones": "xiang",
+        "zhuyin": "ㄒㄧㄤˋ",
+        "english": "to resemble, to be like",
+        "traditional": "像",
+        "simplified": "像"
+    },
+    {
+        "pinyin": "tī xù shān",
+        "noTones": "ti xù shan",
+        "zhuyin": "ㄊㄧ ㄒㄩˋ ㄕㄢ",
+        "english": "T-shirt",
+        "traditional": "T恤衫",
+        "simplified": "T恤衫"
+    },
+    {
+        "pinyin": "máo yī",
+        "noTones": "mao yi",
+        "zhuyin": "ㄇㄠˊ ㄧ",
+        "english": "sweater",
+        "traditional": "毛衣",
+        "simplified": "毛衣"
+    },
+    {
+        "pinyin": "niú zǎi kù",
+        "noTones": "niu zai ku",
+        "zhuyin": "ㄋㄧㄡˊ ㄗㄞˇ ㄎㄨˋ",
+        "english": "jeans",
+        "traditional": "牛仔裤",
+        "simplified": "牛仔裤"
+    },
+    {
+        "pinyin": "wú lùn",
+        "noTones": "wu lun",
+        "zhuyin": "ㄨˊ ㄌㄨㄣˋ",
+        "english": "regardless of, no matter what",
+        "traditional": "无论",
+        "simplified": "无论"
+    },
+    {
+        "pinyin": "xū yào",
+        "noTones": "xu yao",
+        "zhuyin": "ㄒㄩ ㄧㄠˋ",
+        "english": "need",
+        "traditional": "需要",
+        "simplified": "需要"
+    },
+    {
+        "pinyin": "wèi shēng zhǐ",
+        "noTones": "wei sheng zhi",
+        "zhuyin": "ㄨㄟˋ ㄕㄥ ㄓˇ",
+        "english": "toilet paper",
+        "traditional": "卫生纸",
+        "simplified": "卫生纸"
+    },
+    {
+        "pinyin": "yá gāo",
+        "noTones": "ya gao",
+        "zhuyin": "ㄧㄚˊ ㄍㄠ",
+        "english": "toothpaste",
+        "traditional": "牙膏",
+        "simplified": "牙膏"
+    },
+    {
+        "pinyin": "máo jīn",
+        "noTones": "mao jin",
+        "zhuyin": "ㄇㄠˊ ㄐㄧㄣ",
+        "english": "towel",
+        "traditional": "毛巾",
+        "simplified": "毛巾"
+    },
+    {
+        "pinyin": "xǐ yī fěn",
+        "noTones": "xi yi fen",
+        "zhuyin": "ㄒㄧ ㄧ ㄈㄣˇ",
+        "english": "laundry powder",
+        "traditional": "洗衣粉",
+        "simplified": "洗衣粉"
+    },
+    {
+        "pinyin": "gòu wù",
+        "noTones": "gou wu",
+        "zhuyin": "ㄍㄡˋ ㄨˋ",
+        "english": "shopping",
+        "traditional": "购物",
+        "simplified": "购物"
+    },
+    {
+        "pinyin": "pái zi",
+        "noTones": "pai zi",
+        "zhuyin": "ㄆㄞˊ ㄗ",
+        "english": "brand",
+        "traditional": "牌子",
+        "simplified": "牌子"
+    },
+    {
+        "pinyin": "jià qian",
+        "noTones": "jia qian",
+        "zhuyin": "ㄐㄧㄚˋ ㄑㄧㄢ",
+        "english": "price",
+        "traditional": "价钱",
+        "simplified": "价钱"
+    },
+    {
+        "pinyin": "chún mián",
+        "noTones": "chun mian",
+        "zhuyin": "ㄔㄨㄣˊ ㄇㄧㄢˊ",
+        "english": "pure cotton; 100 percent cotton",
+        "traditional": "纯棉",
+        "simplified": "纯棉"
+    },
+    {
+        "pinyin": "míng pái",
+        "noTones": "ming pai",
+        "zhuyin": "ㄇㄧㄥˊ ㄆㄞˊ",
+        "english": "famous brand",
+        "traditional": "名牌",
+        "simplified": "名牌"
+    },
+    {
+        "pinyin": "shí máo",
+        "noTones": "shi mao",
+        "zhuyin": "ㄕˊ ㄇㄠˊ",
+        "english": "fashionable",
+        "traditional": "时髦",
+        "simplified": "时髦"
+    },
+    {
+        "pinyin": "āi yā",
+        "noTones": "ai ya",
+        "zhuyin": "ㄞ ㄧㄚ",
+        "english": "gosh; ah (an exclamation to express surprise)",
+        "traditional": "哎呀",
+        "simplified": "哎呀"
+    },
+    {
+        "pinyin": "zhì liàng",
+        "noTones": "zhi liang",
+        "zhuyin": "ㄓˋ ㄌㄧㄤˋ",
+        "english": "quality",
+        "traditional": "质量",
+        "simplified": "质量"
+    },
+    {
+        "pinyin": "zhǐ hǎo",
+        "noTones": "zhi hao",
+        "zhuyin": "ㄓˇ ㄏㄠˇ",
+        "english": "have to; be forced to",
+        "traditional": "只好",
+        "simplified": "只好"
+    },
+    {
+        "pinyin": "dào lǐ",
+        "noTones": "dao li",
+        "zhuyin": "ㄉㄠˋ ㄌㄧˇ",
+        "english": "reason, sense",
+        "traditional": "道理",
+        "simplified": "道理"
+    },
+    {
+        "pinyin": "fēi...bù kě",
+        "noTones": "fei...bu ke",
+        "zhuyin": "ㄈㄟ ㄅㄨˋ ㄅㄨˋ ㄎㄜˇ",
+        "english": "have to; nothing but...would do",
+        "traditional": "非。。。不可",
+        "simplified": "非。。。不可"
+    },
+    {
+        "pinyin": "biāo zhǔn",
+        "noTones": "biao zhun",
+        "zhuyin": "ㄅㄧㄠ ㄓㄨㄣˇ",
+        "english": "criterion, standard",
+        "traditional": "标准",
+        "simplified": "标准"
+    },
+    {
+        "pinyin": "zài hu",
+        "noTones": "zai hu",
+        "zhuyin": "ㄗㄞˋ ㄏㄨˇ",
+        "english": "to mind, to care",
+        "traditional": "在乎",
+        "simplified": "在乎"
+    },
+    {
+        "pinyin": "tóng yì",
+        "noTones": "tong yi",
+        "zhuyin": "ㄊㄨㄥˊ ㄧˋ",
+        "english": "to agree",
+        "traditional": "同意",
+        "simplified": "同意"
+    },
+    {
+        "pinyin": "hǎo kàn",
+        "noTones": "hao kan",
+        "zhuyin": "ㄏㄠˇ ㄎㄢˋ",
+        "english": "nice-looking, attractive",
+        "traditional": "好看",
+        "simplified": "好看"
+    },
+    {
+        "pinyin": "yí huìr",
+        "noTones": "yi huir",
+        "zhuyin": "ㄧ ㄏㄨㄟˋ",
+        "english": "a little while",
+        "traditional": "一会儿",
+        "simplified": "一会儿"
+    },
+    {
+        "pinyin": "xiàn jīn",
+        "noTones": "xian jin",
+        "zhuyin": "ㄒㄧㄢˋ ㄐㄧㄣ",
+        "english": "cash",
+        "traditional": "现金",
+        "simplified": "现金"
+    },
+    {
+        "pinyin": "jiā",
+        "noTones": "jia",
+        "zhuyin": "ㄐㄧㄚ",
+        "english": "to add",
+        "traditional": "加",
+        "simplified": "加"
+    },
+    {
+        "pinyin": "shuì",
+        "noTones": "shui",
+        "zhuyin": "ㄕㄨㄟˋ",
+        "english": "tax",
+        "traditional": "税",
+        "simplified": "税"
+    }
+  ]
   }
 ]

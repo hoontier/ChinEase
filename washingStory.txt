@@ -1,0 +1,140 @@
+Origin Link:
+http://chinesereadingpractice.com/2020/07/19/fable-washing-clothes/
+
+First half of vocab:
+
+    "Washing Clothes Part 1": [
+      {
+          "simplified": "一对",
+          "pinyin": "yī duì",
+          "noTones": "yi dui",
+          "english": "A pair (in this case, of people - a husband and wife)",
+          "traditional": "一對"
+      },
+      {
+          "simplified": "一户",
+          "pinyin": "yī hù",
+          "noTones": "yi hu",
+          "english": "A household",
+          "traditional": "一戶"
+      },
+      {
+          "simplified": "一番",
+          "pinyin": "yī fān",
+          "noTones": "yi fan",
+          "english": "The measure word for a conversation or a block of speech",
+          "traditional": "一番"
+      },
+      {
+          "simplified": "干净",
+          "pinyin": "gān jìng",
+          "noTones": "gan jing",
+          "english": "To be clean",
+          "traditional": "乾淨"
+      },
+      {
+          "simplified": "洗衣粉",
+          "pinyin": "xǐ yī fěn",
+          "noTones": "xi yi fen",
+          "english": "Detergent (washing powder)",
+          "traditional": "洗衣粉"
+      },
+      {
+          "simplified": "晾衣绳",
+          "pinyin": "liàng yī shéng",
+          "noTones": "liang yi sheng",
+          "english": "Washing line (dry clothes rope)",
+          "traditional": "晾衣繩"
+      },
+      {
+          "simplified": "悬挂",
+          "pinyin": "xuán guà",
+          "noTones": "xuan gua",
+          "english": "To hang",
+          "traditional": "懸掛"
+      },
+      {
+          "simplified": "擦",
+          "pinyin": "cā",
+          "noTones": "ca",
+          "english": "To wipe",
+          "traditional": "擦"
+      },
+      {
+          "simplified": "清洗",
+          "pinyin": "qīng xǐ",
+          "noTones": "qing xi",
+          "english": "to wash (something until it is clean)",
+          "traditional": "清洗"
+      },
+      {
+          "simplified": "年轻",
+          "pinyin": "nián qīng",
+          "noTones": "nian qing",
+          "english": "young",
+          "traditional": "年輕"
+      },
+      {
+          "simplified": "夫妇",
+          "pinyin": "fū fù",
+          "noTones": "fu fu",
+          "english": "married couple",
+          "traditional": "夫婦"
+      },
+      {
+          "simplified": "对面",
+          "pinyin": "duì miàn",
+          "noTones": "dui mian",
+          "english": "opposite, face to face",
+          "traditional": "對面"
+      },
+      {
+          "simplified": "邻居",
+          "pinyin": "lín jū",
+          "noTones": "lin ju",
+          "english": "neighbor, next door",
+          "traditional": "鄰居"
+      },
+      {
+          "simplified": "妻子",
+          "pinyin": "qī zi",
+          "noTones": "qi zi",
+          "english": "wife",
+          "traditional": "妻子"
+      },
+      {
+          "simplified": "外面",
+          "pinyin": "wài miàn",
+          "noTones": "wai mian",
+          "english": "outside, exterior",
+          "traditional": "外面"
+      },
+      {
+          "simplified": "也许",
+          "pinyin": "yě xǔ",
+          "noTones": "ye xu",
+          "english": "maybe, perhaps",
+          "traditional": "也許"
+      },
+      {
+          "simplified": "如何",
+          "pinyin": "rú hé",
+          "noTones": "ru he",
+          "english": "how",
+          "traditional": "如何"
+      },
+      {
+          "simplified": "沉默",
+          "pinyin": "chén mò",
+          "noTones": "chen mo",
+          "english": "silence, uncommunicative",
+          "traditional": "沉默"
+      },
+      {
+          "simplified": "语",
+          "pinyin": "yǔ",
+          "noTones": "yu",
+          "english": "speak, language",
+          "traditional": "語"
+      }
+    ]

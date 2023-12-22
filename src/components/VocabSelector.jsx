@@ -1,7 +1,7 @@
 // VocabSelector.jsx
 import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { setWords, selectVocabList, setVocabListPart, setSelectedVocabLists, setIsFlashcardsView, setIsMenuHidden } from '../features/vocabSlice';
+import { setWords, selectWords, selectVocabList, setVocabListPart, setSelectedVocabLists, setIsFlashcardsView, filterTraditionalDifferences, setIsShowingTraditionalDifferences} from '../features/vocabSlice';
 import Select from 'react-select';
 
 function VocabSelector() {
@@ -11,6 +11,7 @@ function VocabSelector() {
     const vocabListNames = useSelector(selectVocabList);
     const isFlashcardsView = useSelector(state => state.vocab.isFlashcardsView);
     const isMenuHidden = useSelector(state => state.vocab.isMenuHidden);
+    const isShowingTraditionalDifferences = useSelector(state => state.vocab.isShowingTraditionalDifferences);
 
     const customStyles = {
         control: (base, state) => ({
@@ -42,9 +43,28 @@ function VocabSelector() {
     const options = vocabListNames.map(name => ({ value: name, label: name }));
 
     const handlePartChange = (e) => {
-        dispatch(setVocabListPart(e.target.value));
-        dispatch(setWords(selectedVocabLists));
+        const part = e.target.value;
+        dispatch(setVocabListPart(part)); // Set the selected part or group
+        dispatch(setWords(selectedVocabLists)); // This will handle all cases based on the updated part
+      };
+      
+    
+      // Calculate the number of word groups
+      const totalWords = useSelector(selectWords).length;
+      const numGroups = Math.ceil(totalWords / 7);
+    
+      // Create options for selecting word groups
+      const groupOptions = Array.from({ length: numGroups }, (_, i) => ({
+        value: `group${i + 1}`,
+        label: `Group ${i + 1}`
+      }));
+
+
+    const handleTraditionalDifferencesToggle = () => {
+        dispatch(setIsShowingTraditionalDifferences()); // Toggle the isShowingTraditionalDifferences state
+        dispatch(filterTraditionalDifferences()); // Add this line to filter the cards
     };
+    
 
     return (
         <div className="mb-4">
@@ -63,13 +83,29 @@ function VocabSelector() {
                         <option value="firstHalf">First Half</option>
                         <option value="secondHalf">Second Half</option>
                     </select>
+                    <label className="block text-gray-700 text-sm font-bold mb-2">Select Group:</label>
+                    <select onChange={handlePartChange} value={vocabListPart}>
+                        {/* Add an 'all' option here */}
+                        <option value="">All</option>
+                        {groupOptions.map(option => (
+                        <option key={option.value} value={option.value}>{option.label}</option>
+                        ))}
+                    </select>
                 </>
             ) : null }
+            {/* Button to toggle between showing the table and showing the flashcards */}
             <button 
                 className={`bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 focus:outline-none mr-4 ${selectedVocabLists.length !== 1 ? 'mt-5' : ''} ${selectedVocabLists.length == 1 ? 'ml-3' : ''}`}
                 onClick={() => dispatch(setIsFlashcardsView())}
             >
                 {isFlashcardsView ? 'Show Table' : 'Show Flashcards'}
+            </button>
+            {/* Button to only show cards where the traditional characters are not the same as the simplified characters */}
+            <button
+                className={`bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 focus:outline-none mr-4`}
+                onClick={handleTraditionalDifferencesToggle}
+            >
+                {isShowingTraditionalDifferences ? 'Reset' : 'Only Traditional Differences'}
             </button>
         </div>
     );
