@@ -6,12 +6,13 @@ import { store } from './features/store';
 import VocabSelector from './components/VocabSelector';
 import WordsTable from './components/WordsTable';
 import Flashcards from './components/Flashcards';
+import Match from './components/Match';
 import { setIsMenuHidden } from './features/vocabSlice';
 // import { PrismaCleint } from '@prisma/client';
 
 function Content() {
     const dispatch = useDispatch();
-    const isFlashcardsView = useSelector(state => state.vocab.isFlashcardsView);
+    const view = useSelector(state => state.vocab.view);
     const [selectedColumns, setSelectedColumns] = useState(['Number', 'Simplified', 'Zhuyin', 'Traditional', 'Pinyin', 'English']); // Default columns
     const isMenuHidden = useSelector(state => state.vocab.isMenuHidden);
 
@@ -37,7 +38,6 @@ function Content() {
             <>
                 <VocabSelector />
                 <div className="flex mt-4 mb-4 items-center">
-                    {!isFlashcardsView && (
                         <Select
                             isMulti
                             options={columnOptions}
@@ -45,7 +45,6 @@ function Content() {
                             onChange={handleColumnChange}
                             className="flex-grow"
                         />
-                    )}
                 </div>
             </>
             )}
@@ -56,7 +55,9 @@ function Content() {
                 >
                     {isMenuHidden ? 'Show Menu' : 'Hide Menu'}
                 </button>
-                {isFlashcardsView ? <Flashcards /> : <WordsTable columns={selectedColumns} />}
+                {/* {isFlashcardsView ? <Flashcards /> : <WordsTable columns={selectedColumns} />} */}
+                {/* if view === list, render the WordsTable component. If view==="flashcards", render the flahscards component. if view==="match", render the match component */}
+                {view === 'list' ? <WordsTable columns={selectedColumns} /> : view === 'flashcards' ? <Flashcards /> : <Match />}
             </div>
         </div>
     );

@@ -27,7 +27,7 @@ const initialState = {
   currentCard: 0,
   isFlipped: false,
   isRandom: false,
-  isFlashcardsView: false,
+  view: 'list',
   isMenuHidden: false,
   isShowingTraditionalDifferences: false
 };
@@ -147,8 +147,8 @@ export const vocabSlice = createSlice({
           state.currentCard = 0; // Reset the current card index to the first position
           state.isFlipped = false; // Ensure card is not flipped
         } ,
-        setIsFlashcardsView: (state, action) => {
-          state.isFlashcardsView = !state.isFlashcardsView;
+        setView: (state, action) => {
+          state.view = action.payload;
         },
         setIsMenuHidden: (state, action) => {
           state.isMenuHidden = !state.isMenuHidden;
@@ -169,7 +169,7 @@ export const vocabSlice = createSlice({
 });
 
 
-export const { setVocabList, setWords, removeActiveCard, setVocabListPart, setSelectedVocabLists, setCurrentCard, setFlipped, toggleRandom, randomizeActiveCards, resetVocabWords, setIsFlashcardsView, setIsMenuHidden, filterTraditionalDifferences, setIsShowingTraditionalDifferences } = vocabSlice.actions;
+export const { setVocabList, setWords, removeActiveCard, setVocabListPart, setSelectedVocabLists, setCurrentCard, setFlipped, toggleRandom, randomizeActiveCards, resetVocabWords, setView, setIsMenuHidden, filterTraditionalDifferences, setIsShowingTraditionalDifferences } = vocabSlice.actions;
 
 export const selectWords = state => state.vocab.words;
 export const selectActiveCards = state => state.vocab.activeCards; 
@@ -180,6 +180,6 @@ export const selectIsFlipped = state => state.vocab.isFlipped;
 export const selectIsRandom = state => state.vocab.isRandom;
 export const selectVocabListPart = state => state.vocab.vocabListPart; 
 export const selectVocabListNames = state => state.vocab.vocabList;
-export const selectIsFlashcardsView = state => state.vocab.isFlashcardsView;
+export const selectView = state => state.vocab.view;
 export const selectIsMenuHidden = state => state.vocab.isMenuHidden;
 export const selectIsShowingTraditionalDifferences = state => state.vocab.isShowingTraditionalDifferences;

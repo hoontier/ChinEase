@@ -1,7 +1,7 @@
 // VocabSelector.jsx
 import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { setWords, selectWords, selectVocabList, setVocabListPart, setSelectedVocabLists, setIsFlashcardsView, filterTraditionalDifferences, setIsShowingTraditionalDifferences} from '../features/vocabSlice';
+import { setWords, selectWords, selectVocabList, setVocabListPart, setSelectedVocabLists, setView, /*setIsMatchView,*/ filterTraditionalDifferences, setIsShowingTraditionalDifferences} from '../features/vocabSlice';
 import Select from 'react-select';
 
 function VocabSelector() {
@@ -9,7 +9,7 @@ function VocabSelector() {
     const vocabListPart = useSelector(state => state.vocab.vocabListPart);
     const selectedVocabLists = useSelector(state => state.vocab.selectedVocabLists);
     const vocabListNames = useSelector(selectVocabList);
-    const isFlashcardsView = useSelector(state => state.vocab.isFlashcardsView);
+    const view = useSelector(state => state.vocab.view);
     const isMenuHidden = useSelector(state => state.vocab.isMenuHidden);
     const isShowingTraditionalDifferences = useSelector(state => state.vocab.isShowingTraditionalDifferences);
 
@@ -94,19 +94,36 @@ function VocabSelector() {
                 </>
             ) : null }
             {/* Button to toggle between showing the table and showing the flashcards */}
-            <button 
+            {/* <button 
                 className={`bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 focus:outline-none mr-4 ${selectedVocabLists.length !== 1 ? 'mt-5' : ''} ${selectedVocabLists.length == 1 ? 'ml-3' : ''}`}
                 onClick={() => dispatch(setIsFlashcardsView())}
             >
                 {isFlashcardsView ? 'Show Table' : 'Show Flashcards'}
-            </button>
+                        </button> */}
             {/* Button to only show cards where the traditional characters are not the same as the simplified characters */}
-            <button
+            {/* <button
                 className={`bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600 focus:outline-none mr-4`}
                 onClick={handleTraditionalDifferencesToggle}
             >
                 {isShowingTraditionalDifferences ? 'Reset' : 'Only Traditional Differences'}
-            </button>
+            </button> */}
+            {/* Create a dropdown to switch between list, flashcard, and match mode */}
+            <label className="block text-gray-700 text-sm font-bold mb-2">Select Mode:</label>
+            <select onChange={(e) => {
+                const mode = e.target.value;
+                if (mode === 'flashcards') {
+                    dispatch(setView('flashcards'));
+                } else if (mode === 'match') {
+                    dispatch(setView('match'));
+                } else {
+                    dispatch(setView("list"));
+                }
+            }
+            }>
+                <option value="list">List</option>
+                <option value="flashcards">Flashcards</option>
+                <option value="match">Match</option>
+            </select>
         </div>
     );
 }
