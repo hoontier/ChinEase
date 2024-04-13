@@ -6460,6 +6460,514 @@
         "traditional": "税",
         "simplified": "税"
     }
-  ]
+  ],
+  "Lesson 25": [
+    {
+      "simplified": "选",
+      "traditional": "選",
+      "pinyin": "xuǎn",
+      "zhuyin": "ㄒㄩㄢˇ",
+      "noTones": "xuan",
+      "english": "to choose, to select"
+    },
+    {
+      "simplified": "门",
+      "traditional": "門",
+      "pinyin": "mén",
+      "zhuyin": "ㄇㄣˊ",
+      "noTones": "men",
+      "english": "(mw for academic courses)"
+    },
+    {
+      "simplified": "世界",
+      "traditional": "世界",
+      "pinyin": "shìjiè",
+      "zhuyin": "ㄕˋ ㄐㄧㄝˋ",
+      "noTones": "shijie",
+      "english": "world"
+    },
+    {
+      "simplified": "历史",
+      "traditional": "歷史",
+      "pinyin": "lìshǐ",
+      "zhuyin": "ㄌㄧˋ ㄕˇ",
+      "noTones": "lishi",
+      "english": "history"
+    },
+    {
+      "simplified": "其他",
+      "traditional": "其他",
+      "pinyin": "qí tā",
+      "zhuyin": "ㄑㄧˊ ㄊㄚ",
+      "noTones": "qita",
+      "english": "other, the rest"
+    },
+    {
+      "simplified": "文章",
+      "traditional": "文章",
+      "pinyin": "wénzhāng",
+      "zhuyin": "ㄨㄣˊ ㄓㄤ",
+      "noTones": "wenzhang",
+      "english": "article, essay"
+    },
+    {
+      "simplified": "受不了",
+      "traditional": "受不了",
+      "pinyin": "shòu bu liǎo",
+      "zhuyin": "ㄕㄡˋ ㄅㄨˋ ㄌㄧㄠˇ",
+      "noTones": "shou buliao",
+      "english": "cannot bear, cannot stand"
+    },
+    {
+      "simplified": "轻松",
+      "traditional": "輕鬆",
+      "pinyin": "qīngsōng",
+      "zhuyin": "ㄑㄧㄥ ㄙㄨㄥ",
+      "noTones": "qingsong",
+      "english": "light, relaxed"
+    },
+    {
+      "simplified": "教授",
+      "traditional": "教授",
+      "pinyin": "jiàoshòu",
+      "zhuyin": "ㄐㄧㄠˋ ㄕㄡˋ",
+      "noTones": "jiaoshou",
+      "english": "professor"
+    },
+    {
+      "simplified": "讨论",
+      "traditional": "討論",
+      "pinyin": "tǎolùn",
+      "zhuyin": "ㄊㄠˇ ㄌㄨㄣˋ",
+      "noTones": "taolun",
+      "english": "to discuss, discussion"
+    },
+    {
+      "simplified": "意见",
+      "traditional": "意見",
+      "pinyin": "yìjiàn",
+      "zhuyin": "ㄧˋ ㄐㄧㄢˋ",
+      "noTones": "yijian",
+      "english": "opinion, suggestion"
+    },
+    {
+      "simplified": "碰见",
+      "traditional": "碰見",
+      "pinyin": "pèng jiàn",
+      "zhuyin": "ㄆㄥˋ ㄐㄧㄢˋ",
+      "noTones": "pengjian",
+      "english": "to run into, to meet by chance"
+    },
+    {
+      "simplified": "毕业",
+      "traditional": "畢業",
+      "pinyin": "bìyè",
+      "zhuyin": "ㄅㄧˋ ㄧㄝˋ",
+      "noTones": "biye",
+      "english": "to graduate, graduation"
+    },
+    {
+      "simplified": "学位",
+      "traditional": "學位",
+      "pinyin": "xuéwèi",
+      "zhuyin": "ㄒㄩㄝˊ ㄨㄟˋ",
+      "noTones": "xuewei",
+      "english": "academic degree"
+    },
+    {
+      "simplified": "化学",
+      "traditional": "化學",
+      "pinyin": "huàxué",
+      "zhuyin": "ㄏㄨㄚˋ ㄒㄩㄝˊ",
+      "noTones": "huaxue",
+      "english": "chemistry"
+    },
+    {
+      "simplified": "经济",
+      "traditional": "經濟",
+      "pinyin": "jīngjì",
+      "zhuyin": "ㄐㄧㄥ ㄐㄧˋ",
+      "noTones": "jingji",
+      "english": "economy, economics"
+    },
+    {
+      "simplified": "系",
+      "traditional": "系",
+      "pinyin": "xì",
+      "zhuyin": "ㄒㄧˋ",
+      "noTones": "xi",
+      "english": "department (of a university), system"
+    },
+    {
+      "simplified": "学分",
+      "traditional": "學分",
+      "pinyin": "xuéfēn",
+      "zhuyin": "ㄒㄩㄝˊ ㄈㄣ",
+      "noTones": "xuefen",
+      "english": "academic credit"
+    },
+    {
+      "simplified": "决定",
+      "traditional": "決定",
+      "pinyin": "juédìng",
+      "zhuyin": "ㄐㄩㄝˊ ㄉㄧㄥˋ",
+      "noTones": "jueding",
+      "english": "to decide, decision"
+    },
+    {
+      "simplified": "解决",
+      "traditional": "解決",
+      "pinyin": "jiějué",
+      "zhuyin": "ㄐㄧㄝˇ ㄐㄩㄝˊ",
+      "noTones": "jiejue",
+      "english": "to solve, to resolve"
+    },
+    {
+      "simplified": "建议",
+      "traditional": "建議",
+      "pinyin": "jiànyì",
+      "zhuyin": "ㄐㄧㄢˋ ㄧˋ",
+      "noTones": "jianyi",
+      "english": "suggestion, to suggest"
+    },
+    {
+      "simplified": "要么...，要么...",
+      "traditional": "要麼...，要麼...",
+      "pinyin": "yào me..., yào me...",
+      "zhuyin": "ㄧㄠˋ ㄇㄜ˙, ㄧㄠˋ ㄇㄜ˙",
+      "noTones": "yaome, yaome",
+      "english": "either...or..."
+    },
+    {
+      "simplified": "工学院",
+      "traditional": "工學院",
+      "pinyin": "gōngxuéyuàn",
+      "zhuyin": "ㄍㄨㄥ ㄒㄩㄝˊ ㄩㄢˋ",
+      "noTones": "gongxueyuan",
+      "english": "school of engineering"
+    },
+    {
+      "simplified": "管理学院",
+      "traditional": "管理學院",
+      "pinyin": "guǎnlǐxuéyuàn",
+      "zhuyin": "ㄍㄨㄢˇ ㄌㄧˇ ㄒㄩㄝˊ ㄩㄢˋ",
+      "noTones": "guanlixueyuan",
+      "english": "school of management"
+    },
+    {
+      "simplified": "谈",
+      "traditional": "談",
+      "pinyin": "tán",
+      "zhuyin": "ㄊㄢˊ",
+      "noTones": "tan",
+      "english": "to talk, to discuss"
+    },
+    {
+      "simplified": "文学",
+      "traditional": "文學",
+      "pinyin": "wénxué",
+      "zhuyin": "ㄨㄣˊ ㄒㄩㄝˊ",
+      "noTones": "wenxue",
+      "english": "literature"
+    },
+    {
+      "simplified": "将来",
+      "traditional": "將來",
+      "pinyin": "jiānglái",
+      "zhuyin": "ㄐㄧㄤ ㄌㄞˊ",
+      "noTones": "jianglai",
+      "english": "future, in the future"
+    },
+    {
+      "simplified": "挣钱",
+      "traditional": "掙錢",
+      "pinyin": "zhèng qián",
+      "zhuyin": "ㄓㄥˋ ㄑㄧㄢˊ",
+      "noTones": "zhengqian",
+      "english": "to earn money"
+    },
+    {
+      "simplified": "金融",
+      "traditional": "金融",
+      "pinyin": "jīnróng",
+      "zhuyin": "ㄐㄧㄣ ㄖㄨㄥˊ",
+      "noTones": "jinrong",
+      "english": "finance, banking"
+    },
+    {
+      "simplified": "整天",
+      "traditional": "整天",
+      "pinyin": "zhěng tiān",
+      "zhuyin": "ㄓㄥˇ ㄊㄧㄢ",
+      "noTones": "zhengtian",
+      "english": "all day long"
+    },
+    {
+      "simplified": "数字",
+      "traditional": "數字",
+      "pinyin": "shùzì",
+      "zhuyin": "ㄕㄨˋ ㄗˋ",
+      "noTones": "shuzi",
+      "english": "number, numeral"  
+    }
+  ],
+  "Lesson 26": [
+    {
+      "simplified": "心事",
+      "traditional": "心事",
+      "pinyin": "xīnshì",
+      "zhuyin": "ㄒㄧㄣ ㄕˋ",
+      "noTones": "xin shi",
+      "english": "something weighing on one's mind"
+    },
+    {
+      "simplified": "吵架",
+      "traditional": "吵架",
+      "pinyin": "chǎojià",
+      "zhuyin": "ㄔㄠˇ ㄐㄧㄚˋ",
+      "noTones": "chao jia",
+      "english": "to quarrel"
+    },
+    {
+      "simplified": "高中",
+      "traditional": "高中",
+      "pinyin": "gāozhōng",
+      "zhuyin": "ㄍㄠ ㄓㄨㄥ",
+      "noTones": "gao zhong",
+      "english": "high school"
+    },
+    {
+      "simplified": "开朗",
+      "traditional": "開朗",
+      "pinyin": "kāilǎng",
+      "zhuyin": "ㄎㄞ ㄌㄤˇ",
+      "noTones": "kai lang",
+      "english": "extroverted; open and sunny in disposition"
+    },
+    {
+      "simplified": "迷",
+      "traditional": "迷",
+      "pinyin": "mí",
+      "zhuyin": "ㄇㄧˊ",
+      "noTones": "mi",
+      "english": "fan; enthusiast"
+    },
+    {
+      "simplified": "演唱会",
+      "traditional": "演唱會",
+      "pinyin": "yǎnchànghuì",
+      "zhuyin": "ㄧㄢˇ ㄔㄤˋ ㄏㄨㄟˋ",
+      "noTones": "yan chang hui",
+      "english": "concert"
+    },
+    {
+      "simplified": "爱好",
+      "traditional": "愛好",
+      "pinyin": "àihào",
+      "zhuyin": "ㄞˋ ㄏㄠˋ",
+      "noTones": "ai hao",
+      "english": "hobby"
+    },
+    {
+      "simplified": "不同",
+      "traditional": "不同",
+      "pinyin": "bùtóng",
+      "zhuyin": "ㄅㄨˋ ㄊㄨㄥˊ",
+      "noTones": "bu tong",
+      "english": "different"
+    },
+    {
+      "simplified": "相处",
+      "traditional": "相處",
+      "pinyin": "xiāngchǔ",
+      "zhuyin": "ㄒㄧㄤ ㄔㄨˇ",
+      "noTones": "xiang chu",
+      "english": "to get along with"
+    },
+    {
+      "simplified": "到底",
+      "traditional": "到底",
+      "pinyin": "dàodǐ",
+      "zhuyin": "ㄉㄠˋ ㄉㄧˇ",
+      "noTones": "dao di",
+      "english": "what on earth; what in the world; in the end"
+    },
+    {
+      "simplified": "发生",
+      "traditional": "發生",
+      "pinyin": "fāshēng",
+      "zhuyin": "ㄈㄚ ㄕㄥ",
+      "noTones": "fa sheng",
+      "english": "to happen; to occur; to take place"
+    },
+    {
+      "simplified": "背景",
+      "traditional": "背景",
+      "pinyin": "bèijǐng",
+      "zhuyin": "ㄅㄟˋ ㄐㄧㄥˇ",
+      "noTones": "bei jing",
+      "english": "background"
+    },
+    {
+      "simplified": "提",
+      "traditional": "提",
+      "pinyin": "tí",
+      "zhuyin": "ㄊㄧˊ",
+      "noTones": "ti",
+      "english": "to mention; to bring up"
+    },
+    {
+      "simplified": "心",
+      "traditional": "心",
+      "pinyin": "xīn",
+      "zhuyin": "ㄒㄧㄣ",
+      "noTones": "xin",
+      "english": "heart"
+    },
+    {
+      "simplified": "根本",
+      "traditional": "根本",
+      "pinyin": "gēnběn",
+      "zhuyin": "ㄍㄣ ㄅㄣˇ",
+      "noTones": "gen ben",
+      "english": "fundamentally; essentially"
+    },
+    {
+      "simplified": "一干二净",
+      "traditional": "一干二淨",
+      "pinyin": "yī gān èr jìng",
+      "zhuyin": "ㄧ ㄍㄢ ㄦˋ ㄐㄧㄥˋ",
+      "noTones": "yi gan er jing",
+      "english": "completely; thoroughly"
+    },
+    {
+      "simplified": "生气",
+      "traditional": "生氣",
+      "pinyin": "shēngqì",
+      "zhuyin": "ㄕㄥ ㄑㄧˋ",
+      "noTones": "sheng qi",
+      "english": "angry; mad"
+    },
+    {
+      "simplified": "叫",
+      "traditional": "叫",
+      "pinyin": "jiào",
+      "zhuyin": "ㄐㄧㄠˋ",
+      "noTones": "jiao",
+      "english": "to call; to yell; to be called"
+    },
+    {
+      "simplified": "陪",
+      "traditional": "陪",
+      "pinyin": "péi",
+      "zhuyin": "ㄆㄟˊ",
+      "noTones": "pei",
+      "english": "to accompany"
+    },
+    {
+      "simplified": "答应",
+      "traditional": "答應",
+      "pinyin": "dāyìng",
+      "zhuyin": "ㄉㄚ ㄧㄥˋ",
+      "noTones": "da ying",
+      "english": "to agree; to promise; to answer"
+    },
+    {
+      "simplified": "电影院",
+      "traditional": "電影院",
+      "pinyin": "diànyǐngyuàn",
+      "zhuyin": "ㄉㄧㄢˋ ㄧㄥˇ ㄩㄢˋ",
+      "noTones": "dian ying yuan",
+      "english": "cinema; movie theater"
+    },
+    {
+      "simplified": "分手",
+      "traditional": "分手",
+      "pinyin": "fēnshǒu",
+      "zhuyin": "ㄈㄣ ㄕㄡˇ",
+      "noTones": "fen shou",
+      "english": "to break up; to part company"
+    },
+    {
+      "simplified": "原来",
+      "traditional": "原來",
+      "pinyin": "yuánlái",
+      "zhuyin": "ㄩㄢˊ ㄌㄞˊ",
+      "noTones": "yuan lai",
+      "english": "originally; as it turns out"
+    },
+    {
+      "simplified": "马虎",
+      "traditional": "馬虎",
+      "pinyin": "mǎhu",
+      "zhuyin": "ㄇㄚˇ ㄏㄨˊ",
+      "noTones": "ma hu",
+      "english": "careless; sloppy"
+    },
+    {
+      "simplified": "不停",
+      "traditional": "不停",
+      "pinyin": "bùtíng",
+      "zhuyin": "ㄅㄨˋ ㄊㄧㄥˊ",
+      "noTones": "bu ting",
+      "english": "incessantly; without stopping"
+    },
+    {
+      "simplified": "道歉",
+      "traditional": "道歉",
+      "pinyin": "dàoqiàn",
+      "zhuyin": "ㄉㄠˋ ㄑㄧㄢˋ",
+      "noTones": "dao qian",
+      "english": "to apologize"
+    },
+    {
+      "simplified": "态度",
+      "traditional": "態度",
+      "pinyin": "tàidù",
+      "zhuyin": "ㄊㄞˋ ㄉㄨˋ",
+      "noTones": "tai du",
+      "english": "attitude"
+    },
+    {
+      "simplified": "说不定",
+      "traditional": "說不定",
+      "pinyin": "shuōbùdìng",
+      "zhuyin": "ㄕㄨㄛ ㄅㄨˋ ㄉㄧㄥˋ",
+      "noTones": "shuo bu ding",
+      "english": "perhaps; maybe"
+    },
+    {
+      "simplified": "实际上",
+      "traditional": "實際上",
+      "pinyin": "shíjìshàng",
+      "zhuyin": "ㄕˊ ㄐㄧˋ ㄕㄤˋ",
+      "noTones": "shi ji shang",
+      "english": "in fact; in reality; actually"
+    },
+    {
+      "simplified": "丢三落四",
+      "traditional": "丟三落四",
+      "pinyin": "diūsānlàsì",
+      "zhuyin": "ㄉㄧㄡ ㄙㄢ ㄌㄚˋ ㄙˋ",
+      "noTones": "diu san la si",
+      "english": "scattered and disorganized"
+    },
+    {
+      "simplified": "钥匙",
+      "traditional": "鑰匙",
+      "pinyin": "yàoshi",
+      "zhuyin": "ㄧㄠˋ ㄕˊ",
+      "noTones": "yao shi",
+      "english": "key"
+    },
+    {
+      "simplified": "交朋友",
+      "traditional": "交朋友",
+      "pinyin": "jiāopéngyǒu",
+      "zhuyin": "ㄐㄧㄠ ㄆㄥˊ ㄧㄡˇ",
+      "noTones": "jiao peng you",
+      "english": "to make friends"
+    }
+  ] 
   }
 ]
