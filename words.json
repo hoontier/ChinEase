@@ -6945,8 +6945,8 @@
       "english": "in fact; in reality; actually"
     },
     {
-      "simplified": "丢三落四",
-      "traditional": "丟三落四",
+      "simplified": "第三拉四",
+      "traditional": "丟三拉四",
       "pinyin": "diūsānlàsì",
       "zhuyin": "ㄉㄧㄡ ㄙㄢ ㄌㄚˋ ㄙˋ",
       "noTones": "diu san la si",
@@ -6968,6 +6968,144 @@
       "noTones": "jiao peng you",
       "english": "to make friends"
     }
-  ] 
+  ],
+  "Taiwan Class A 1": [
+    {
+      "simplified": "走",
+      "traditional": "走",
+      "pinyin": "zǒu",
+      "zhuyin": "ㄗㄡˇ",
+      "noTones": "zou",
+      "english": "to walk; to go"
+    },
+    {
+      "simplified": "路人",
+      "traditional": "路人",
+      "pinyin": "lùrén",
+      "zhuyin": "ㄌㄨˋ ㄖㄣˊ",
+      "noTones": "lu ren",
+      "english": "passerby"
+    },
+    {
+      "simplified": "帮忙",
+      "traditional": "幫忙",
+      "pinyin": "bāngmáng",
+      "zhuyin": "ㄅㄤ ㄇㄤˊ",
+      "noTones": "bang mang",
+      "english": "to help"
+    },
+    {
+      "simplified": "迷路",
+      "traditional": "迷路",
+      "pinyin": "mílù",
+      "zhuyin": "ㄇㄧˊ ㄌㄨˋ",
+      "noTones": "mi lu",
+      "english": "to lose one's way"
+    },
+    {
+      "simplified": "下",
+      "traditional": "下",
+      "pinyin": "xià",
+      "zhuyin": "ㄒㄧㄚˋ",
+      "noTones": "xia",
+      "english": "down; below"
+    },
+    {
+      "simplified": "路口",
+      "traditional": "路口",
+      "pinyin": "lùkǒu",
+      "zhuyin": "ㄌㄨˋ ㄎㄡˇ",
+      "noTones": "lu kou",
+      "english": "intersection"
+    },
+    {
+      "simplified": "段",
+      "traditional": "段",
+      "pinyin": "duàn",
+      "zhuyin": "ㄉㄨㄢˋ",
+      "noTones": "duan",
+      "english": "section; paragraph"
+    },
+    {
+      "simplified": "过",
+      "traditional": "過",
+      "pinyin": "guò",
+      "zhuyin": "ㄍㄨㄛˋ",
+      "noTones": "guo",
+      "english": "to pass"
+    },
+    {
+      "simplified": "第",
+      "traditional": "第",
+      "pinyin": "dì",
+      "zhuyin": "ㄉㄧˋ",
+      "noTones": "di",
+      "english": "prefix for ordinal numbers"
+    },
+    {
+      "simplified": "红绿灯",
+      "traditional": "紅綠燈",
+      "pinyin": "hónglǜdēng",
+      "zhuyin": "ㄏㄨㄥˊ ㄌㄩˋ ㄉㄥ",
+      "noTones": "hong lu deng",
+      "english": "traffic light"
+    },
+    {
+      "simplified": "告诉",
+      "traditional": "告訴",
+      "pinyin": "gàosu",
+      "zhuyin": "ㄍㄠˋ ㄙㄨ",
+      "noTones": "gao su",
+      "english": "to tell"
+    },
+    {
+      "simplified": "提款机",
+      "traditional": "提款機",
+      "pinyin": "tíkuǎnjī",
+      "zhuyin": "ㄊㄧˊ ㄎㄨㄢˇ ㄐㄧ",
+      "noTones": "ti kuan ji",
+      "english": "ATM"
+    },
+    {
+      "simplified": "超商",
+      "traditional": "超商",
+      "pinyin": "chāoshāng",
+      "zhuyin": "ㄔㄠ ㄕㄤ",
+      "noTones": "chao shang",
+      "english": "convenience store"
+    },
+    {
+      "simplified": "应该",
+      "traditional": "應該",
+      "pinyin": "yīnggāi",
+      "zhuyin": "ㄧㄥ ㄍㄞ",
+      "noTones": "ying gai",
+      "english": "should"
+    },
+    {
+      "simplified": "邮局",
+      "traditional": "郵局",
+      "pinyin": "yóujú",
+      "zhuyin": "ㄧㄡˊ ㄐㄩˊ",
+      "noTones": "you ju",
+      "english": "post office"
+    },
+    {
+      "simplified": "提",
+      "traditional": "提",
+      "pinyin": "tí",
+      "zhuyin": "ㄊㄧˊ",
+      "noTones": "ti",
+      "english": "to carry"
+    },
+    {
+      "simplified": "那边",
+      "traditional": "那邊",
+      "pinyin": "nàbiān",
+      "zhuyin": "ㄋㄚˋ ㄅㄧㄢ",
+      "noTones": "na bian",
+      "english": "over there"
+    }
+  ]
   }
 ]

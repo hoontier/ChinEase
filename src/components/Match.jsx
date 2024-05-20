@@ -2,6 +2,11 @@
 import React, { useState, useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 
+// TODO: unclick
+// This shits absurdly long
+// Some of them are reclicked or unclicked. 
+// Cards reshuffle on soft refresh, 
+
 export default function Match() {
     const words = useSelector(state => state.vocab.activeCards);
     const [cards, setCards] = useState([]);
