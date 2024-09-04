@@ -7106,6 +7106,347 @@
       "noTones": "na bian",
       "english": "over there"
     }
+  ],
+  "ATC Lesson 1 Vocab 1": [
+    {
+      "pinyin": "gāng",
+      "noTones": "gang",
+      "english": "just",
+      "traditional": "剛",
+      "simplified": "刚",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "Běijīng",
+      "noTones": "Beijing",
+      "english": "Beijing, capital of China",
+      "traditional": "北京",
+      "simplified": "北京",
+      "pos": "n."
+    },
+    {
+      "pinyin": "zhí fēi",
+      "noTones": "zhifei",
+      "english": "fly directly",
+      "traditional": "直飛",
+      "simplified": "直飞",
+      "pos": "v."
+    },
+    {
+      "pinyin": "jù",
+      "noTones": "ju",
+      "english": "according to; on the grounds of",
+      "traditional": "據",
+      "simplified": "据",
+      "pos": "prep."
+    },
+    {
+      "pinyin": "Dōngjīng",
+      "noTones": "Dongjing",
+      "english": "Tokyo, Japan",
+      "traditional": "東京",
+      "simplified": "东京",
+      "pos": "n."
+    },
+    {
+      "pinyin": "zhuǎn jī",
+      "noTones": "zhuanji",
+      "english": "change flights",
+      "traditional": "轉機",
+      "simplified": "转机",
+      "pos": "v."
+    },
+    {
+      "pinyin": "zài",
+      "noTones": "zai",
+      "english": "then (indicates that an action occurs after the previous one is concluded)",
+      "traditional": "再",
+      "simplified": "再",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "yílù shàng",
+      "noTones": "yilu shang",
+      "english": "on one's way (to a place)",
+      "traditional": "一路上",
+      "simplified": "一路上",
+      "pos": "phr."
+    },
+    {
+      "pinyin": "shùnlì",
+      "noTones": "shunli",
+      "english": "smooth; successful; without a hitch",
+      "traditional": "順利",
+      "simplified": "顺利",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "děng",
+      "noTones": "deng",
+      "english": "wait",
+      "traditional": "等",
+      "simplified": "等",
+      "pos": "v."
+    },
+    {
+      "pinyin": "jīchǎng",
+      "noTones": "jichang",
+      "english": "airport",
+      "traditional": "機場",
+      "simplified": "机场",
+      "pos": "n."
+    },
+    {
+      "pinyin": "hái",
+      "noTones": "hai",
+      "english": "even more",
+      "traditional": "還",
+      "simplified": "还",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "xiǎo shíhòu",
+      "noTones": "xiao shihou",
+      "english": "when one was little; when one was a kid",
+      "traditional": "小時候",
+      "simplified": "小时候",
+      "pos": "phr."
+    },
+    {
+      "pinyin": "Shànghǎi",
+      "noTones": "Shanghai",
+      "english": "Shanghai, China",
+      "traditional": "上海",
+      "simplified": "上海",
+      "pos": "n."
+    },
+    {
+      "pinyin": "tán",
+      "noTones": "tan",
+      "english": "talk; negotiate",
+      "traditional": "談",
+      "simplified": "谈",
+      "pos": "v."
+    },
+    {
+      "pinyin": "shēngyì",
+      "noTones": "shengyi",
+      "english": "business",
+      "traditional": "生意",
+      "simplified": "生意",
+      "pos": "n."
+    },
+    {
+      "pinyin": "gēn",
+      "noTones": "gen",
+      "english": "follow",
+      "traditional": "跟",
+      "simplified": "跟",
+      "pos": "v."
+    },
+    {
+      "pinyin": "tàng",
+      "noTones": "tang",
+      "english": "measure word for trip",
+      "traditional": "趟",
+      "simplified": "趟",
+      "pos": "AN."
+    },
+    {
+      "pinyin": "yìnxiàng",
+      "noTones": "yinxiang",
+      "english": "impression",
+      "traditional": "印象",
+      "simplified": "印象",
+      "pos": "n."
+    },
+    {
+      "pinyin": "shēnkè",
+      "noTones": "shenke",
+      "english": "deep; profound",
+      "traditional": "深刻",
+      "simplified": "深刻",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "nánwàng",
+      "noTones": "nanwang",
+      "english": "memorable; difficult to forget",
+      "traditional": "難忘",
+      "simplified": "难忘",
+      "pos": "adj."
+    }
+  ],
+
+"ATC Lesson 1 Vocab 2": [
+    {
+      "pinyin": "cānguān",
+      "noTones": "canguan",
+      "english": "visit (a place, such as a tourist spot)",
+      "traditional": "參觀",
+      "simplified": "参观",
+      "pos": "v."
+    },
+    {
+      "pinyin": "Chángchéng",
+      "noTones": "Changcheng",
+      "english": "the Great Wall",
+      "traditional": "長城",
+      "simplified": "长城",
+      "pos": "n."
+    },
+    {
+      "pinyin": "Gùgōng",
+      "noTones": "Gugong",
+      "english": "the Imperial Palace",
+      "traditional": "故宮",
+      "simplified": "故宫",
+      "pos": "n."
+    },
+    {
+      "pinyin": "gǔlǎo",
+      "noTones": "gulao",
+      "english": "ancient; old",
+      "traditional": "古老",
+      "simplified": "古老",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "jiànzhù",
+      "noTones": "jianzhu",
+      "english": "building; structure; architecture",
+      "traditional": "建築",
+      "simplified": "建筑",
+      "pos": "n."
+    },
+    {
+      "pinyin": "dǒng",
+      "noTones": "dong",
+      "english": "understand",
+      "traditional": "懂",
+      "simplified": "懂",
+      "pos": "v."
+    },
+    {
+      "pinyin": "qiān",
+      "noTones": "qian",
+      "english": "thousand",
+      "traditional": "千",
+      "simplified": "千",
+      "pos": "n."
+    },
+    {
+      "pinyin": "wéi",
+      "noTones": "wei",
+      "english": "surround",
+      "traditional": "圍",
+      "simplified": "围",
+      "pos": "v."
+    },
+    {
+      "pinyin": "qiáng",
+      "noTones": "qiang",
+      "english": "wall",
+      "traditional": "牆",
+      "simplified": "墙",
+      "pos": "n."
+    },
+    {
+      "pinyin": "chéngqiáng",
+      "noTones": "chengqiang",
+      "english": "city wall",
+      "traditional": "城牆",
+      "simplified": "城墙",
+      "pos": "n."
+    },
+    {
+      "pinyin": "huángdì",
+      "noTones": "huangdi",
+      "english": "emperor",
+      "traditional": "皇帝",
+      "simplified": "皇帝",
+      "pos": "n."
+    },
+    {
+      "pinyin": "jìngrán",
+      "noTones": "jingran",
+      "english": "unexpectedly; to one's surprise",
+      "traditional": "竟然",
+      "simplified": "竟然",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "zhù",
+      "noTones": "zhu",
+      "english": "live in; reside",
+      "traditional": "住",
+      "simplified": "住",
+      "pos": "v."
+    },
+    {
+      "pinyin": "fángzi",
+      "noTones": "fangzi",
+      "english": "house",
+      "traditional": "房子",
+      "simplified": "房子",
+      "pos": "n."
+    },
+    {
+      "pinyin": "shūfú",
+      "noTones": "shufu",
+      "english": "comfortable",
+      "traditional": "舒服",
+      "simplified": "舒服",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "gǔdài",
+      "noTones": "gudai",
+      "english": "ancient times",
+      "traditional": "古代",
+      "simplified": "古代",
+      "pos": "n."
+    },
+    {
+      "pinyin": "xiàndài",
+      "noTones": "xiandai",
+      "english": "modern times",
+      "traditional": "現代",
+      "simplified": "现代",
+      "pos": "n."
+    },
+    {
+      "pinyin": "ò",
+      "noTones": "o",
+      "english": "Oh! (expressing sudden realization)",
+      "traditional": "噢",
+      "simplified": "噢",
+      "pos": "int."
+    },
+    {
+      "pinyin": "jìhuà",
+      "noTones": "jihua",
+      "english": "plan to; plan",
+      "traditional": "計畫",
+      "simplified": "计划",
+      "pos": "v./n."
+    },
+    {
+      "pinyin": "xuéxí",
+      "noTones": "xuexi",
+      "english": "learn; study",
+      "traditional": "學習",
+      "simplified": "学习",
+      "pos": "v."
+    },
+    {
+      "pinyin": "tǐyàn",
+      "noTones": "tiyan",
+      "english": "learn through one's personal experience; experience (life)",
+      "traditional": "體驗",
+      "simplified": "体验",
+      "pos": "v."
+    }
   ]
   }
 ]
