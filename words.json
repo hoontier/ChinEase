@@ -7447,6 +7447,298 @@
       "simplified": "体验",
       "pos": "v."
     }
+  ],
+  "ATC Lesson 1 Vocab 3": [
+    {
+      "pinyin": "shēnghuó",
+      "noTones": "shenghuo",
+      "english": "life; livelihood",
+      "traditional": "生活",
+      "simplified": "生活",
+      "pos": "n."
+    },
+    {
+      "pinyin": "fùmǔ",
+      "noTones": "fumu",
+      "english": "parent",
+      "traditional": "父母",
+      "simplified": "父母",
+      "pos": "n."
+    },
+    {
+      "pinyin": "lǚguǎn",
+      "noTones": "lvguan",
+      "english": "hotel",
+      "traditional": "旅館",
+      "simplified": "旅馆",
+      "pos": "n."
+    },
+    {
+      "pinyin": "wánquán",
+      "noTones": "wanquan",
+      "english": "completely",
+      "traditional": "完全",
+      "simplified": "完全",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "jīhuì",
+      "noTones": "jihui",
+      "english": "opportunity; chance",
+      "traditional": "機會",
+      "simplified": "机会",
+      "pos": "n."
+    },
+    {
+      "pinyin": "dǎ jiāodào",
+      "noTones": "da jiaodao",
+      "english": "make contact with",
+      "traditional": "打交道",
+      "simplified": "打交道",
+      "pos": "v.-o."
+    },
+    {
+      "pinyin": "guānguāngkè",
+      "noTones": "guanguangke",
+      "english": "tourist",
+      "traditional": "觀光客",
+      "simplified": "观光客",
+      "pos": "n."
+    },
+    {
+      "pinyin": "shì",
+      "noTones": "shi",
+      "english": "suffix: type; style",
+      "traditional": "式",
+      "simplified": "式",
+      "pos": "suffix"
+    },
+    {
+      "pinyin": "lǚyóu",
+      "noTones": "lvyou",
+      "english": "tourism; tour",
+      "traditional": "旅遊",
+      "simplified": "旅游",
+      "pos": "n./v."
+    },
+    {
+      "pinyin": "liǎojiě",
+      "noTones": "liaojie",
+      "english": "understand; comprehend, understanding",
+      "traditional": "了解",
+      "simplified": "了解",
+      "pos": "v./n."
+    },
+    {
+      "pinyin": "fūqiǎn",
+      "noTones": "fuqian",
+      "english": "(of one's understanding of a subject or issue) superficial; shallow",
+      "traditional": "膚淺",
+      "simplified": "肤浅",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "jìnlìang",
+      "noTones": "jinliang",
+      "english": "to the fullest (amount, degree, etc.)",
+      "traditional": "盡量",
+      "simplified": "尽量",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "huà",
+      "noTones": "hua",
+      "english": "suffix: -ize; -ify",
+      "traditional": "化",
+      "simplified": "化",
+      "pos": "suffix"
+    },
+    {
+      "pinyin": "Zhōngguóhuà",
+      "noTones": "Zhongguohua",
+      "english": "'sinicize'; become Chinese; be like a Chinese person",
+      "traditional": "中國化",
+      "simplified": "中国化",
+      "pos": "v."
+    },
+    {
+      "pinyin": "tóngyàng",
+      "noTones": "tongyang",
+      "english": "same",
+      "traditional": "同樣",
+      "simplified": "同样",
+      "pos": "adj."
+    }
+  ],
+  "ATC Lesson 1 Vocab 4": [
+    {
+      "pinyin": "zǒng",
+      "noTones": "zong",
+      "english": "always; invariably",
+      "traditional": "總",
+      "simplified": "总",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "chūzhōng",
+      "noTones": "chuzhong",
+      "english": "junior high school",
+      "traditional": "初中",
+      "simplified": "初中",
+      "pos": "n."
+    },
+    {
+      "pinyin": "yěwài",
+      "noTones": "yewai",
+      "english": "outdoor education; wildness",
+      "traditional": "野外",
+      "simplified": "野外",
+      "pos": "n."
+    },
+    {
+      "pinyin": "qiúshēng",
+      "noTones": "qiusheng",
+      "english": "seek to survive",
+      "traditional": "求生",
+      "simplified": "求生",
+      "pos": "v."
+    },
+    {
+      "pinyin": "chàbuduō",
+      "noTones": "chabuduo",
+      "english": "about the same; similar",
+      "traditional": "差不多",
+      "simplified": "差不多",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "jīngcǎi",
+      "noTones": "jingcai",
+      "english": "exciting",
+      "traditional": "精彩",
+      "simplified": "精彩",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "hǎowánr",
+      "noTones": "haowanr",
+      "english": "fun; amusing; interesting",
+      "traditional": "好玩兒",
+      "simplified": "好玩儿",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "qíshí",
+      "noTones": "qishi",
+      "english": "actually; in fact",
+      "traditional": "其實",
+      "simplified": "其实",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "zhǐyào",
+      "noTones": "zhiyao",
+      "english": "so long as",
+      "traditional": "只要",
+      "simplified": "只要",
+      "pos": "conj."
+    },
+    {
+      "pinyin": "shèshì",
+      "noTones": "sheshi",
+      "english": "Celsius",
+      "traditional": "攝氏",
+      "simplified": "摄氏",
+      "pos": "n."
+    },
+    {
+      "pinyin": "huáshì",
+      "noTones": "huashi",
+      "english": "Fahrenheit",
+      "traditional": "華氏",
+      "simplified": "华氏",
+      "pos": "n."
+    },
+    {
+      "pinyin": "dù",
+      "noTones": "du",
+      "english": "degree (for temperature)",
+      "traditional": "度",
+      "simplified": "度",
+      "pos": "n."
+    },
+    {
+      "pinyin": "tiānqì",
+      "noTones": "tianqi",
+      "english": "weather",
+      "traditional": "天氣",
+      "simplified": "天气",
+      "pos": "n."
+    },
+    {
+      "pinyin": "kòngtiáo",
+      "noTones": "kongtiao",
+      "english": "air conditioning; air conditioner",
+      "traditional": "空調",
+      "simplified": "空调",
+      "pos": "n."
+    },
+    {
+      "pinyin": "wéimiǎn",
+      "noTones": "weimian",
+      "english": "rather; a bit too",
+      "traditional": "未免",
+      "simplified": "未免",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "jīn bùqǐ",
+      "noTones": "jin buqi",
+      "english": "unable to stand (a test, trial, etc.)",
+      "traditional": "禁不起",
+      "simplified": "禁不起",
+      "pos": "v.-c."
+    },
+    {
+      "pinyin": "kǎoyàn",
+      "noTones": "kaoyan",
+      "english": "test; trial",
+      "traditional": "考驗",
+      "simplified": "考验",
+      "pos": "n."
+    },
+    {
+      "pinyin": "zhōumò",
+      "noTones": "zhoumo",
+      "english": "weekend",
+      "traditional": "週末",
+      "simplified": "周末",
+      "pos": "n."
+    },
+    {
+      "pinyin": "dǎsuàn",
+      "noTones": "dasuan",
+      "english": "plan to; intend to",
+      "traditional": "打算",
+      "simplified": "打算",
+      "pos": "v."
+    },
+    {
+      "pinyin": "yìngwò",
+      "noTones": "yingwo",
+      "english": "'hard sleeper' (in trains)",
+      "traditional": "硬臥",
+      "simplified": "硬卧",
+      "pos": "n."
+    },
+    {
+      "pinyin": "Xī'ān",
+      "noTones": "Xian",
+      "english": "Xi'an, China",
+      "traditional": "西安",
+      "simplified": "西安",
+      "pos": "n."
+    }
   ]
   }
 ]
