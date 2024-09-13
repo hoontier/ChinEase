@@ -7723,6 +7723,112 @@
         "simplified": "西安",
         "pos": "n."
       }
-    ]
+    ],
+    "ATC Lesson 3 Vocab 1": [
+    {
+      "pinyin": "chēhuò",
+      "noTones": "chehuo",
+      "english": "car accident",
+      "traditional": "車禍",
+      "simplified": "车祸",
+      "pos": "n."
+    },
+    {
+      "pinyin": "chū chēhuò",
+      "noTones": "chu chehuo",
+      "english": "get into a car accident",
+      "traditional": "出車禍",
+      "simplified": "出车祸",
+      "pos": "v.-o."
+    },
+    {
+      "pinyin": "shòushāng",
+      "noTones": "shoushang",
+      "english": "be injured",
+      "traditional": "受傷",
+      "simplified": "受伤",
+      "pos": "v.-o."
+    },
+    {
+      "pinyin": "yánzhòng",
+      "noTones": "yanzhong",
+      "english": "(of a state or problem) serious",
+      "traditional": "嚴重",
+      "simplified": "严重",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "yīyuàn",
+      "noTones": "yiyuan",
+      "english": "hospital",
+      "traditional": "醫院",
+      "simplified": "医院",
+      "pos": "n."
+    },
+    {
+      "pinyin": "bìngfáng",
+      "noTones": "bingfang",
+      "english": "'sickroom', ward (of a hospital)",
+      "traditional": "病房",
+      "simplified": "病房",
+      "pos": "n."
+    },
+    {
+      "pinyin": "zhù yuàn",
+      "noTones": "zhu yuan",
+      "english": "be hospitalized",
+      "traditional": "住院",
+      "simplified": "住院",
+      "pos": "v.-o."
+    },
+    {
+      "pinyin": "qīng",
+      "noTones": "qing",
+      "english": "slight; not serious; light",
+      "traditional": "輕",
+      "simplified": "轻",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "tuǐ",
+      "noTones": "tui",
+      "english": "leg",
+      "traditional": "腿",
+      "simplified": "腿",
+      "pos": "n."
+    },
+    {
+      "pinyin": "gǔtou",
+      "noTones": "gutou",
+      "english": "bone",
+      "traditional": "骨頭",
+      "simplified": "骨头",
+      "pos": "n."
+    },
+    {
+      "pinyin": "gěi",
+      "noTones": "gei",
+      "english": "(here) passive marker, same as 被",
+      "traditional": "給",
+      "simplified": "给",
+      "pos": "prep."
+    },
+    {
+      "pinyin": "zhuàng",
+      "noTones": "zhuang",
+      "english": "hit (by a car); collide; bump against",
+      "traditional": "撞",
+      "simplified": "撞",
+      "pos": "v."
+    },
+    {
+      "pinyin": "shé",
+      "noTones": "she",
+      "english": "break; become broken",
+      "traditional": "折",
+      "simplified": "折",
+      "pos": "v."
+    }
+  ]
   }
 ]
