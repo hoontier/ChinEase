@@ -7829,6 +7829,104 @@
       "simplified": "折",
       "pos": "v."
     }
-  ]
+  ],
+    "ATC Lesson 3 Vocab 2": [
+      {
+        "pinyin": "lǜdēng",
+        "noTones": "lvdeng",
+        "english": "green light",
+        "traditional": "綠燈",
+        "simplified": "绿灯",
+        "pos": "n."
+      },
+      {
+        "pinyin": "guò",
+        "noTones": "guo",
+        "english": "cross; pass",
+        "traditional": "過",
+        "simplified": "过",
+        "pos": "v."
+      },
+      {
+        "pinyin": "yòuzhuǎn",
+        "noTones": "youzhuan",
+        "english": "make a right turn; turn to the right",
+        "traditional": "右轉",
+        "simplified": "右转",
+        "pos": "v."
+      },
+      {
+        "pinyin": "hǎozài",
+        "noTones": "haozai",
+        "english": "luckily; fortunately",
+        "traditional": "好在",
+        "simplified": "好在",
+        "pos": "adv."
+      },
+      {
+        "pinyin": "yàobùrán",
+        "noTones": "yaoburan",
+        "english": "otherwise; or else",
+        "traditional": "要不然",
+        "simplified": "要不然",
+        "pos": "conj."
+      },
+      {
+        "pinyin": "dàgài",
+        "noTones": "dagai",
+        "english": "probably",
+        "traditional": "大概",
+        "simplified": "大概",
+        "pos": "adv."
+      },
+      {
+        "pinyin": "mìng",
+        "noTones": "ming",
+        "english": "one's life",
+        "traditional": "命",
+        "simplified": "命",
+        "pos": "n."
+      },
+      {
+        "pinyin": "jǐngchá",
+        "noTones": "jingcha",
+        "english": "police; policeman",
+        "traditional": "警察",
+        "simplified": "警察",
+        "pos": "n."
+      },
+      {
+        "pinyin": "tǐng",
+        "noTones": "ting",
+        "english": "quite",
+        "traditional": "挺",
+        "simplified": "挺",
+        "pos": "adv."
+      },
+      {
+        "pinyin": "jiùhùchē",
+        "noTones": "jiuhuche",
+        "english": "ambulance",
+        "traditional": "救護車",
+        "simplified": "救护车",
+        "pos": "n."
+      },
+      {
+        "pinyin": "ràng",
+        "noTones": "rang",
+        "english": "yield; allow",
+        "traditional": "讓",
+        "simplified": "让",
+        "pos": "v."
+      },
+      {
+        "pinyin": "xíngrén",
+        "noTones": "xingren",
+        "english": "pedestrian",
+        "traditional": "行人",
+        "simplified": "行人",
+        "pos": "n."
+      }
+    ]  
   }
 ]
