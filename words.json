@@ -7927,6 +7927,105 @@
         "simplified": "行人",
         "pos": "n."
       }
-    ]  
-  }
-]
+    ],
+    "ATC Lesson 3 Vocab 3": [
+    {
+      "pinyin": "sījī",
+      "noTones": "siji",
+      "english": "driver",
+      "traditional": "司機",
+      "simplified": "司机",
+      "pos": "n."
+    },
+    {
+      "pinyin": "bǎoxiǎn",
+      "noTones": "baoxian",
+      "english": "insurance",
+      "traditional": "保險",
+      "simplified": "保险",
+      "pos": "n."
+    },
+    {
+      "pinyin": "fùzé",
+      "noTones": "fuze",
+      "english": "be responsible for; be in charge of",
+      "traditional": "負責",
+      "simplified": "负责",
+      "pos": "v."
+    },
+    {
+      "pinyin": "yīliáo",
+      "noTones": "yiliao",
+      "english": "medical treatment",
+      "traditional": "醫療",
+      "simplified": "医疗",
+      "pos": "n."
+    },
+    {
+      "pinyin": "fèiyòng",
+      "noTones": "feiyong",
+      "english": "expense; cost",
+      "traditional": "費用",
+      "simplified": "费用",
+      "pos": "n."
+    },
+    {
+      "pinyin": "gètǐ",
+      "noTones": "geti",
+      "english": "individual",
+      "traditional": "個體",
+      "simplified": "个体",
+      "pos": "n."
+    },
+    {
+      "pinyin": "jùshuō",
+      "noTones": "jushuo",
+      "english": "it is said",
+      "traditional": "據說",
+      "simplified": "据说",
+      "pos": "v."
+    },
+    {
+      "pinyin": "jiāshàng",
+      "noTones": "jiashang",
+      "english": "in addition; moreover",
+      "traditional": "加上",
+      "simplified": "加上",
+      "pos": "v."
+    },
+    {
+      "pinyin": "chūyuàn",
+      "noTones": "chu yuan",
+      "english": "be discharged from the hospital",
+      "traditional": "出院",
+      "simplified": "出院",
+      "pos": "v.-o."
+    },
+    {
+      "pinyin": "gōngsī",
+      "noTones": "gongsi",
+      "english": "company",
+      "traditional": "公司",
+      "simplified": "公司",
+      "pos": "n."
+    },
+    {
+      "pinyin": "lúnyǐ",
+      "noTones": "lunyi",
+      "english": "wheelchair",
+      "traditional": "輪椅",
+      "simplified": "轮椅",
+      "pos": "n."
+    },
+    {
+      "pinyin": "dānxīn",
+      "noTones": "danxin",
+      "english": "worry; feel anxious",
+      "traditional": "擔心",
+      "simplified": "担心",
+      "pos": "v."
+    }
+  ]
+}
+]  
+
