@@ -8025,6 +8025,112 @@
       "simplified": "担心",
       "pos": "v."
     }
+  ],
+  "ATC Lesson 3 Vocab 4": [
+    {
+      "pinyin": "dānwù",
+      "noTones": "danwu",
+      "english": "delay; hold up",
+      "traditional": "耽誤",
+      "simplified": "耽误",
+      "pos": "v."
+    },
+    {
+      "pinyin": "wúsuǒwèi",
+      "noTones": "wusuowei",
+      "english": "doesn't matter",
+      "traditional": "無所謂",
+      "simplified": "无所谓",
+      "pos": "v."
+    },
+    {
+      "pinyin": "yàojǐn",
+      "noTones": "yaojin",
+      "english": "important; urgent",
+      "traditional": "要緊",
+      "simplified": "要紧",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "shèbèi",
+      "noTones": "shebei",
+      "english": "equipment; facilities",
+      "traditional": "設備",
+      "simplified": "设备",
+      "pos": "n."
+    },
+    {
+      "pinyin": "pǔtōng",
+      "noTones": "putong",
+      "english": "common; ordinary",
+      "traditional": "普通",
+      "simplified": "普通",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "jiān",
+      "noTones": "jian",
+      "english": "measure word for rooms",
+      "traditional": "間",
+      "simplified": "间",
+      "pos": "AN"
+    },
+    {
+      "pinyin": "zhàogù",
+      "noTones": "zhaogu",
+      "english": "look after; care for",
+      "traditional": "照顧",
+      "simplified": "照顾",
+      "pos": "v."
+    },
+    {
+      "pinyin": "qítā",
+      "noTones": "qita",
+      "english": "other",
+      "traditional": "其他",
+      "simplified": "其他",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "bùbì",
+      "noTones": "bubi",
+      "english": "need not",
+      "traditional": "不必",
+      "simplified": "不必",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "wéi",
+      "noTones": "wei",
+      "english": "for",
+      "traditional": "為",
+      "simplified": "为",
+      "pos": "prep."
+    },
+    {
+      "pinyin": "zǒulù",
+      "noTones": "zoulu",
+      "english": "walk; go on foot",
+      "traditional": "走路",
+      "simplified": "走路",
+      "pos": "v.-o."
+    },
+    {
+      "pinyin": "qiānwàn",
+      "noTones": "qianwan",
+      "english": "be sure to; must",
+      "traditional": "千萬",
+      "simplified": "千万",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "xiǎoxīn",
+      "noTones": "xiaoxin",
+      "english": "be careful",
+      "traditional": "小心",
+      "simplified": "小心",
+      "pos": "v."
+    }
   ]
 }
 ]  
