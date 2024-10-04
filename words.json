@@ -8131,6 +8131,128 @@
       "simplified": "小心",
       "pos": "v."
     }
+  ],
+  "ATC Lesson 4 Vocab 1": [
+    {
+      "pinyin": "qípáo",
+      "noTones": "qipao",
+      "english": "qipao, ('long gown'), a traditional Chinese costume for women",
+      "traditional": "旗袍",
+      "simplified": "旗袍",
+      "pos": "n."
+    },
+    {
+      "pinyin": "kuàizi",
+      "noTones": "kuaizi",
+      "english": "chopsticks",
+      "traditional": "筷子",
+      "simplified": "筷子",
+      "pos": "n."
+    },
+    {
+      "pinyin": "piàoliang",
+      "noTones": "piaoliang",
+      "english": "pretty",
+      "traditional": "漂亮",
+      "simplified": "漂亮",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "dìngzuò",
+      "noTones": "dingzuo",
+      "english": "have something made to order; tailored",
+      "traditional": "定做",
+      "simplified": "定做",
+      "pos": "v."
+    },
+    {
+      "pinyin": "xiànchéng",
+      "noTones": "xiancheng",
+      "english": "ready-made",
+      "traditional": "現成",
+      "simplified": "现成",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "héshēn",
+      "noTones": "heshen",
+      "english": "(of clothes) fitting",
+      "traditional": "合身",
+      "simplified": "合身",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "Qīng Cháo",
+      "noTones": "Qing Chao",
+      "english": "the Qing Dynasty (1644-1911)",
+      "traditional": "清朝",
+      "simplified": "清朝",
+      "pos": "n."
+    },
+    {
+      "pinyin": "Mínguó",
+      "noTones": "Minguo",
+      "english": "the Republic of China (1912-present)",
+      "traditional": "民國",
+      "simplified": "民国",
+      "pos": "n."
+    },
+    {
+      "pinyin": "xíngdòng",
+      "noTones": "xingdong",
+      "english": "movement; action",
+      "traditional": "行動",
+      "simplified": "行动",
+      "pos": "n."
+    },
+    {
+      "pinyin": "Yìndù rén",
+      "noTones": "Yindu ren",
+      "english": "Indian",
+      "traditional": "印度人",
+      "simplified": "印度人",
+      "pos": "n."
+    },
+    {
+      "pinyin": "yībān",
+      "noTones": "yiban",
+      "english": "generally; commonly",
+      "traditional": "一般",
+      "simplified": "一般",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "fúzhuāng",
+      "noTones": "fuzhuang",
+      "english": "clothing; costume",
+      "traditional": "服裝",
+      "simplified": "服装",
+      "pos": "n."
+    },
+    {
+      "pinyin": "chuānzhuó",
+      "noTones": "chuanzhuo",
+      "english": "attire; clothing",
+      "traditional": "穿著",
+      "simplified": "穿着",
+      "pos": "n."
+    },
+    {
+      "pinyin": "hǎoxiàng",
+      "noTones": "haoxiang",
+      "english": "seems like; looks like",
+      "traditional": "好像",
+      "simplified": "好像",
+      "pos": "v."
+    },
+    {
+      "pinyin": "jiānchí",
+      "noTones": "jianchi",
+      "english": "persist; insist",
+      "traditional": "堅持",
+      "simplified": "坚持",
+      "pos": "v."
+    }
   ]
 }
 ]  
