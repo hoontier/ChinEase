@@ -8253,6 +8253,468 @@
       "simplified": "坚持",
       "pos": "v."
     }
+  ],
+  "ATC Lesson 4 Vocab 2": [
+    {
+      "pinyin": "chuántǒng",
+      "noTones": "chuantong",
+      "english": "tradition",
+      "traditional": "傳統",
+      "simplified": "传统",
+      "pos": "n."
+    },
+    {
+      "pinyin": "shíyòng",
+      "noTones": "shiyong",
+      "english": "practical; pragmatic; functional",
+      "traditional": "實用",
+      "simplified": "实用",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "zhíde",
+      "noTones": "zhide",
+      "english": "deserve; be worth",
+      "traditional": "值得",
+      "simplified": "值得",
+      "pos": "v."
+    },
+    {
+      "pinyin": "jiēshòu",
+      "noTones": "jieshou",
+      "english": "accept; receive (influence, etc.)",
+      "traditional": "接受",
+      "simplified": "接受",
+      "pos": "v."
+    },
+    {
+      "pinyin": "Xīfāng",
+      "noTones": "Xifang",
+      "english": "the West",
+      "traditional": "西方",
+      "simplified": "西方",
+      "pos": "n."
+    },
+    {
+      "pinyin": "yǐngxiǎng",
+      "noTones": "yingxiang",
+      "english": "influence",
+      "traditional": "影響",
+      "simplified": "影响",
+      "pos": "n."
+    },
+    {
+      "pinyin": "yǐnshí",
+      "noTones": "yinshi",
+      "english": "food and drink; diet",
+      "traditional": "飲食",
+      "simplified": "饮食",
+      "pos": "n."
+    },
+    {
+      "pinyin": "bǎoshǒu",
+      "noTones": "baoshou",
+      "english": "conservative",
+      "traditional": "保守",
+      "simplified": "保守",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "yībānláishuō",
+      "noTones": "yibanlaishuo",
+      "english": "generally speaking",
+      "traditional": "一般來說",
+      "simplified": "一般来说",
+      "pos": "phr."
+    },
+    {
+      "pinyin": "dāochā",
+      "noTones": "daocha",
+      "english": "knife and fork",
+      "traditional": "刀叉",
+      "simplified": "刀叉",
+      "pos": "n."
+    },
+    {
+      "pinyin": "wéichí",
+      "noTones": "weichi",
+      "english": "keep; maintain; preserve",
+      "traditional": "維持",
+      "simplified": "维持",
+      "pos": "v."
+    },
+    {
+      "pinyin": "jiǎndān",
+      "noTones": "jiandan",
+      "english": "simple; uncomplicated",
+      "traditional": "簡單",
+      "simplified": "简单",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "lǐyóu",
+      "noTones": "liyou",
+      "english": "reason; grounds; justification",
+      "traditional": "理由",
+      "simplified": "理由",
+      "pos": "n."
+    },
+    {
+      "pinyin": "táotài",
+      "noTones": "taotai",
+      "english": "eliminate through selection or competition",
+      "traditional": "淘汰",
+      "simplified": "淘汰",
+      "pos": "v."
+    },
+    {
+      "pinyin": "rènwéi",
+      "noTones": "renwei",
+      "english": "think that; believe that",
+      "traditional": "認為",
+      "simplified": "认为",
+      "pos": "v."
+    },
+    {
+      "pinyin": "wénhuà",
+      "noTones": "wenhua",
+      "english": "culture",
+      "traditional": "文化",
+      "simplified": "文化",
+      "pos": "n."
+    },
+    {
+      "pinyin": "jiāoliú",
+      "noTones": "jiaoliu",
+      "english": "exchange (each other's experiences, views, etc.)",
+      "traditional": "交流",
+      "simplified": "交流",
+      "pos": "v."
+    },
+    {
+      "pinyin": "biāozhǔn",
+      "noTones": "biaozhun",
+      "english": "standard; criterion",
+      "traditional": "標準",
+      "simplified": "标准",
+      "pos": "n."
+    },
+    {
+      "pinyin": "wèishēng",
+      "noTones": "weisheng",
+      "english": "hygienic; hygiene; sanitation",
+      "traditional": "衛生",
+      "simplified": "卫生",
+      "pos": "adj./n."
+    }
+  ],
+  "ATC Lesson 4 Vocab 3": [
+    {
+      "pinyin": "shēn",
+      "noTones": "shen",
+      "english": "extend; stretch",
+      "traditional": "伸",
+      "simplified": "伸",
+      "pos": "v."
+    },
+    {
+      "pinyin": "pánzi",
+      "noTones": "panzi",
+      "english": "plate; tray",
+      "traditional": "盤子",
+      "simplified": "盘子",
+      "pos": "n."
+    },
+    {
+      "pinyin": "jiā",
+      "noTones": "jia",
+      "english": "press from both sides; pick up (with chopsticks)",
+      "traditional": "夾",
+      "simplified": "夹",
+      "pos": "v."
+    },
+    {
+      "pinyin": "gǎnmào",
+      "noTones": "ganmao",
+      "english": "catch a cold",
+      "traditional": "感冒",
+      "simplified": "感冒",
+      "pos": "v."
+    },
+    {
+      "pinyin": "róngyì",
+      "noTones": "rongyi",
+      "english": "easy; easily",
+      "traditional": "容易",
+      "simplified": "容易",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "chuánrǎn",
+      "noTones": "chuanran",
+      "english": "spread (a disease); infect",
+      "traditional": "傳染",
+      "simplified": "传染",
+      "pos": "v."
+    },
+    {
+      "pinyin": "tóngyì",
+      "noTones": "tongyi",
+      "english": "agree",
+      "traditional": "同意",
+      "simplified": "同意",
+      "pos": "v."
+    },
+    {
+      "pinyin": "yóuqí",
+      "noTones": "youqi",
+      "english": "especially",
+      "traditional": "尤其",
+      "simplified": "尤其",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "hē",
+      "noTones": "he",
+      "english": "drink",
+      "traditional": "喝",
+      "simplified": "喝",
+      "pos": "v."
+    },
+    {
+      "pinyin": "tāng",
+      "noTones": "tang",
+      "english": "soup",
+      "traditional": "湯",
+      "simplified": "汤",
+      "pos": "n."
+    },
+    {
+      "pinyin": "sháor",
+      "noTones": "shaor",
+      "english": "spoon",
+      "traditional": "勺兒",
+      "simplified": "勺儿",
+      "pos": "n."
+    },
+    {
+      "pinyin": "wǎn",
+      "noTones": "wan",
+      "english": "bowl",
+      "traditional": "碗",
+      "simplified": "碗",
+      "pos": "n."
+    },
+    {
+      "pinyin": "zuǐ",
+      "noTones": "zui",
+      "english": "mouth",
+      "traditional": "嘴",
+      "simplified": "嘴",
+      "pos": "n."
+    },
+    {
+      "pinyin": "wǎng",
+      "noTones": "wang",
+      "english": "towards; in the direction of",
+      "traditional": "往",
+      "simplified": "往",
+      "pos": "prep."
+    },
+    {
+      "pinyin": "jiǎnzhí",
+      "noTones": "jianzhi",
+      "english": "simply; just",
+      "traditional": "簡直",
+      "simplified": "简直",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "xǐ",
+      "noTones": "xi",
+      "english": "wash",
+      "traditional": "洗",
+      "simplified": "洗",
+      "pos": "v."
+    },
+    {
+      "pinyin": "ěxīn",
+      "noTones": "exin",
+      "english": "disgusting; feel like vomiting",
+      "traditional": "噁心",
+      "simplified": "恶心",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "gāodàng",
+      "noTones": "gaodang",
+      "english": "(of the quality of things) first-rate; high-class",
+      "traditional": "高檔",
+      "simplified": "高档",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "yǎo",
+      "noTones": "yao",
+      "english": "spoon out; scoop up",
+      "traditional": "舀",
+      "simplified": "舀",
+      "pos": "v."
+    }
+  ],
+  "ATC Lesson 4 Vocab 4": [
+    {
+      "pinyin": "gōngkuài",
+      "noTones": "gongkuai",
+      "english": "a pair of chopsticks that is shared by all for the purpose of picking up food from the main platter",
+      "traditional": "公筷",
+      "simplified": "公筷",
+      "pos": "n."
+    },
+    {
+      "pinyin": "gōngsháor",
+      "noTones": "gongshaor",
+      "english": "serving spoon",
+      "traditional": "公勺兒",
+      "simplified": "公勺儿",
+      "pos": "n."
+    },
+    {
+      "pinyin": "zhǐchū",
+      "noTones": "zhichu",
+      "english": "point out",
+      "traditional": "指出",
+      "simplified": "指出",
+      "pos": "v."
+    },
+    {
+      "pinyin": "yǒuqù",
+      "noTones": "youqu",
+      "english": "interesting",
+      "traditional": "有趣",
+      "simplified": "有趣",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "què",
+      "noTones": "que",
+      "english": "but; yet",
+      "traditional": "卻",
+      "simplified": "却",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "shuōmíng",
+      "noTones": "shuoming",
+      "english": "show; illustrate; explain",
+      "traditional": "說明",
+      "simplified": "说明",
+      "pos": "v."
+    },
+    {
+      "pinyin": "xiànxiàng",
+      "noTones": "xianxiang",
+      "english": "phenomenon",
+      "traditional": "現象",
+      "simplified": "现象",
+      "pos": "n."
+    },
+    {
+      "pinyin": "qǔdài",
+      "noTones": "qudai",
+      "english": "replace; supersede",
+      "traditional": "取代",
+      "simplified": "取代",
+      "pos": "v."
+    },
+    {
+      "pinyin": "shòu(dào)",
+      "noTones": "shou(dao)",
+      "english": "be subjected to",
+      "traditional": "受(到)",
+      "simplified": "受(到)",
+      "pos": "v."
+    },
+    {
+      "pinyin": "kāishǐ",
+      "noTones": "kaishi",
+      "english": "begin; start",
+      "traditional": "開始",
+      "simplified": "开始",
+      "pos": "v."
+    },
+    {
+      "pinyin": "biànhuà",
+      "noTones": "bianhua",
+      "english": "change; transformation",
+      "traditional": "變化",
+      "simplified": "变化",
+      "pos": "n."
+    },
+    {
+      "pinyin": "lìzi",
+      "noTones": "lizi",
+      "english": "example; case; instance",
+      "traditional": "例子",
+      "simplified": "例子",
+      "pos": "n."
+    },
+    {
+      "pinyin": "gǎiliáng",
+      "noTones": "gailiang",
+      "english": "improve; reform",
+      "traditional": "改良",
+      "simplified": "改良",
+      "pos": "v./n."
+    },
+    {
+      "pinyin": "zuìjìn",
+      "noTones": "zuijin",
+      "english": "recently",
+      "traditional": "最近",
+      "simplified": "最近",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "dòufu",
+      "noTones": "doufu",
+      "english": "bean curd; tofu",
+      "traditional": "豆腐",
+      "simplified": "豆腐",
+      "pos": "n."
+    },
+    {
+      "pinyin": "chāojí shìchǎng",
+      "noTones": "chaoji shichang",
+      "english": "supermarket",
+      "traditional": "超級市場",
+      "simplified": "超级市场",
+      "pos": "n."
+    },
+    {
+      "pinyin": "rìcháng",
+      "noTones": "richang",
+      "english": "daily; day-to-day",
+      "traditional": "日常",
+      "simplified": "日常",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "shípǐn",
+      "noTones": "shipin",
+      "english": "foodstuff; food",
+      "traditional": "食品",
+      "simplified": "食品",
+      "pos": "n."
+    },
+    {
+      "pinyin": "jiéguǒ",
+      "noTones": "jieguo",
+      "english": "result; outcome; consequence",
+      "traditional": "結果",
+      "simplified": "结果",
+      "pos": "n."
+    }
   ]
 }
 ]  
