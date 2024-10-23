@@ -8715,7 +8715,137 @@
       "simplified": "结果",
       "pos": "n."
     }
-  ]
+  ],
+  "ATC Lesson 7 Vocab 1": [
+    {
+      "pinyin": "qǐgài",
+      "noTones": "qigai",
+      "english": "beggar",
+      "traditional": "乞丐",
+      "simplified": "乞丐",
+      "pos": "n."
+    },
+    {
+      "pinyin": "Xīdān gòuwù zhōngxīn",
+      "noTones": "Xidan gouwu zhongxin",
+      "english": "Xidan Shopping Center",
+      "traditional": "西單購物中心",
+      "simplified": "西单购物中心",
+      "pos": "n."
+    },
+    {
+      "pinyin": "qún",
+      "noTones": "qun",
+      "english": "measure word for groups or flocks",
+      "traditional": "群",
+      "simplified": "群",
+      "pos": "measure word"
+    },
+    {
+      "pinyin": "wéizhù",
+      "noTones": "weizhu",
+      "english": "surround; encircle",
+      "traditional": "圍住",
+      "simplified": "围住",
+      "pos": "v."
+    },
+    {
+      "pinyin": "qízhōng",
+      "noTones": "qizhong",
+      "english": "among (which, them, etc.)",
+      "traditional": "其中",
+      "simplified": "其中",
+      "pos": "n."
+    },
+    {
+      "pinyin": "chězhù",
+      "noTones": "chezhu",
+      "english": "pull and hold tight",
+      "traditional": "扯住",
+      "simplified": "扯住",
+      "pos": "v.-c."
+    },
+    {
+      "pinyin": "qúnzi",
+      "noTones": "qunzi",
+      "english": "skirt",
+      "traditional": "裙子",
+      "simplified": "裙子",
+      "pos": "n."
+    },
+    {
+      "pinyin": "qiáo",
+      "noTones": "qiao",
+      "english": "look at; see",
+      "traditional": "瞧",
+      "simplified": "瞧",
+      "pos": "v."
+    },
+    {
+      "pinyin": "hǎohāor",
+      "noTones": "haohaor",
+      "english": "in perfectly good condition, nicely; well; to one's heart's content",
+      "traditional": "好好兒",
+      "simplified": "好好儿",
+      "pos": "adj., adv."
+    },
+    {
+      "pinyin": "tiáo",
+      "noTones": "tiao",
+      "english": "measure word for long, narrow things",
+      "traditional": "條",
+      "simplified": "条",
+      "pos": "measure word"
+    },
+    {
+      "pinyin": "máo",
+      "noTones": "mao",
+      "english": "ten cents; 1/10 yuan",
+      "traditional": "毛",
+      "simplified": "毛",
+      "pos": "measure word"
+    },
+    {
+      "pinyin": "tóngqíngxīn",
+      "noTones": "tongqingxin",
+      "english": "sympathy; compassion",
+      "traditional": "同情心",
+      "simplified": "同情心",
+      "pos": "n."
+    },
+    {
+      "pinyin": "bùdéyǐ",
+      "noTones": "budeyi",
+      "english": "have no alternative but to; have to",
+      "traditional": "不得已",
+      "simplified": "不得已",
+      "pos": "v."
+    },
+    {
+      "pinyin": "gǔlì",
+      "noTones": "guli",
+      "english": "encourage",
+      "traditional": "鼓勵",
+      "simplified": "鼓励",
+      "pos": "v."
+    },
+    {
+      "pinyin": "bù láo ér huò",
+      "noTones": "bu lao er huo",
+      "english": "reap without sowing; get without any labor",
+      "traditional": "不勞而獲",
+      "simplified": "不劳而获",
+      "pos": "idiom"
+    },
+    {
+      "pinyin": "nòng",
+      "noTones": "nong",
+      "english": "make; do",
+      "traditional": "弄",
+      "simplified": "弄",
+      "pos": "v."
+    }
+]
 }
 ]  
 
