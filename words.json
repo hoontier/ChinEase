@@ -8845,6 +8845,444 @@
       "simplified": "弄",
       "pos": "v."
     }
+],
+"ATC Lesson 7 Vocab 2": [
+    {
+      "pinyin": "gōngpíng",
+      "noTones": "gongping",
+      "english": "fair",
+      "traditional": "公平",
+      "simplified": "公平",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "suǒwèi",
+      "noTones": "suowei",
+      "english": "so-called",
+      "traditional": "所謂",
+      "simplified": "所谓",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "jiějué",
+      "noTones": "jiejue",
+      "english": "solve; resolve",
+      "traditional": "解決",
+      "simplified": "解决",
+      "pos": "v."
+    },
+    {
+      "pinyin": "bùliǎo",
+      "noTones": "buliao",
+      "english": "not able to; cannot be v.-ed",
+      "traditional": "不了",
+      "simplified": "不了",
+      "pos": "v.-c."
+    },
+    {
+      "pinyin": "yǎngchéng",
+      "noTones": "yangcheng",
+      "english": "develop; cultivate; form (habit)",
+      "traditional": "養成",
+      "simplified": "养成",
+      "pos": "v."
+    },
+    {
+      "pinyin": "lǎnduò",
+      "noTones": "landuo",
+      "english": "lazy; indolent",
+      "traditional": "懶惰",
+      "simplified": "懒惰",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "yīkào",
+      "noTones": "yikao",
+      "english": "rely on",
+      "traditional": "依靠",
+      "simplified": "依靠",
+      "pos": "v."
+    },
+    {
+      "pinyin": "xíguàn",
+      "noTones": "xiguan",
+      "english": "habit",
+      "traditional": "習慣",
+      "simplified": "习惯",
+      "pos": "n."
+    },
+    {
+      "pinyin": "fǎn'ér",
+      "noTones": "fan'er",
+      "english": "on the contrary; instead",
+      "traditional": "反而",
+      "simplified": "反而",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "hài",
+      "noTones": "hai",
+      "english": "harm; impair; cause trouble to",
+      "traditional": "害",
+      "simplified": "害",
+      "pos": "v."
+    },
+    {
+      "pinyin": "lǎn",
+      "noTones": "lan",
+      "english": "lazy",
+      "traditional": "懶",
+      "simplified": "懒",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "shèhuì zhìdù",
+      "noTones": "shehui zhidu",
+      "english": "social system",
+      "traditional": "社會制度",
+      "simplified": "社会制度",
+      "pos": "n."
+    },
+    {
+      "pinyin": "hélǐ",
+      "noTones": "heli",
+      "english": "reasonable; equitable",
+      "traditional": "合理",
+      "simplified": "合理",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "pínfù bùjūn",
+      "noTones": "pinfubujun",
+      "english": "large gap between the rich and the poor",
+      "traditional": "貧富不均",
+      "simplified": "贫富不均",
+      "pos": "phr."
+    },
+    {
+      "pinyin": "qióng",
+      "noTones": "qiong",
+      "english": "poor; poverty-stricken",
+      "traditional": "窮",
+      "simplified": "穷",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "guòcuò",
+      "noTones": "guocuo",
+      "english": "fault; mistake",
+      "traditional": "過錯",
+      "simplified": "过错",
+      "pos": "n."
+    },
+    {
+      "pinyin": "gèrén",
+      "noTones": "geren",
+      "english": "individual (person)",
+      "traditional": "個人",
+      "simplified": "个人",
+      "pos": "n."
+    },
+    {
+      "pinyin": "shībài",
+      "noTones": "shibai",
+      "english": "fail; lose",
+      "traditional": "失敗",
+      "simplified": "失败",
+      "pos": "v."
+    },
+    {
+      "pinyin": "zérèn",
+      "noTones": "zeren",
+      "english": "responsibility; duty",
+      "traditional": "責任",
+      "simplified": "责任",
+      "pos": "n."
+    },
+    {
+      "pinyin": "tuī",
+      "noTones": "tui",
+      "english": "shift; push away",
+      "traditional": "推",
+      "simplified": "推",
+      "pos": "v."
+    },
+    {
+      "pinyin": "fù zérèn",
+      "noTones": "fu zeren",
+      "english": "responsible",
+      "traditional": "負責任",
+      "simplified": "负责任",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "tàidu",
+      "noTones": "taidu",
+      "english": "attitude",
+      "traditional": "態度",
+      "simplified": "态度",
+      "pos": "n."
+    },
+    {
+      "pinyin": "rènhé",
+      "noTones": "renhe",
+      "english": "any; whatever",
+      "traditional": "任何",
+      "simplified": "任何",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "miǎnbùliǎo",
+      "noTones": "mianbuliao",
+      "english": "be unavoidable; be bound to be",
+      "traditional": "免不了",
+      "simplified": "免不了",
+      "pos": "v."
+    }
+],
+"ATC Lesson 7 Vocab 3": [
+    {
+      "pinyin": "jìngzhēng",
+      "noTones": "jingzheng",
+      "english": "competition; compete",
+      "traditional": "競爭",
+      "simplified": "竞争",
+      "pos": "n./v."
+    },
+    {
+      "pinyin": "zhě",
+      "noTones": "zhe",
+      "english": "one who ... (suffix)",
+      "traditional": "者",
+      "simplified": "者",
+      "pos": "suffix"
+    },
+    {
+      "pinyin": "biànchéng",
+      "noTones": "biancheng",
+      "english": "turn into; become",
+      "traditional": "變成",
+      "simplified": "变成",
+      "pos": "v."
+    },
+    {
+      "pinyin": "chénggōng",
+      "noTones": "chenggong",
+      "english": "succeed; success",
+      "traditional": "成功",
+      "simplified": "成功",
+      "pos": "v./n."
+    },
+    {
+      "pinyin": "fùdān",
+      "noTones": "fudan",
+      "english": "burden",
+      "traditional": "負擔",
+      "simplified": "负担",
+      "pos": "n."
+    },
+    {
+      "pinyin": "biǎomiànshàng",
+      "noTones": "biaomianshang",
+      "english": "on the surface; in name only",
+      "traditional": "表面上",
+      "simplified": "表面上",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "kànlái",
+      "noTones": "kanlai",
+      "english": "it looks; it appears; 看起来",
+      "traditional": "看來",
+      "simplified": "看来",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "chōngmǎn",
+      "noTones": "chongman",
+      "english": "be full of",
+      "traditional": "充滿",
+      "simplified": "充满",
+      "pos": "v."
+    },
+    {
+      "pinyin": "zuòfǎ",
+      "noTones": "zuofa",
+      "english": "way of doing or making a thing; method",
+      "traditional": "做法",
+      "simplified": "做法",
+      "pos": "n."
+    },
+    {
+      "pinyin": "zǔ'ài",
+      "noTones": "zu'ai",
+      "english": "hinder; block",
+      "traditional": "阻礙",
+      "simplified": "阻碍",
+      "pos": "v."
+    },
+    {
+      "pinyin": "yǒu dàolǐ",
+      "noTones": "you daoli",
+      "english": "makes sense; reasonable",
+      "traditional": "有道理",
+      "simplified": "有道理",
+      "pos": "phr."
+    },
+    {
+      "pinyin": "cóngqián",
+      "noTones": "congqian",
+      "english": "in the past; before",
+      "traditional": "從前",
+      "simplified": "从前",
+      "pos": "n."
+    },
+    {
+      "pinyin": "bàngōngshì",
+      "noTones": "bangongshi",
+      "english": "office",
+      "traditional": "辦公室",
+      "simplified": "办公室",
+      "pos": "n."
+    }
+],
+"ATC Lesson 7 Vocab 4": [
+    {
+      "pinyin": "hē chá",
+      "noTones": "he cha",
+      "english": "drink tea",
+      "traditional": "喝茶",
+      "simplified": "喝茶",
+      "pos": "v.-o."
+    },
+    {
+      "pinyin": "kàn bào",
+      "noTones": "kan bao",
+      "english": "read newspaper",
+      "traditional": "看報",
+      "simplified": "看报",
+      "pos": "v.-o."
+    },
+    {
+      "pinyin": "ná",
+      "noTones": "na",
+      "english": "take; hold",
+      "traditional": "拿",
+      "simplified": "拿",
+      "pos": "v."
+    },
+    {
+      "pinyin": "gōngzī",
+      "noTones": "gongzi",
+      "english": "wages; pay",
+      "traditional": "工資",
+      "simplified": "工资",
+      "pos": "n."
+    },
+    {
+      "pinyin": "fánshì",
+      "noTones": "fanshi",
+      "english": "all; any",
+      "traditional": "凡是",
+      "simplified": "凡是",
+      "pos": "conj."
+    },
+    {
+      "pinyin": "nénglì",
+      "noTones": "nengli",
+      "english": "ability; capability",
+      "traditional": "能力",
+      "simplified": "能力",
+      "pos": "n."
+    },
+    {
+      "pinyin": "hàipà",
+      "noTones": "haipa",
+      "english": "afraid; scared",
+      "traditional": "害怕",
+      "simplified": "害怕",
+      "pos": "v."
+    },
+    {
+      "pinyin": "tóngqíng",
+      "noTones": "tongqing",
+      "english": "sympathize; show sympathy for",
+      "traditional": "同情",
+      "simplified": "同情",
+      "pos": "v."
+    },
+    {
+      "pinyin": "cánkù",
+      "noTones": "canku",
+      "english": "cruel; brutal",
+      "traditional": "殘酷",
+      "simplified": "残酷",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "dàijià",
+      "noTones": "daijia",
+      "english": "price; cost",
+      "traditional": "代價",
+      "simplified": "代价",
+      "pos": "n."
+    },
+    {
+      "pinyin": "wú jiā kě guī",
+      "noTones": "wu jia ke gui",
+      "english": "be homeless; wander without a home",
+      "traditional": "無家可歸",
+      "simplified": "无家可归",
+      "pos": "idm."
+    },
+    {
+      "pinyin": "huáiyí",
+      "noTones": "huayi",
+      "english": "suspect; doubt",
+      "traditional": "懷疑",
+      "simplified": "怀疑",
+      "pos": "v."
+    },
+    {
+      "pinyin": "gǎigé kāifàng",
+      "noTones": "gaige kaifang",
+      "english": "the economic reform and open-up policy that began in 1979",
+      "traditional": "改革開放",
+      "simplified": "改革开放",
+      "pos": "n."
+    },
+    {
+      "pinyin": "yǒngyuǎn",
+      "noTones": "yongyuan",
+      "english": "forever",
+      "traditional": "永遠",
+      "simplified": "永远",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "dàguōfàn",
+      "noTones": "daguofan",
+      "english": "'big pot rice'—a metaphor for life in China before the reform; equal treatment of enterprises and individuals regardless of performance",
+      "traditional": "大鍋飯",
+      "simplified": "大锅饭",
+      "pos": "phr."
+    },
+    {
+      "pinyin": "xīfàn",
+      "noTones": "xifan",
+      "english": "rice gruel; congee",
+      "traditional": "稀飯",
+      "simplified": "稀饭",
+      "pos": "n."
+    },
+    {
+      "pinyin": "mántou",
+      "noTones": "mantou",
+      "english": "steamed bun",
+      "traditional": "饅頭",
+      "simplified": "馒头",
+      "pos": "n."
+    }
 ]
 }
 ]  
