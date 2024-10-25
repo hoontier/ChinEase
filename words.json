@@ -9283,6 +9283,518 @@
       "simplified": "馒头",
       "pos": "n."
     }
+],
+"ATC Lesson 10 Vocab 1": [
+    {
+      "pinyin": "xiānhuā",
+      "noTones": "xianhua",
+      "english": "fresh flower",
+      "traditional": "鮮花",
+      "simplified": "鲜花",
+      "pos": "n."
+    },
+    {
+      "pinyin": "chā",
+      "noTones": "cha",
+      "english": "insert; stick in",
+      "traditional": "插",
+      "simplified": "插",
+      "pos": "v."
+    },
+    {
+      "pinyin": "niúfèn",
+      "noTones": "niufen",
+      "english": "cow dung",
+      "traditional": "牛糞",
+      "simplified": "牛粪",
+      "pos": "n."
+    },
+    {
+      "pinyin": "xiānhuā chā zài niúfèn shàng",
+      "noTones": "xianhua cha zai niufen shang",
+      "english": "a fresh flower stuck in cow dung",
+      "traditional": "鮮花插在牛糞上",
+      "simplified": "鲜花插在牛粪上",
+      "pos": "phr."
+    },
+    {
+      "pinyin": "lǎofū shàoqī",
+      "noTones": "laofu shaoqi",
+      "english": "old husband and young wife",
+      "traditional": "老夫少妻",
+      "simplified": "老夫少妻",
+      "pos": "n."
+    },
+    {
+      "pinyin": "hūnyīn",
+      "noTones": "hunyin",
+      "english": "marriage",
+      "traditional": "婚姻",
+      "simplified": "婚姻",
+      "pos": "n."
+    },
+    {
+      "pinyin": "pǔbiàn",
+      "noTones": "pubian",
+      "english": "common; prevalent",
+      "traditional": "普遍",
+      "simplified": "普遍",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "gébì",
+      "noTones": "gebi",
+      "english": "next door",
+      "traditional": "隔壁",
+      "simplified": "隔壁",
+      "pos": "n."
+    },
+    {
+      "pinyin": "fūfù",
+      "noTones": "fufu",
+      "english": "husband and wife; couple",
+      "traditional": "夫婦",
+      "simplified": "夫妇",
+      "pos": "n."
+    },
+    {
+      "pinyin": "fùnǚ",
+      "noTones": "funv",
+      "english": "father and daughter",
+      "traditional": "父女",
+      "simplified": "父女",
+      "pos": "n."
+    },
+    {
+      "pinyin": "ma",
+      "noTones": "ma",
+      "english": "(used at the end of a sentence to indicate that sth. is obvious)",
+      "traditional": "嘛",
+      "simplified": "嘛",
+      "pos": "part."
+    },
+    {
+      "pinyin": "niánqīng",
+      "noTones": "nianqing",
+      "english": "young",
+      "traditional": "年輕",
+      "simplified": "年轻",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "xiǎojiě",
+      "noTones": "xiaojie",
+      "english": "young (unmarried) lady",
+      "traditional": "小姐",
+      "simplified": "小姐",
+      "pos": "n."
+    }
+],
+"ATC Lesson 10 Vocab 2": [
+    {
+      "pinyin": "jià",
+      "noTones": "jia",
+      "english": "(of a woman) marry",
+      "traditional": "嫁",
+      "simplified": "嫁",
+      "pos": "v."
+    },
+    {
+      "pinyin": "chǒu",
+      "noTones": "chou",
+      "english": "ugly",
+      "traditional": "醜",
+      "simplified": "丑",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "lǎotóur",
+      "noTones": "laotour",
+      "english": "old man; old chap",
+      "traditional": "老頭兒",
+      "simplified": "老头儿",
+      "pos": "n."
+    },
+    {
+      "pinyin": "shēnghuó",
+      "noTones": "shenghuo",
+      "english": "life; live",
+      "traditional": "生活",
+      "simplified": "生活",
+      "pos": "n./v."
+    },
+    {
+      "pinyin": "xìngfú",
+      "noTones": "xingfu",
+      "english": "happy; fortunate",
+      "traditional": "幸福",
+      "simplified": "幸福",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "niánjì",
+      "noTones": "nianji",
+      "english": "age",
+      "traditional": "年紀",
+      "simplified": "年纪",
+      "pos": "n."
+    },
+    {
+      "pinyin": "xuéwèn",
+      "noTones": "xuewen",
+      "english": "knowledge",
+      "traditional": "學問",
+      "simplified": "学问",
+      "pos": "n."
+    },
+    {
+      "pinyin": "shōurù",
+      "noTones": "shouru",
+      "english": "income; earnings",
+      "traditional": "收入",
+      "simplified": "收入",
+      "pos": "n."
+    },
+    {
+      "pinyin": "qīzi",
+      "noTones": "qizi",
+      "english": "wife",
+      "traditional": "妻子",
+      "simplified": "妻子",
+      "pos": "n."
+    },
+    {
+      "pinyin": "tǐtiē",
+      "noTones": "titie",
+      "english": "show consideration for; give every care to",
+      "traditional": "體貼",
+      "simplified": "体贴",
+      "pos": "v."
+    },
+    {
+      "pinyin": "lǐxiǎng",
+      "noTones": "lixiang",
+      "english": "ideal",
+      "traditional": "理想",
+      "simplified": "理想",
+      "pos": "adj./n."
+    },
+    {
+      "pinyin": "yí duìr",
+      "noTones": "yi duir",
+      "english": "a couple; a pair",
+      "traditional": "一對兒",
+      "simplified": "一对儿",
+      "pos": "n."
+    },
+    {
+      "pinyin": "jiéhūn",
+      "noTones": "jiehun",
+      "english": "get married",
+      "traditional": "結婚",
+      "simplified": "结婚",
+      "pos": "v."
+    },
+    {
+      "pinyin": "wǎngwǎng",
+      "noTones": "wangwang",
+      "english": "more often than not; often; frequently",
+      "traditional": "往往",
+      "simplified": "往往",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "tǐlì",
+      "noTones": "tili",
+      "english": "physical strength",
+      "traditional": "體力",
+      "simplified": "体力",
+      "pos": "n."
+    },
+    {
+      "pinyin": "míngxiǎn",
+      "noTones": "mingxian",
+      "english": "obvious; clear; apparent",
+      "traditional": "明顯",
+      "simplified": "明显",
+      "pos": "adj."
+    }
+],
+"ATC Lesson 10 Vocab 3": [
+    {
+      "pinyin": "chángshí",
+      "noTones": "changshi",
+      "english": "common knowledge",
+      "traditional": "常識",
+      "simplified": "常识",
+      "pos": "n."
+    },
+    {
+      "pinyin": "píngjūn",
+      "noTones": "pingjun",
+      "english": "average",
+      "traditional": "平均",
+      "simplified": "平均",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "shòumìng",
+      "noTones": "shouming",
+      "english": "life span",
+      "traditional": "壽命",
+      "simplified": "寿命",
+      "pos": "n."
+    },
+    {
+      "pinyin": "duǎn",
+      "noTones": "duan",
+      "english": "short (in length, duration, height)",
+      "traditional": "短",
+      "simplified": "短",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "shǒuguǎ",
+      "noTones": "shougua",
+      "english": "remain a widow; live in widowhood",
+      "traditional": "守寡",
+      "simplified": "守寡",
+      "pos": "v."
+    },
+    {
+      "pinyin": "kěnéng",
+      "noTones": "keneng",
+      "english": "possibility; possible",
+      "traditional": "可能",
+      "simplified": "可能",
+      "pos": "n./adj."
+    },
+    {
+      "pinyin": "zhàngfū",
+      "noTones": "zhangfu",
+      "english": "husband",
+      "traditional": "丈夫",
+      "simplified": "丈夫",
+      "pos": "n."
+    },
+    {
+      "pinyin": "qǔ",
+      "noTones": "qu",
+      "english": "(of men) marry; take (a wife)",
+      "traditional": "娶",
+      "simplified": "娶",
+      "pos": "v."
+    },
+    {
+      "pinyin": "fùmǔ",
+      "noTones": "fumu",
+      "english": "parents",
+      "traditional": "父母",
+      "simplified": "父母",
+      "pos": "n."
+    },
+    {
+      "pinyin": "shídài",
+      "noTones": "shidai",
+      "english": "times; age; era",
+      "traditional": "時代",
+      "simplified": "时代",
+      "pos": "n."
+    },
+    {
+      "pinyin": "kànbùqǐ",
+      "noTones": "kanbuqi",
+      "english": "look down upon",
+      "traditional": "看不起",
+      "simplified": "看不起",
+      "pos": "v."
+    },
+    {
+      "pinyin": "huáiyí",
+      "noTones": "huayi",
+      "english": "suspect; doubt",
+      "traditional": "懷疑",
+      "simplified": "怀疑",
+      "pos": "v."
+    },
+    {
+      "pinyin": "àiqíng",
+      "noTones": "aiqing",
+      "english": "romantic love",
+      "traditional": "愛情",
+      "simplified": "爱情",
+      "pos": "n."
+    },
+    {
+      "pinyin": "dìwèi",
+      "noTones": "diwei",
+      "english": "(social) status",
+      "traditional": "地位",
+      "simplified": "地位",
+      "pos": "n."
+    },
+    {
+      "pinyin": "cáifù",
+      "noTones": "caifu",
+      "english": "wealth",
+      "traditional": "財富",
+      "simplified": "财富",
+      "pos": "n."
+    },
+    {
+      "pinyin": "jiàn",
+      "noTones": "jian",
+      "english": "measure word for matters in general",
+      "traditional": "件",
+      "simplified": "件",
+      "pos": "measure word"
+    }
+],
+"ATC Lesson 10 Vocab 4": [
+    {
+      "pinyin": "gèrén",
+      "noTones": "geren",
+      "english": "individual",
+      "traditional": "個人",
+      "simplified": "个人",
+      "pos": "n."
+    },
+    {
+      "pinyin": "qióng",
+      "noTones": "qiong",
+      "english": "(financially) poor",
+      "traditional": "窮",
+      "simplified": "穷",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "yìshí",
+      "noTones": "yishi",
+      "english": "for the moment; temporarily",
+      "traditional": "一時",
+      "simplified": "一时",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "lìzi",
+      "noTones": "lizi",
+      "english": "example; case; instance",
+      "traditional": "例子",
+      "simplified": "例子",
+      "pos": "n."
+    },
+    {
+      "pinyin": "niánlíng",
+      "noTones": "nianling",
+      "english": "age",
+      "traditional": "年齡",
+      "simplified": "年龄",
+      "pos": "n."
+    },
+    {
+      "pinyin": "bù yàojǐn",
+      "noTones": "bu yaojin",
+      "english": "it doesn't matter; unimportant",
+      "traditional": "不要緊",
+      "simplified": "不要紧",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "gōngpíng",
+      "noTones": "gongping",
+      "english": "fair; just",
+      "traditional": "公平",
+      "simplified": "公平",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "jíshǐ",
+      "noTones": "jishi",
+      "english": "even; even if; even though",
+      "traditional": "即使",
+      "simplified": "即使",
+      "pos": "conj."
+    },
+    {
+      "pinyin": "xuǎnzé",
+      "noTones": "xuanze",
+      "english": "choice; select; choose",
+      "traditional": "選擇",
+      "simplified": "选择",
+      "pos": "n./v."
+    },
+    {
+      "pinyin": "zàishuō",
+      "noTones": "zaishuo",
+      "english": "what's more; besides",
+      "traditional": "再說",
+      "simplified": "再说",
+      "pos": "conj."
+    },
+    {
+      "pinyin": "jīnqián",
+      "noTones": "jinqian",
+      "english": "money",
+      "traditional": "金錢",
+      "simplified": "金钱",
+      "pos": "n."
+    },
+    {
+      "pinyin": "niánzhǎng",
+      "noTones": "nianzhang",
+      "english": "older",
+      "traditional": "年長",
+      "simplified": "年长",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "xīwàng",
+      "noTones": "xiwang",
+      "english": "hope; wish",
+      "traditional": "希望",
+      "simplified": "希望",
+      "pos": "v."
+    },
+    {
+      "pinyin": "xiǎnchū",
+      "noTones": "xianchu",
+      "english": "show; reveal",
+      "traditional": "顯出",
+      "simplified": "显出",
+      "pos": "v."
+    },
+    {
+      "pinyin": "quèshí",
+      "noTones": "queshi",
+      "english": "indeed; really",
+      "traditional": "確實",
+      "simplified": "确实",
+      "pos": "adv."
+    },
+    {
+      "pinyin": "kāifàng",
+      "noTones": "kaifang",
+      "english": "open-minded; liberal",
+      "traditional": "開放",
+      "simplified": "开放",
+      "pos": "adj."
+    },
+    {
+      "pinyin": "quánlì",
+      "noTones": "quanli",
+      "english": "right",
+      "traditional": "權利",
+      "simplified": "权利",
+      "pos": "n."
+    },
+    {
+      "pinyin": "gānshè",
+      "noTones": "ganshe",
+      "english": "interfere; intervene; meddle",
+      "traditional": "干涉",
+      "simplified": "干涉",
+      "pos": "v."
+    }
 ]
 }
 ]  
